@@ -1,0 +1,666 @@
+﻿12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+NOTA TÉCNICA Nº: 23/2022/DINOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50600.004784/2022-78
+REFERÊNCIA: PESSOAL: SOLICITAÇÃO
+OBJETO: CONSULTA SOBRE DISPENSA DE FOLHA DE PONTO PARA CHEFES DE UL
+I - DOS FATOS
+1. Trata-se de consulta solicitada pela Diretoria de Administração e Finanças - DAF acerca da
+possibilidade de dispensa de ponto eletrônico aos Chefes das Unidades Locais das Superintendências
+Regionais do DNIT (FCPE 101.1). De acordo com o Regimento Interno desta autarquia (10424621),
+aprovado pela Resolução nº 39, de 17 de novembro de 2020, publicado no DOU de 19 de novembro de
+2020, em seu art. 172, as Unidades Locais são subordinadas aos Superintendentes Regionais e compete-
+lhes:
+
+I - manter vinculação técnica com as Coordenações de Engenharia Terrestre, com as
+Coordenações de Engenharia Aquaviária e com as Coordenações de Engenharia para
+atividades técnicas referentes a infraestrutura de transportes;
+II - monitorar as condições físicas e de operação das vias;
+III - fiscalizar a execução das atividades vinculadas à infraestrutura de transportes;
+IV - acompanhar o levantamento de elementos de campo para elaboração de projetos;
+V - fiscalizar o cumprimento dos contratos de utilização da faixa de domínio e
+concessões de acessos às vias;
+VI - monitorar a situação dos pavimentos, obras de arte especiais, obras de arte
+correntes, hidrovias, vias navegáveis, instalações portuárias, eclusas, barragens, guias
+correntes, entre outras estruturas, além da sinalização rodoviária e aquaviária;
+VII - executar as atividades relativas às áreas de engenharia e operação com vistas à
+fluidez do trânsito;
+VIII - preparar diagnóstico e prognóstico de situação física e operacional da via e
+elaborar planos de ações emergenciais;
+IX - zelar pela preservação e conservação das instalações e equipamentos de operação;
+X - fiscalizar contratos, convênios e instrumentos congêneres relativos a obras e
+serviços na área de sua competência, bem como exercer o controle de qualidade, de
+cronogramas físico-financeiros e outras avaliações específicas;
+XI - manter a organização, a manutenção e a atualização de arquivos e cadastros específicos
+dos assuntos afetos à Unidade Local;
+XII - executar a administração dos recursos humanos, financeiros e patrimoniais;
+XIII - zelar pela manutenção da integridade das faixas de domínio e áreas não
+edificantes da infraestrutura de transportes sob responsabilidade da Unidade Local;
+XIV - elaborar os Planos Anuais de Trabalho e Orçamento - PATO - nas vias de
+competência da Unidade Local;
+XV - vistoriar, elaborar relatório e monitorar as situações de emergência que
+porventura ocorram nas vias sob responsabilidade da Unidade Local; [grifos nossos]
+XVI - realizar o atendimento ao cidadão relativo à infraestrutura de transportes; e
+XVII - realizar outras atividades compatíveis com a sua área de competência ou que lhe
+sejam determinadas pela chefia imediata.
+
+2. A solicitação da DAF dá-se em conformidade com a realidade das atividades dos chefes das
+Unidades Locais - ULs, que, como se pode ver dentre as atribuições em negrito, perpassam pela realização
+majoritariamente de trabalhos externos às sedes das ULs, o que dificultaria, sobremaneira, a rigidez de
+controles de ponto eletrônicos, mais condizentes com servidores que realizam trabalhos internos e
+rotineiros.
+3. É o relato do essencial.
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 1/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+II - DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+4. Com relação à jornada de trabalho dos servidores públicos federais, a Lei nº 8.112, de 11 de
+dezembro de 1990, estabelece:
+
+ Art. 19.  Os servidores cumprirão jornada de trabalho fixada em razão das atribuições pertinentes aos
+respectivos cargos, respeitada a duração máxima do trabalho semanal de quarenta horas e observados os
+limites mínimo e máximo de seis horas e oito horas diárias, respectivamente.               (Redação dada pela Lei
+nº 8.270, de 17.12.91)
+        § 1o  O ocupante de cargo em comissão ou função de confiança submete-se a regime de integral
+dedicação ao serviço, observado o disposto no art. 120, podendo ser convocado sempre que houver interesse
+da Administração.               (Redação dada pela Lei nº 9.527, de 10.12.97)
+        § 2o  O disposto neste artigo não se aplica a duração de trabalho estabelecida em leis
+especiais.               (Incluído pela Lei nº 8.270, de 17.12.91)
+
+5. O Decreto nº 1.590, de 10 de agosto de 1995 (10424625), regulamentou o artigo
+supracitado, dispondo sobre sobre a jornada de trabalho dos servidores da Administração Pública Federal
+direta, das autarquias e das fundações públicas federais:
+
+Art. 1º A jornada de trabalho dos servidores da Administração Pública Federal direta, das
+autarquias e das fundações públicas federais, será de oito horas diárias e:
+I - carga horária de quarenta horas semanais, exceto nos casos previstos em lei específica,
+para os ocupantes de cargos de provimento efetivo;
+II - regime de dedicação integral, quando se tratar de servidores ocupantes de cargos em
+comissão ou função de direção, chefia e assessoramento superiores, cargos de direção,
+função gratificada e gratificação de representação.
+Parágrafo único. Sem prejuízo da jornada a que se encontram sujeitos, os servidores
+referidos no inciso II poderão, ainda, ser convocados sempre que presente interesse ou
+necessidade de serviço.
+Art. 2º Para os serviços que exigirem atividades contínuas de 24 horas, é facultada a adoção
+do regime de turno ininterrupto de revezamento.
+(...)
+Art. 6º O controle de assiduidade e pontualidade poderá ser exercido mediante:
+I - controle mecânicos;
+II - controle eletrônico;
+III - folha de ponto.
+§ 1º Nos casos em que o controle seja feito por intermédio de assinatura em folha de ponto,
+esta deverá ser distribuída e recolhida diariamente pelo chefe imediato, após confirmados os
+registros de presença, horários de entrada e saída, bem como as ocorrências de que trata o
+art. 7º.         (Vide Decreto nº 1.867, de 1996)
+§ 2º Na folha de ponto de cada servidor, deverá constar a jornada de trabalho a que o
+mesmo estiver sujeito.         (Vide Decreto nº 1.867, de 1996)
+§ 3º As chefias imediatas dos servidores beneficiados pelo art. 98 da Lei nº 8.112, de 11 de
+dezembro de 1990, deverão compatibilizar o disposto naquele artigo com as normas
+relativas às jornadas de trabalho regulamentadas por este Decreto.
+§ 4º Os servidores, cujas atividades sejam executadas fora da sede do órgão ou
+entidade em que tenha exercício e em condições materiais que impeçam o registro
+diário de ponto, preencherão boletim semanal em que se comprove a respectiva
+assiduidade e efetiva prestação de serviço.         (Vide Decreto nº 1.867, de 1996)
+§ 5º O desempenho das atividades afetas aos servidores de que trata o parágrafo
+anterior será controlado pelas respectivas chefias imediatas.
+§ 6º  Em situações especiais em que os resultados possam ser efetivamente mensuráveis, o
+Ministro de Estado ou o Presidente do Banco Central do Brasil, no âmbito de suas
+competências, poderá autorizar a unidade administrativa a realizar programa de gestão,
+cujos teor e acompanhamento trimestral serão publicados no Diário Oficial da União,
+hipótese em que os servidores envolvidos ficarão dispensados do controle de
+assiduidade.          (Redação dada pelo Decreto nº 10.789, de 2021)
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 2/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+§ 7º São dispensados do controle de freqüência os ocupantes de cargos:         (Redação
+dada pelo Decreto nº 1.867, de 1996)
+        a) de Natureza Especial;          (Redação dada pelo Decreto nº 1.867, de 1996)
+        b) do Grupo-Direção e Assessoramento Superiores - DAS, iguais ou superiores ao
+nível 4;         (Redação dada pelo Decreto nº 1.867, de 1996)
+        c) de Direção - CD, hierarquicamente iguais ou superiores a DAS 4 ou CD -
+3;         (Redação dada pelo Decreto nº 1.867, de 1996)
+        d) de Pesquisador e Tecnologista do Plano de Carreira para a área de Ciência e
+Tecnologia;         (Incluído pelo Decreto nº 1.867, de 1996)
+        e) de Professor da Carreira de Magistério Superior do Plano Único de
+Classificação e Retribuição de Cargos e Empregos.         (Incluído pelo Decreto nº
+1.867, de 1996) [grifos nossos]
+        § 8° No interesse do serviço, o dirigente máximo do órgão ou entidade poderá manter
+o controle de freqüência dos ocupantes de cargo de Pesquisador e Tecnologista do Plano de
+Carreira para a área de Ciência e Tecnologia, de que trata a alínea d do parágrafo anterior,
+conforme as características das atividades de cada entidade.         (Incluído pelo Decreto nº
+1.927, de 1996)
+
+6. Já o Decreto nº 1.867, de 17 de abril de 1996 (10424626) alterou o art. 7º do decreto
+anterior (citado já com o texto atualizado) e, ainda, dispôs sobre instrumento de registro de assiduidade e
+pontualidade dos servidores públicos federais da Administração Pública Federal direta, autárquica e
+fundacional:
+
+Art. 1° O registro de assiduidade e pontualidade dos servidores públicos federais da
+Administração Pública Federal direta, autárquica e fundacional será realizado mediante
+controle eletrônico de ponto.
+        § 1º O controle eletrônico de ponto deverá ser implantado, de forma gradativa, tendo
+início nos órgãos e entidades localizados no Distrito Federal e nas capitais, cuja
+implantação deverá estar concluída no prazo máximo de seis meses, a contar da publicação
+deste Decreto.
+        Art. 2º O controle de assiduidade do servidor estudante far-se-á mediante folha de
+ponto e os horários de entrada e saída não estão, obrigatoriamente, sujeitos ao horário de
+funcionamento do órgão ou entidade, a que se refere o art. 5° do Decreto n° 1.590, de 10 de
+agosto de 1995.
+        Art. 3° Ficam dispensados do controle de ponto os servidores referidos no § 4º do
+art. 6º do Decreto nº 1.590, de 1995, que terão o seu desempenho avaliado pelas chefias
+imediatas. [grifo nosso]
+
+7. Ora, cabe aqui analisar três artigos conjuntamente, de ambos os decretos respectivamente:
+Decreto nº 1.590/95
+Art. 6º O controle de assiduidade e pontualidade poderá ser exercido mediante:
+I - controle mecânicos;
+II - controle eletrônico;
+III - folha de ponto.
+(...)
+§ 4º Os servidores, cujas atividades sejam executadas fora da sede do órgão ou
+entidade em que tenha exercício e em condições materiais que impeçam o registro
+diário de ponto, preencherão boletim semanal em que se comprove a respectiva
+assiduidade e efetiva prestação de serviço.         (Vide Decreto nº 1.867, de 1996)
+§ 5º O desempenho das atividades afetas aos servidores de que trata o parágrafo
+anterior será controlado pelas respectivas chefias imediatas.
+(...)
+ 
+§ 7º São dispensados do controle de freqüência os ocupantes de cargos:         (Redação
+dada pelo Decreto nº 1.867, de 1996)
+        a) de Natureza Especial;          (Redação dada pelo Decreto nº 1.867, de 1996)
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 3/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+        b) do Grupo-Direção e Assessoramento Superiores - DAS, iguais ou superiores ao
+nível 4;         (Redação dada pelo Decreto nº 1.867, de 1996)
+        c) de Direção - CD, hierarquicamente iguais ou superiores a DAS 4 ou CD -
+3;         (Redação dada pelo Decreto nº 1.867, de 1996)
+        d) de Pesquisador e Tecnologista do Plano de Carreira para a área de Ciência e
+Tecnologia;         (Incluído pelo Decreto nº 1.867, de 1996)
+        e) de Professor da Carreira de Magistério Superior do Plano Único de
+Classificação e Retribuição de Cargos e Empregos.         (Incluído pelo Decreto nº
+1.867, de 1996) [grifos nossos]
+(...)
+Decreto nº 1.867/96
+Art. 3° Ficam dispensados do controle de ponto os servidores referidos no § 4º do art.
+6º do Decreto nº 1.590, de 1995, que terão o seu desempenho avaliado pelas chefias
+imediatas. [grifo nosso]
+
+8. Embora o art. 7º do Decreto nº 1.590/95 estabeleça um rol taxativo dos servidores
+dispensados do controle de frequência, mais uma exceção pode ser encontrada na combinação do art. 6º, §
+4º desse mesmo decreto e do art. 3º do Decreto nº 1.867/96, os quais se aplicam a servidores que executam
+suas atividades fora da sede do órgão de exercício e em condições materiais impeditivas do registro diário
+de ponto. Nesse caso, em análise crua do texto desses dispositivos, os Chefes de Unidades Locais do
+DNIT poderiam ficar dispensados do registro de ponto. 
+9. O problema agora seria definir se o caso dos Chefes das Unidades Locais das
+Superintendências (FCPE 101.1) aplica-se nessa excepcionalidade. Retornando ao início dessa nota
+técnica, verifica-se que, das dezessete atribuições regimentais dos chefes de ULs, pelo menos onze
+(marcadas em negrito) estão relacionadas à necessidade de trabalho externo, que significa visitas
+frequentes a trechos rodoviários, ferroviários, hidrovias etc. Contudo, é um assunto nebuloso e a dispensa
+da folha de ponto no âmbito da Administração Pública Federal é sempre excepcional. Assim, continua-se a
+análise da questão.
+10. A Secretaria de Gestão de Pessoas do antigo Ministério do Planejamento, Desenvolvimento
+e Gestão, a fim de regulamentar o art. 19, da Lei nº 8.112/90 e os decretos supracitados, expediu a
+Instrução Normativa nº 2, de 12 de setembro de 2018 (10424627), cujos principais trechos seguem abaixo:
+
+Das regras gerais da jornada de trabalho
+Art. 2º A jornada de trabalho dos servidores públicos em exercício na Administração
+Pública Federal direta, autárquica e fundacional será de no mínimo 6 (seis) e de no máximo
+8 (oito) horas diárias, até o limite de 40 (quarenta) horas semanais, ressalvadas as jornadas
+previstas em legislação específica.
+Parágrafo único. As viagens a serviço serão consideradas como jornada regular.
+(...)
+Do controle de frequência
+Art. 7º É obrigatório o controle eletrônico de frequência do servidor público em exercício
+na Administração Pública Federal direta, autárquica e fundacional.
+§ 1º O registro de frequência é pessoal e intransferível, devendo ser realizado no início da
+jornada diária, na saída e no retorno do intervalo para as refeições, e ao término da jornada
+diária.
+§ 2º Nos casos de ausência do registro de frequência por esquecimento, problemas técnicos
+no equipamento ou prestação de serviços externos, o servidor público deverá solicitar que
+sua chefia imediata registre o horário não lançado, seguindo os procedimentos fixados pelo
+órgão ou entidade.
+§ 3º É vedada a aplicação de método que permita a marcação com horários uniformes de
+frequência ("registro britânico").
+§ 4º Será admitida tolerância de até 15 (quinze) minutos para o início da jornada de trabalho
+no controle eletrônico de frequência.
+Art. 8º No âmbito da Administração Pública Federal direta, autárquica e fundacional
+somente serão dispensados do controle eletrônico de frequência os ocupantes de cargos de:
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 4/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+I - Natureza Especial;
+II- Grupo-Direção e Assessoramento Superiores - DAS, iguais ou superiores ao nível 4;
+III - Direção - CD, hierarquicamente iguais ou superiores a DAS 4 ou CD - 3;
+IV - Professor da Carreira de Magistério Superior do Plano Único de Classificação e
+Retribuição de Cargos e Empregos; e
+V - Pesquisador e Tecnologista do Plano de Carreira para a área de Ciência e Tecnologia.
+§ 1º No interesse do serviço, o dirigente máximo do órgão ou entidade poderá manter o
+controle eletrônico de frequência dos ocupantes de cargo de Pesquisador e Tecnologista do
+Plano de Carreira para a área de Ciência e Tecnologia, conforme as características das
+atividades de cada entidade.
+§ 2º Ficam também dispensados do controle eletrônico de frequência os servidores
+participantes do programa de gestão, de que trata o § 6º do art. 6º do Decreto nº 1.590, de
+10 de agosto de 1995.
+(...)
+Art. 39. Os órgãos setoriais, seccionais ou correlatos do SIPEC deverão observar as
+determinações contidas na Orientação Normativa SEGEP/MP nº 7, de 17 de outubro de
+2012, quando da realização de consultas ao órgão central do SIPEC, relacionadas à
+orientação e ao esclarecimento de dúvidas concernentes à aplicação desta Instrução
+Normativa.
+
+11. Como se percebe, nessa Instrução Normativa não se encontra a excepcionalidade
+demonstrada no item 8 desta nota técnica, ou seja, a dispensa de registro de ponto aos servidores que
+realizam trabalho externo e se encontram em situação de impossibilidade material desse registro
+substituída por boletins semanais em que se comprove a respectiva assiduidade e efetiva prestação de
+serviço (art. 6º, § 4º do Decreto nº 1.590/95 combinado com o art. 3º do Decreto nº 1.867/96).
+12. Cabe ressaltar, também, que, no âmbito desta Autarquia, há a Instrução Normativa nº
+13/DNIT Sede, de 25 de março de 2020 (10424629), que estabelece critérios e procedimentos específicos
+à jornada de trabalho no Departamento Nacional de Infraestrutura de Transportes:
+
+Art. 3º São deveres do servidor e do empregado público em exercício no DNIT:
+I - observar o cumprimento da jornada de trabalho cadastrada no sistema informatizado;
+II - registrar sua frequência, nos termos dos arts. 2º e 7º da Instrução Normativa nº 2, de 12
+de setembro de 2018, da Secretaria de Gestão de Pessoas do Ministério do Planejamento,
+Desenvolvimento e Gestão-SEGES/MP, e
+III - comunicar eventuais afastamentos à chefia imediata, encaminhando a documentação
+comprobatória ao setor responsável pela homologação.
+§1º Poderá haver desconto financeiro quando os afastamentos a que se refere o inciso III
+não forem homologados no prazo adequado, podendo tais afastamentos serem convertidos
+em falta injustificada.
+§2º Na hipótese de jornada de trabalho igual ou inferior a seis horas diárias, o registro da
+frequência deverá ocorrer apenas na entrada e na saída.
+§ 3º Estão dispensados de registro de frequência, cabendo-lhes apenas informar a
+ocorrência correspondente no sistema informatizado e comunicar eventuais
+afastamentos à chefia imediata:
+I - os ocupantes de cargos de Grupo-Direção e Assessoramento Superiores-DAS, iguais
+ou superiores ao nível 4, nos termos do art. 8º da Instrução Normativa SEGES/MP nº
+2, de 2018; e
+II - os participantes de programa de gestão, nos termos do art. 1º da Instrução
+Normativa SEGES/MP nº 1, de 31 de agosto de 2018.
+Art. 4º São deveres da chefia imediata:
+I - observar o cumprimento da jornada diária dos servidores e dos empregados públicos
+subordinados;
+II - efetuar registros no sistema até o quinto dia útil do mês subsequente,
+independentemente de notificação e da ocorrência de feriado ou ponto facultativo local;
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 5/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+III - tornar sem efeito os registros de períodos trabalhados em desacordo com as disposições
+desta Instrução Normativa;
+IV - validar os períodos trabalhados fora do horário do expediente em caráter excepcional,
+nos termos do parágrafo único do art. 4º da Instrução Normativa SEGES/MP nº 2, de 2018;
+V - registrar os serviços externos configurados como atividade compatível com as
+atribuições do cargo ou função que exijam ausência do local de trabalho; [grifos
+nossos]
+
+13. Assim, também a IN nº 13/2020 DNIT Sede tem um rol pequeno de possibilidades de
+dispensa de ponto, mas possibilita que as chefias imediatas possam registrar os serviços externos de seus
+subordinados na folha de ponto.
+14. Para mostrar como o assunto é espinhoso, citar-se-á decisão constante do Agravo de
+Instrumento nº 5018574-97.2019.4.03.0000 (10424621), cujo relator foi o Desembargador Federal Wilson
+Zauhy, do Tribunal Regional Federal da 3ª Região. O referido agravo foi interposto pela União contra
+servidor agente da Polícia Federal:
+
+“(...) Posto isso, defiro o pedido de tutela provisória de urgência, no sentido de que o autor
+seja desobrigado de se submeter ao registro biométrico de frequência, sem prejuízo da
+apresentação de folha de ponto escrita.
+(...)
+Defende a agravante a legalidade do controle de frequência por meio eletrônico e sua
+aplicação aos agentes da Polícia Federal não ocasiona prejuízo à prestação do serviço por
+eles desempenhado. Afirma que o controle de frequência por meio do ponto eletrônico foi
+implementado em quase todas as unidades da Polícia Federal no país sem notícias de que
+tenha impedido ou atrapalhado a realização de quaisquer diligências ou atividades policiais
+peculiares ao órgão ou reduzido direito dos servidores.
+(...)
+Alega que para o cumprimento de suas atribuições os policiais federais possuem
+regulamentação específica quanto à jornada de trabalho e a respectiva compensação de
+horas extraordinárias e argumenta que a exceção posta no § 4º do artigo 6º do Decreto nº
+1590/95 se destina ao servidor que exerce sua atividade integralmente fora do órgão de
+lotação e não eventualmente, como seria o caso do agravado.
+(...)
+Como se percebe, há expressa previsão legal excetuando do controle eletrônico de
+frequência os servidores cujas atividades sejam executadas fora da sede do órgão ou
+entidade em que tenha exercício, caso em que o respectivo desempenho deve ser controlado
+pelas respectivas chefias imediatas. Note-se que, diversamente do quanto alegado pela
+agravante, o dispositivo legal não traz a exigência de que as atividades sejam
+executadas integralmente fora do órgão de lotação.
+Tenho que a exceção prevista pelo legislador ordinário se mostra aplicável ao caso dos
+autos. Com efeito, o agravado exerce a função de Agente de Polícia Federal, conforme
+documentos Num. 18893700 – Pág. 20/21 do processo de origem, cujas atividades são em
+grande parte exercidas fora do local da sede do órgão em que tem exercício. Deste modo, a
+imposição do controle eletrônico de frequência, como pretende a agravada, além de
+promover restrições incompatíveis a atividade profissional, atenta contra a própria
+eficiência do serviço público.
+Em casos assemelhados ao posto nos autos, assim decidiu esta E. Corte Regional:
+
+“APELAÇÃO CIVIL – SERVIDOR PÚBLICO FEDERAL – AGENTE DE
+POLÍCIA FEDERAL – CONTROLE DE PONTO PELO SISTEMA BIOMÉTRICO
+– INCOMPATIBILIDADE COM O EXERCÍCIO DO CARGO DE POLICIAL
+FEDERAL – APELAÇÃO DESPROVIDA. I – Ao Poder Judiciário, de regra, só
+cabe o controle da legalidade do ato administrativo, não podendo interferir nos
+critérios de discricionariedade (conveniência e oportunidade), salvo hipóteses
+excepcionais, como em casos de manifesto desvio de finalidade ou abuso de poder e
+violação ao princípio da razoabilidade / proporcionalidade. II – Sob o aspecto da
+legalidade a Portaria 1.253/2010-DG/DPF está amparada pelo Decreto nº 1.590/95,
+que em seu artigo 6º, inciso II possibilita à administração pública o controle de
+assiduidade e pontualidade por meio do controle eletrônico. III – Entretanto, o
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 6/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+mesmo artigo 6º do Decreto nº 1.590/95 determina excepcionalidade com relação aos
+servidores cujo cumprimento do serviço é externo, que é o caso do autor, cuja
+atividade desempenhada junto à Polícia Federal exige o cumprimento de serviço
+externo. IV – Conquanto o ato administrativo não tenha violado a regra insculpida na
+norma quando instituiu o controle de frequência eletrônico, criou um dever para o
+autor que a norma não impôs. Ao contrário, a norma coloca a situação dos policiais
+sob a forma de exceção, prevendo o cumprimento da atividade externa como é a dos
+policiais federais. V – Há de se ponderar que os agentes e escrivães da Polícia
+Federal desenvolvem suas atividades policiais tanto na sede do órgão a que
+estão vinculados como fora dele, devendo a eles ser aplicado o disposto no artigo
+3º do Decreto nº 1.867/96, que prevê a dispensa de controle de ponto dos
+servidores cujas atividades sejam executadas fora da sede do órgão ou entidade
+em que tenha exercício, comprovando-se de outra forma a assiduidade e a
+prestação de serviço. VI – A instituição de controle eletrônico de ponto para
+policiais federais que, por óbvio, desempenham atividades externas inerentes a
+sua profissão (diligências externas a fim de apurar cometimento de infrações
+penais, escoltas de presos, cumprimento a mandados judiciais de prisões, etc)
+promove restrições indevidas e incompatíveis com a sua atividade profissional.
+
+(...)
+O Decreto nº 1.590/95 que dispõe sobre a jornada de trabalho dos servidores da
+Administração Pública Federal direta, autarquias e fundações públicas federais dispõe em
+seu artigo 6º o seguinte: ‘’Art. 6º O controle de assiduidade e pontualidade poderá ser
+exercido mediante: I – controle mecânicos; II – controle eletrônico; III – folha de ponto. (...)
+§ 4º Os servidores, cujas atividades sejam executadas fora da sede do órgão ou entidade em
+que tenha exercício e em condições materiais que impeçam o registro diário de ponto,
+preencherão boletim semanal em que se comprove a respectiva assiduidade e efetiva
+prestação de serviço. § 5º O desempenho das atividades afetas aos servidores de que trata o
+parágrafo anterior será controlado pelas respectivas chefias imediatas.’’ Tenho que a
+exceção prevista pelo legislador ordinário se mostra aplicável ao caso dos autos. Com
+efeito, o agravado exerce a função de Agente de Polícia Federal, conforme documentos
+Num. 18893700 – Pág. 20/21 do processo de origem, cujas atividades são em grande parte
+exercidas fora do local da sede do órgão em que tem exercício. Deste modo, a imposição do
+controle eletrônico de frequência, como pretende a agravada, além de promover restrições
+incompatíveis a atividade profissional, atenta contra a própria eficiência do serviço público.
+
+15. Dessa forma, a alegação da União ao interpor o agravo de instrumento é que a exceção do §
+4º do artigo 6º do Decreto nº 1590/95 só se relacionaria a servidores que executassem a integralidade de
+suas atividades fora da repartição e não de modo eventual. Por sua vez, o juízo entendeu que a
+excepcionalidade do referido dispositivo é aplicável a agentes da Polícia Federal, por exercer suas
+atividades inerentemente, em grande parte, de forma externa.
+16. A Nota Técnica SEI nº 28499/2020/ME (10424635), da Secretaria de Gestão e
+Desempenho de Pessoal, do Ministério da Economia, Órgão Central do SIPEC, conforme art. 138, II, do
+Decreto nº 9.745, de 08 de abril de 2019, trata da consolidação de entendimento acerca da dispensa de
+controle eletrônico dos Professores da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico -
+EBTT, nos termos da alínea "e" do § 7º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995:
+
+2. Sobre o assunto, a Procuradoria-Geral Federal, por intermédio do Departamento de
+Consultoria, nos autos do processo nº 00407.005796.2013-47, se manifestou mediante
+PARECER Nº 47/2013/DEPCONSU/PGF/AGU (3496606 pág. 4-18), no sentido de que há
+razões jurídicas suficientes para que se dê tratamento equivalente aos docentes EBTT,
+relativamente aos docentes do Magistério Superior, no que tange à dispensa de ponto
+eletrônico. Entretanto, foi sugerido que o tema fosse submetido à apreciação da
+Consultoria-Geral da União, órgão que poderia, se assim entendesse, remeter a questão ao
+conhecimento da então Secretaria de Gestão Pública - SEGEP/MP e, sendo o caso, ao
+Advogado-Geral da União, prevalecendo, todavia, até que sobreviesse a respectiva
+normatização por parte do órgão central do SIPEC, o marco normativo vigente.
+(...)
+4. Considerando-se o conflito de entendimentos entre o contido no Parecer nº
+47/2013/DEPCONS/PGF/AGU e o que foi expressado na Instrução Normativa nº 2, de
+2018, do extinto Ministério do Planejamento, Desenvolvimento e Gestão, bem como que o
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 7/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+tema voltou a ser levantado pela Procuradoria Federal junto ao Instituto Federal de
+Educação, Ciência e Tecnologia do Espírito Santo - PF/IFES/ESPS, mediante PARECER
+AGU/PGF/PF-IFES/ESPS nº 344/2018, de 19 de outubro de 2018 (3496606 pág. 20-35), o
+DEPCONSU/PGF/AGU propôs a renovação da remessa do feito à Consultoria-Geral da
+União com vistas à uniformização da matéria. No entanto, antes da emissão de
+pronunciamento conclusivo, a CGU/AGU entendeu pertinente, contudo, solicitar subsídios
+ao órgão central do Sipec.
+(...)
+8. Dito isto, informa-se que este Órgão Central do Sipec exarou a Instrução Normativa
+SGP/MP n 02, de 12 de setembro de 2018, que estabelece orientação, critérios e
+procedimentos gerais a serem observados pelos órgãos e entidades integrantes do Sistema
+de Pessoal Civil da Administração Federal - Sipec, quanto à jornada de trabalho de que trata
+o art. 19 da Lei nº 8.112, de 11 de dezembro de 1990, regulamentado pelo Decreto nº 1.590,
+de 10 de agosto de 1995, e pelo Decreto nº 1.867, de 17 de abril de 1996, que dispõem
+sobre o controle de frequência, a compatibilidade de horários na acumulação remunerada de
+cargos, empregos e funções, aplicáveis aos servidores públicos, em exercício nos órgãos e
+entidades integrantes da Administração Pública Federal direta, autárquica e fundacional.
+Especificamente, em observância às disposições expressas no § 7º do art. 6º do Decreto nº
+1.590, de 1995, sobre a dispensa de controle de frequência a referida IN assim dispôs:
+
+Art. 8º No âmbito da Administração Pública Federal direta, autárquica e fundacional
+somente serão dispensados do controle eletrônico de frequência os ocupantes de
+cargos de:
+I - Natureza Especial;
+II- Grupo-Direção e Assessoramento Superiores - DAS, iguais ou superiores ao nível
+4, ou equivalentes;
+III - Professor do Magistério Superior da Carreira de Magistério Superior, de que
+trata a Lei nº 12.772, de 28 de dezembro de 2012; e
+IV - Pesquisador e Tecnologista do Plano de Carreira para a área de Ciência e
+Tecnologia.
+§ 1º No interesse do serviço, o dirigente máximo do órgão ou entidade poderá manter
+o controle eletrônico de frequência dos ocupantes de cargo de Pesquisador e
+Tecnologista do Plano de Carreira para a área de Ciência e Tecnologia, conforme as
+características das atividades de cada entidade.
+§ 2º Ficam também dispensados do controle eletrônico de frequência os servidores
+participantes do programa de gestão, de que trata o § 6º do art. 6º do Decreto nº
+1.590, de 10 de agosto de 1995.
+
+9. Da leitura do dispositivo precitado, verifica-se que o regulamento elencou de forma
+taxativa os ocupantes de cargos da Administração Pública federal direta, autárquica e
+fundacional que estão dispensados do controle de frequência, uma vez que o controle do
+cumprimento efetivo da carga horária dos servidores públicos é norma de observância
+obrigatória, cabendo à Administração Pública promover os métodos eficazes para o
+controle de frequência dos seus servidores, com vistas à adequada prestação dos serviços
+públicos.
+(...)
+20. Pelo exposto, em consonância com o Parecer n° 00117/2019/DECOR/CGU/AGU, do
+Departamento de Coordenação e Orientação de Órgãos Jurídicos da Consultoria-Geral da
+União, e considerando que a dispensa de controle de frequência é medida excepcional a ser
+adotada pela Administração Pública, e em observância ao disposto a alínea "e" do § 7º do
+art. 6º do Decreto nº 1.590, de 1995, com a redação conferida pelo Decreto nº 1.867, de
+1996, assegura a dispensa do controle de frequência para os ocupantes dos cargos de
+"Professor da Carreira de Magistério Superior do Plano Único de Classificação e
+Retribuição de Cargos e Empregos ", não se aplicando referenciada disposição
+regulamentar aos integrantes da Carreira de Magistério do Ensino Básico, Técnico e
+Tecnológico - EBTT.
+
+17. Cita-se, ainda, Parecer Vinculante AGU GQ nº 24 (10424631):
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 8/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+10. A sujeição dos advogados servidores públicos federais à carga horária, por força de lei,
+não imprime convicção de que estejam compelidos a cumpri-la exclusivamente no recinto
+da repartição. É consentâneo com o princípio da independência profissional entender-se
+compreendido no período de trabalho o afastamento da repartição para a realização de
+pesquisas, que se reputam como de serviços externos, com o que se garante o exercício da
+profissão de forma a proporcionar o resultado visado com a execução do trabalho. A
+positividade da disciplina específica dos servidores públicos, na condição de advogados,
+não lhes tolhe a isenção técnica ou independência da atuação profissional.
+
+18. O que se vê, portanto, é que a questão de dispensa de ponto constante do Decreto nº
+1.590/95 não é ponto pacífico e parece depender da análise caso a caso da especificidade das carreiras ou
+cargos a que se deseja aplicar. Por essa razão, sugere-se encaminhamento desta Nota Técnica ao Órgão
+Setorial do SIPEC junto ao Ministério da Infraestrutura, conforme Orientação Normativa SEGEP/MP nº
+7/2012, questionando se há possibilidade de aplicação do art. 6º, § 4º do Decreto nº 1.590/95 combinado
+com o art. 3º do Decreto nº 1.867/96 para fins de dispensa de ponto dos cargos de Chefes das Unidades
+Locais das Superintendências Regionais do DNIT (FCPE 101.1), tendo em vista suas atribuições,
+constantes do art. 172 do Regimento Interno desta autarquia (10424621), aprovado pela Resolução nº 39,
+de 17 de novembro de 2020, publicado no DOU de 19 de novembro de 2020 e como isso se
+operacionalizaria.
+19. Não obstante, enquanto não houver resposta do Órgão Setorial do SIPEC e, porventura, do
+Órgão Central do SIPEC, sugere-se, para atividades externas, no caso dos Chefes das Unidades Locais das
+Superintendências Regionais do DNIT, a utilização do código referente a Serviço Externo (22222), no
+recém implantado Sistema de Registro Eletrônico de Frequência - SISREF, a ser incluído pelas chefias
+imediatas desses servidores, ou seja, os Superintendentes Regionais, conforme art. 4º, V, da IN nº 13/2020
+DNIT Sede.
+III - CONCLUSÃO
+20. Após a análise presente nessa nota técnica, sugere-se dois encaminhamentos possíveis,
+constantes nos seus itens 18 e 19:
+
+a) Envio dessa nota técnica ao Órgão Setorial do SIPEC junto ao Ministério da
+Infraestrutura, conforme Orientação Normativa SEGEP/MP nº 7/2012, questionando se
+há possibilidade de aplicação do art. 6º, § 4º do Decreto nº 1.59./95 combinado com
+o art. 3º do Decreto nº 1.867/96 para fins de dispensa de ponto dos cargos de Chefes das
+Unidades Locais das Superintendências Regionais do DNIT (FCPE 101.1), tendo em
+vista suas atribuições, constantes do art. 172 do Regimento Interno desta autarquia
+(10424621), aprovado pela Resolução nº 39, de 17 de novembro de 2020, publicado no
+D.O.U. de 19 de novembro de 2020 e como isso se operacionalizaria. 
+b) Enquanto não houver resposta do Órgão Setorial do SIPEC e, porventura, do Órgão
+Central do SIPEC, pode se utilizado para atividades externas, no caso dos Chefes das
+Unidades Locais das Superintendências Regionais do DNIT, o código referente a Serviço
+Externo (22222), no recém implantado Sistema de Registro Eletrônico de Frequência -
+SISREF, a ser incluído pelas chefias imediatas desses servidores, ou seja, os
+Superintendentes Regionais, conforme art. 4º, V, da IN nº 13/2020 DNIT Sede.
+
+IV - DÚVIDA A SER DIRIMIDA PELO ÓRGÃO CENTRAL DO SIPEC
+a) Há possibilidade de aplicação do art. 6º, § 4º do Decreto nº 1.590/95 combinado com o
+
+art. 3º do Decreto nº 1.867/96 para fins de dispensa de ponto dos cargos de Chefes das Unidades Locais
+das Superintendências Regionais do DNIT (FCPE 101.1), tendo em vista suas atribuições, constantes do
+art. 172 do Regimento Interno desta autarquia, aprovado pela Resolução nº 39, de 17 de novembro de
+2020, publicado no DOU de 19 de novembro de 2020?
+
+b) Em caso de resposta afirmativa ao item "a", como isso se operacionalizaria?
+ 
+ 
+ 
+
+assinado eletronicamente
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_sistem… 9/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+LUIZA LOUZADA HUGUENEY LACAVA
+Técnico Administrativo
+
+ 
+ 
+
+Ciente. De acordo. Encaminhem-se os autos para análise do Coordenador de Legislação e
+Gestão Estratégica de Pessoas.
+
+ 
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JÚNIOR
+
+Chefe da Divisão de Orientação de Normas de Pessoal
+
+ 
+
+ 
+
+Ciente. De acordo. Encaminhem-se os autos para análise do Coordenador-Geral de Gestão
+de Pessoas.
+
+ 
+
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+
+ 
+
+ 
+
+Aprovo a nota técnica acima em todos os seus termos. Encaminhem-se os autos à Diretoria
+de Administração e Finanças, incluindo a MINUTA DE OFÍCIO Nº 10457693/2022/DINOR/COLEG -
+CGGP/CGGP/DAF/DNIT SEDE (10457693), a fim de que seja enviado ao Órgão Setorial do SIPEC junto
+ao Ministério da Infraestrutura para questionamento acerca da possibilidade de aplicação do art. 6º, § 4º do
+Decreto nº 1.590/95 combinado com o art. 3º do Decreto nº 1.867/96 para fins de dispensa de ponto dos
+cargos de Chefes das Unidades Locais das Superintendências Regionais do DNIT, tendo em vista suas
+atribuições, constantes do art. 172 do Regimento Interno desta autarquia e como isso se operacionalizaria.
+
+ 
+
+ 
+
+assinado eletronicamente
+NEURY LOPES DE OLIVEIRA
+
+Coordenador-Geral de Gestão de Pessoas
+ 
+
+ 
+Brasília/DF, 07 de fevereiro de 2022.
+
+Documento assinado eletronicamente por Luiza Louzada Hugueney Lacava, Técnico Administra vo,
+em 07/02/2022, às 16:13, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_siste… 10/11
+
+
+
+12/04/2022 15:34 SEI/DNIT - 10459961 - Nota Técnica
+
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Divisão de
+Orientação de Normas de Pessoal, em 07/02/2022, às 16:26, conforme horário oficial de Brasília,
+com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador de Legislação e
+Gestão Estratégica de Pessoas, em 07/02/2022, às 16:32, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Neury Lopes de Oliveira, Coordenador-Geral de Gestão
+de Pessoas, em 10/02/2022, às 08:50, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 10459961
+e o código CRC 22DE0C2B.
+
+Referência: Processo nº 50600.004784/2022-78 SEI nº 10459961
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=11172839&infra_siste… 11/11

@@ -1,0 +1,454 @@
+﻿NOTA TÉCNICA Nº: 105/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50600.031820/2021-95
+REFERÊNCIA: GESTÃO E CONTROLE: COORDENAÇÃO - DEMANDAS INTERNAS
+
+I - DOS FATOS
+1. Trata o presente de solicitação de permissão para teletrabalho, com residência no
+exterior,  apresentada  pelo servidor                                                 ,  matrículas  SIAPE  nº
+e DNIT nº             , que atualmente exerce suas atividades no PGD na modalidade presencial na
+Divisão de Telecomunicações/COINF/DAF.
+2. O servidor informou que a presente solicitação para o teletrabalho no exterior visa o
+afastamento para estudo no exterior previsto no art. 95 da Lei nº 8.112, de 1990, quando a
+participação no curso puder ocorrer simultaneamente com o exercício do cargo. ainda que o retorno
+da licença esteja previsto para o dia 15 de maio do presente ano, manifestando sua intenção de voltar
+a desempenhar suas atividades, a partir do exterior, no regime de  Programa de Gestão de
+Desempenho, imediatamente após esta data, conforme consta no Despacho (DNIT) UL - Brasília -
+DF (14155166). Como justificativa para o exercício do teletrabalho no exterior, entende que há o
+interesse da Administração Pública diante da implantação do Projeto de Transformação Digital nos
+Órgãos Federais que o governo vem desenvolvendo nos últimos anos, e que a escassez de servidores
+qualificados para atuar nesta área vem dificultando a implementação dos projetos, e ressalta que
+nesta Autarquia a situação não é diferente. Salientou que a manutenção das infraestruturas de
+tecnologias já implantadas carece de profissionais das áreas de tecnologias nas nuvens, fato
+comprovado no site do Governo Federal, SouGov (https://sougov.economia.gov.br/sougov/), no qual
+verifica-se a excessiva quantidade de oportunidades publicadas diariamente na área de tecnologia da
+informação - TI.
+3. Sobre o curso a ser realizado, o solicitante destacou que "estudar Cloud Infrastructure
+and Administration (O anexo SEI Nº 14119147 tem mais informações do Aceito do Servidor no
+Curso), além de contribuir com a minha área de atuação, telecomunicações/radiodifusão, permitirá
+colaborar com o Governo Federal, neste caso o DNIT, na Transformação Digital, permitindo atuar
+diretamente na área de TI. Assim, o curso Cloud Infrastructure and Administration no Canada
+apresenta um conteúdo extenso, abrangente e atual, proporcionando forte conhecimento técnico
+sobre: Networking, Operating System, Cloud Administration, Security, Routing and Switching, Server
+on the Network, Server on the Cloud, Wireless Networking, Python, Cloud Infrastructure, Network
+Scripting for Administrators, Infrastructure Security, ITIL Foundations, etc."
+4. Conforme Ofício nº 54126/2023/SETEL/COINF/CGTI/DAF (14118435), o
+Coordenador de Infraestrutura de Tecnologia da Informação e Comunicações, chefe imediato do
+servidor, e o Coordenador-Geral de Tecnologia da Informação afirmam estarem de acordo com a
+proposta de mudança de modalidade do PGD do solicitante e submetem o pedido à autorização da
+Diretora de Administração e Finanças.
+5. Desse modo, a Diretoria de Administração e Finanças encaminhou o presente processo
+à esta Coordenação-Geral, por meio do Despacho (DNIT) SAA - DAF (14159521),
+solicitando providências quanto à solicitação de mudança de modalidade do Programa de Gestão e
+Desempenho - PGD apresentada pelo referido servidor.
+6. É o relato do essencial. Passa-se à análise.
+II - DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL 
+7. A Portaria nº 1.383, de 14 de março de 2023, alterou a Portaria nº 4.194, de 20 de
+julho de 2022, retirando a vedação de que participantes do PGD, na modalidade teletrabalho, não
+poderiam residir no exterior:
+
+
+
+Das vedações
+ Art. 5º É vedada:
+I - a residência do participante no exterior;  (Revogado pela Portaria nº
+1.383/2023)
+II - a participação de: 
+a) ocupantes de Cargos Comissionados Executivos – CCE do nível 13 ou
+superior; (Revogado pela Portaria nº 1.383/2023)
+b) agentes públicos que estejam desempenhando a função de chefe de serviço das
+Unidades Locais previstas no Regimento Interno do DNIT, aprovado pela Resolução
+nº 39, de 17 de novembro de 2020, do Conselho de Administração do DNIT; 
+c) fiscais técnicos cujas atividades devam ser executadas presencialmente, em
+qualquer modalidade. 
+III - a participação de chefias no tipo cruzado, a não ser em casos especiais,
+desde que os chefes de ambas as unidades envolvidas apresentem justificativa
+fundamentada. (Revogado pela Portaria nº 1.383/2023)
+Parágrafo único. A vedação prévia no inciso III do caput se estende aos casos de
+substituição de cargos vagos ou de nomeação em interinidade. 
+
+8. Ainda de acordo com a Portaria supracitada, a adesão do servidor ao PGD deverá
+atender ao disposto em seus artigos 18 e 19, in verbis: 
+
+Art. 18. A participação do agente público no PGD dependerá de sua prévia
+solicitação, seguida da autorização da chefia imediata e do dirigente da unidade,
+observando-se a legislação pertinente em vigor.
+§ 1º O dirigente da unidade deverá avaliar, dentre outros, os seguintes critérios:
+I - a compatibilidade entre as atividades a serem desempenhadas e as
+competências técnicas do interessado;
+II - a jornada de trabalho do interessado, nos termos do art. 8º do Decreto nº
+11.072, 2022; e
+III - a disponibilidade de estrutura necessária, física e tecnológica pelo
+interessado, no caso da modalidade teletrabalho, nos termos do art. 9º, inciso IV,
+do Decreto nº 11.072, 2022.
+§ 2º O dirigente da unidade motivará a negativa, comunicando ao interessado no
+prazo de 10 (dez) dias úteis a contar da solicitação.
+Art. 19. Caso autorizada a solicitação do agente público, será firmado plano de
+trabalho no sistema informatizado, que conterá no mínimo as informações
+constantes no art. 11 do Decreto nº 11.072, 2022. [grifos nossos]
+§ 1º O plano de trabalho poderá ser ajustado durante sua execução mediante
+repactuação entre o participante e a chefia imediata, sendo passível de redefinição por
+necessidade do serviço, não caracterizando motivo para penalização.
+§ 2º O desligamento do agente público do programa de gestão ficará a cargo do
+dirigente da unidade  aplicando-se o disposto nos arts. 19 e 21 da Instrução Normativa
+SGP/ME nº 65, de 2020.
+§ 3º O participante do PGD comunicará à sua chefia imediata a ocorrência de
+afastamentos, licenças ou outros impedimentos para eventual adequação das metas e
+dos prazos ou possível redistribuição das atividades constantes do seu plano de
+trabalho. 
+
+9. Sobre a adesão do agente público ao PGD, é necessário consignar que, para
+se conceder a autorização para a sua participação, a Chefia imediata e o Dirigente da Unidade do
+servidor deverão observar o disposto no art. 11 do Decreto nº 11.072, de 17 de maio de 2022, além
+da compatibilidade entre as atividades a serem desempenhadas e as competências técnicas do
+interessado, da jornada de trabalho e, nos casos de opção pela modalidade de teletrabalho, deverá
+
+
+
+ainda verificar a disponibilidade de estrutura necessária, física e tecnológica pelo interessado, nos
+termos do art. 9º, inciso IV, do referido Decreto, como se vê abaixo:
+
+Regras especiais para o teletrabalho
+Art. 9º  O teletrabalho:
+I - dependerá de acordo mútuo entre o agente público e a administração, registrado no
+termo de ciência e responsabilidade;
+II - poderá ocorrer em regime de execução integral ou parcial;
+III - ficará condicionado à compatibilidade com as atividades a serem desenvolvidas
+pelo agente público e à ausência de prejuízo para a administração;
+IV - terá a estrutura necessária, física e tecnológica, providenciada e custeada pelo
+agente público; e
+V - exigirá que o agente público permaneça disponível para contato, no período
+definido pela chefia imediata e observado o horário de funcionamento do órgão ou da
+entidade, por todos os meios de comunicação.
+§ 1º  A alteração da modalidade presencial para teletrabalho para os contratados por
+tempo determinado de que trata o inciso IV do § 1º do art. 2º será registrada em
+aditivo contratual, observado o disposto na Lei nº 8.745, de 1993.
+§ 2º  A alteração da modalidade presencial para teletrabalho para os estagiários de que
+trata o inciso V do § 1º do art. 2º ocorrerá por meio da celebração de acordo entre a
+instituição de ensino, a parte concedente, o estagiário e, exceto se este for emancipado
+ou tiver dezoito anos de idade ou mais, o seu representante ou assistente legal.
+§ 3º  A alteração de que trata o § 2º deverá constar do termo de compromisso de
+estágio e ser compatível com as atividades escolares ou acadêmicas exercidas pelo
+estagiário.
+§ 4º  Na hipótese de empregados de empresas públicas ou de sociedades de economia
+mista em exercício na administração pública federal direta, autárquica e fundacional,
+a alteração da modalidade presencial para teletrabalho dependerá de autorização da
+entidade de origem, sem prejuízo dos demais requisitos deste Decreto.
+§ 5º  O disposto no inciso IV do caput constará expressamente do termo de ciência e
+responsabilidade.
+§ 6º  Para fins do disposto no inciso V do caput, o agente público deverá informar e
+manter atualizado número de telefone, fixo ou móvel, de livre divulgação tanto dentro
+do órgão ou da entidade quanto para o público externo que necessitar contatá-lo.
+§ 7º  A opção pelo teletrabalho não poderá implicar aumento de despesa para a
+administração pública federal.
+(...)
+Formalização da adesão ao PGD
+Art. 11.  Para aderir ao PGD, o agente público e a sua chefia imediata firmarão plano
+de trabalho, que conterá, no mínimo, as seguintes informações:
+I - data de início e de término;
+II - atividades a serem executadas pelo participante;
+III - metas e prazos; e
+IV - termo de ciência e responsabilidade.
+Parágrafo único.  O participante do PGD comunicará à sua chefia imediata a
+ocorrência de afastamentos, licenças ou outros impedimentos para eventual
+adequação das metas e dos prazos ou possível redistribuição das atividades constantes
+do seu plano de trabalho.
+
+10. Analisadas as condições necessárias para a concessão de autorização de adesão ao
+PGD, na modalidade teletrabalho, nos termos acima mencionados, caso seja de seu interesse, o
+servidor poderá requerer autorização para teletrabalho no exterior. Entretanto, o agente público
+
+
+
+deverá atender aos requisitos gerais já descritos acima, e somente será admitido nos seguintes casos
+do art. 12 do Decreto nº 11.072/2022:
+
+Teletrabalho no exterior
+Art. 12.  Além dos requisitos gerais para a adesão à modalidade, o teletrabalho
+com o agente público residindo no exterior somente será admitido:
+I - para servidores públicos federais efetivos que tenham concluído o estágio
+probatório;
+II - em regime de execução integral;
+III - no interesse da administração;
+IV - se houver PGD instituído na unidade de exercício do servidor;
+V - com autorização específica da autoridade de que trata o caput do art. 3º, permitida
+a delegação ao nível hierárquico imediatamente inferior e vedada a subdelegação;
+VI - por prazo determinado;
+VII - com manutenção das regras referentes ao pagamento de vantagens,
+remuneratórias ou indenizatórias, como se estivesse em exercício no território
+nacional; e
+VIII - em substituição a:
+a) afastamento para estudo no exterior previsto no art. 95 da Lei nº 8.112, de 11
+dezembro de 1990, quando a participação no curso puder ocorrer simultaneamente
+com o exercício do cargo;
+b) exercício provisório de que trata o § 2º do art. 84 da Lei nº 8.112, de 1990;
+c) acompanhamento de cônjuge afastado nos termos do disposto nos art. 95 e art. 96
+da Lei nº 8.112, de 1990;
+d) remoção de que trata a alínea “b” do inciso III do parágrafo único do art. 36 da Lei
+nº 8.112, de 1990, quando o tratamento médico necessite ser realizado no exterior; ou
+e) licença para acompanhamento de cônjuge que não seja servidor público deslocado
+para trabalho no exterior, nos termos do disposto no caput do art. 84 da Lei nº 8.112,
+de 1990.
+§ 1º  A autorização para teletrabalho no exterior poderá ser revogada por razões
+técnicas ou de conveniência e oportunidade, por meio de decisão fundamentada.
+§ 2º  Na hipótese prevista no § 1º, será concedido prazo de dois meses para o agente
+público retornar às atividades presenciais ou ao teletrabalho a partir do território
+nacional, conforme os termos da revogação da autorização de teletrabalho.
+§ 3º  O prazo estabelecido no § 2º poderá ser reduzido mediante justificativa das
+autoridades a que se refere o art. 4º.
+§ 4º  O participante do PGD manterá a execução das atividades estabelecidas por sua
+chefia imediata até o retorno efetivo à atividade presencial.
+§ 5º  Poderá ser permitida, pelas autoridades de que trata o caput do art. 3º, de forma
+justificada, a realização de teletrabalho no exterior pelos seguintes empregados
+públicos em exercício na administração pública federal direta, autárquica e
+fundacional, enquadrados em situações análogas àquelas referidas no inciso VIII
+do caput deste artigo:
+I - empregados de estatais em exercício na administração pública federal direta,
+autárquica e fundacional com ocupação de cargo em comissão, desde que a entidade
+de origem autorize a prestação de teletrabalho no exterior; ou
+II - empregados que façam parte dos quadros permanentes da administração pública
+federal direta, autárquica e fundacional.
+§ 6º  É de responsabilidade do agente público observar as diferenças de fuso horário
+do país em que pretende residir para fins de atendimento da jornada de trabalho fixada
+pelo órgão ou pela entidade de exercício.
+
+
+
+§ 7º  A autoridade de que trata o caput do art. 3º poderá substituir o requisito previsto
+no inciso VIII do caput por outros critérios.
+§ 8º  O total de agentes públicos abrangidos pela exceção à exigência prevista no
+inciso VIII do caput e no § 7º não poderá ultrapassar dez por cento do quantitativo de
+vagas de que trata o inciso II do caput do art. 4º.
+§ 9º  O prazo de teletrabalho no exterior será de:
+I - na hipótese do § 7º, até três anos, permitida a renovação por período igual ou
+inferior; e
+II - nas hipóteses previstas no inciso VIII do caput, o tempo de duração do fato que o
+justifica.
+§ 10.  Na hipótese prevista na alínea “e” do inciso VIII do caput, caberá ao requerente
+comprovar o vínculo empregatício do cônjuge no exterior.
+
+11. No tocante ao art. 12 do referido decreto, cabe ressaltar que os requisitos constantes
+dos incisos I a VII e VIII (e uma de suas alíneas) devem ser atendidos concomitantemente. O inciso
+VII possui a conjunção "e" no final e depois vem o inciso VIII, sendo que, dessa forma, um dos
+critérios apresentados em suas alíneas também tem que ser atendido.
+12. Desse modo, considerando as atribuições legais desta Coordenação no art. 66 e 67 do
+Regimento Interno desta Autarquia e, em atendimento ao solicitado pela DAF no Despacho / DNIT
+SEDE/DAF/SAA - DAF (14159521), este Setor procederá à análise legal quanto à possibilidade de
+concessão do teletrabalho do referido agente público no exterior, à luz do art. 12 do Decreto nº
+11.072/2022, e da Portaria DNIT nº 4.194/2022, com redação da pela Portaria nº 1.383/2023, que
+tratam do Programa de Gestão e Desempenho na administração pública, federal direta, autárquica
+e fundacional e do PGD no âmbito desta Autarquia, respectivamente. 
+13. Importante ressaltar que este Setor procederá à análise apenas dos requisitos
+específicos constantes no art. 12 do Decreto mencionado acima, de forma a subsidiar a Diretoria
+Geral desta Autarquia quanto à permissão ou não da realização de teletrabalho no exterior
+pelo servidor solicitante, uma vez que se subentende estarem atendidos os requisitos gerais para a
+concessão de adesão ao PGD, na modalidade teletrabalho, previamente analisados pela chefia
+imediata e autorizado pelo dirigente da Unidade, nos termos do art. 11 do Decreto nº 11.072/2022 e
+da Portaria nº 4.1914/2022.
+14. Como dito anteriormente, o art. 12 traz os requisitos específicos a serem atendidos
+pelo servidor para o teletrabalho no exterior, que serão verificados abaixo:
+
+Art. 12.  Além dos requisitos gerais para a adesão à modalidade, o teletrabalho
+com o agente público residindo no exterior somente será admitido:
+I - para servidores públicos federais efetivos que tenham concluído o estágio
+probatório; 
+O solicitante é servidor efetivo vinculado ao Ministério das Comunicações e
+ingressou nesta Autarquia em 01/02/2021, em exercício provisório, conforme
+Relatório do Servidor (14617155). 
+II - em regime de execução integral;
+Somente é possível em regime integral.
+III - no interesse da administração;
+Conforme OFÍCIO Nº 54126/2023/SETEL/COINF/CGTI/DAF/DNIT
+SEDE (14118435),  o Coordenador de Infraestrutura de Tecnologia da Informação e
+Comunicações, chefe imediato do servidor, e o Coordenador-Geral de Tecnologia da
+Informação afirmam estarem de acordo com a proposta de mudança de modalidade do
+PGD do solicitante e submetem o pedido à autorização da Diretora de Administração
+e Finanças. 
+IV - se houver PGD instituído na unidade de exercício do servidor; 
+Já existe o PGD na Sede desta Autarquia.
+
+
+
+V - com autorização específica da autoridade de que trata o caput do art. 3º,
+permitida a delegação ao nível hierárquico imediatamente inferior e vedada a
+subdelegação; 
+Em caso de atendimento aos requisitos específicos do art. 12 do referido Decreto, a
+autoridade máxima do órgão poderá autorizar a realização de teletrabalho no exterior,
+conforme determina o seu art. 3º. 
+VI - por prazo determinado; 
+Nos termos do inciso II do § 9º do art. 12 do Decreto, o prazo de duração será o
+tempo de duração do fato que o justifica, entretanto, no presente caso, o servidor não
+apresentou o período de duração do curso, limitando-se a informar que o teletrabalho
+no exterior iniciaria em julho de 2023.
+VII - com manutenção das regras referentes ao pagamento de vantagens,
+remuneratórias ou indenizatórias, como se estivesse em exercício no território
+nacional; e
+Caso seja autorizado o pleito do servidor, será obedecido esse inciso.
+VIII - em substituição a: 
+a) afastamento para estudo no exterior previsto no art. 95 da Lei nº 8.112, de 11
+dezembro de 1990, quando a participação no curso puder ocorrer
+simultaneamente com o exercício do cargo;
+Não se enquadra. Muito embora o documento anexado não esteja transcrito em língua
+portuguesa (14119147), trata-se de curso de mestrado, com início previsto para 28 de
+agosto de 2023 e término em 02 de maio de 2025. O servidor solicitou o afastamento
+para participação no programa de pós-graduação no exterior, conforme previsão do
+art. 95 da Lei nº 8.112/1990, quando a participação no curso puder ocorrer
+simultaneamente com o exercício do cargo.
+Pois bem. A concessão dos afastamentos para participação em pós-graduação stricto
+sensu é, obrigatoriamente, precedida de processo seletivo, consoante o art. 22 do
+Decreto nº 9991, de 28 de agosto de 2019, transcrito a seguir:
+
+Art. 22.  Os afastamentos para participar de programas de pós-
+graduação stricto sensu serão precedidos de processo seletivo, conduzido e
+regulado pelos órgãos e pelas entidades do SIPEC, com critérios de
+elegibilidade isonômicos e transparentes.
+§ 1º  Os processos seletivos considerarão, quando houver:
+I - a nota da avaliação de desempenho individual; e
+II - o alcance das metas de desempenho individual.
+§ 2º  As unidades de gestão de pessoas dos órgãos e das entidades poderão
+utilizar avaliações oficialmente reconhecidas de qualidade dos programas de
+pós-graduação stricto sensu efetuadas por instituições da área de educação
+para fins de classificação do servidor no processo seletivo de que trata o caput.
+§ 3º  O projeto de pesquisa a ser desenvolvida durante o afastamento estará
+alinhado à área de atribuição do cargo efetivo, do cargo em comissão ou da
+função de confiança do servidor ou à área de competências da sua unidade de
+exercício.
+
+Desse modo, após consulta ao Resultado do Edital nº 01 do Processo Seletivo
+(processo nº 50600.000713/2023-87) realizado por esta Autarquia, constatou-se que o
+servidor não participou do referido certame, não estando, portanto, apto a participar
+das ações de desenvolvimentos previstas no PDP-DNIT/2023, aprovado pela Portaria
+nº 819, de 14 de fevereiro de 2023, e por consequência, a obter a concessão para
+afastamento prevista no art. 95 da Lei nº 8.112/1990.  
+b) exercício provisório de que trata o § 2º do art. 84 da Lei nº 8.112, de 1990;
+Não se enquadra.
+c) acompanhamento de cônjuge afastado nos termos do disposto nos art. 95 e art.
+96 da Lei nº 8.112, de 1990;
+
+
+
+Não se enquadra.
+d) remoção de que trata a alínea "b" do inciso III do parágrafo único do art. 36
+da Lei nº 8.112, de 1990, quando o tratamento médico necessite ser realizado no
+exterior; ou
+Não se enquadra.
+e) licença para acompanhamento de cônjuge que não seja servidor público
+deslocado para trabalho no exterior, nos termos do disposto no caput do art. 84
+da Lei nº 8.112, de 1990.
+Não se enquadra.
+
+15. Ainda sobre os requisitos para a concessão do teletrabalho no exterior, o art. 16 da
+Portaria DNIT nº 4.194/2022, alterada pela Portaria DNIT nº 1.383/2023, determina que é de
+responsabilidade da Coordenação-Geral de Tecnologia da Informação - CGTI/DAF o acesso remoto
+e controlado dos agentes públicos atuando em programa de gestão aos sistemas desta autarquia, bem
+como a divulgação dos requisitos tecnológicos mínimos para o referido acesso. Em caso análogo, a
+CGTI foi instada a se manifestar pela Diretoria de Administração e Finanças, por meio do OFÍCIO-
+CIRCULAR Nº 1706/2023/SAA - DAF/DAF/DNIT SEDE (14141388), sendo anexada resposta
+daquela Coordenação-Geral, através do Despacho / DNIT SEDE/DAF/CGTI/COINF (14180876),
+ressaltando que aquela "Coordenação de Infraestrutura de TICs, comunica que, não é possível
+disponibilizar infraestrutura física e tecnológica para o desenvolvimento das atividades laborais em
+regime de teletrabalho no exterior, para o servidor em epígrafe, levando em consideração que a
+responsabilidade é exclusivamente dele."
+16. Diante disso, esta Coordenação entende, em um primeiro momento, que o servidor
+pode não se enquadrar nos requisitos dispostos no art. 12, em especial em seu inciso VIII. No
+entanto, a leitura do parágrafo §7º dispõe que é possível a configuração de requisitos em substituição
+ao citado, de forma com que, mesmo sem ele, fique configurada a utilidade à autarquia da concessão
+do benefício ao servidor. Isso decorre da opção da norma por deixar em aberto outros critérios não
+considerados na ocasião de sua confecção, mas que o administrador público poderia, diante de
+situações concretas, considerar como vantajosas à Administração. 
+17. Assim, é possível que a DAF estabeleça uma avaliação alternativa que demonstre a
+conveniência de concessão do PGD ao requisitante, mesmo que ele não atenda aos requisitos
+inicialmente dispostos. No caso concreto, vê-se que o objeto do curso pretendido poderia trazer clara
+vantagem ao DNIT, conforme justifica o servidor em seu pedido. Um requisito alternativo poderia
+ser, justamente, a constatação do retorno que o estudo pretendido pode trazer a esta Autarquia. Por
+essa razão, em que pese o não atendimento inicial dos requisitos, entendemos que, caso seja do
+interesse da Diretoria, poderia ser concedido o benefício.
+ 
+III - CONCLUSÃO
+18. Posto isso, em relação à análise de possibilidade de concessão de PGD, na modalidade
+teletrabalho no exterior, esta setorial entende que o servidor solicitante não se enquadra nos
+requisitos específicos para a concessão do teletrabalho, nos termos do art. 12 do Decreto nº
+11.072/2022. No entanto, em razão do disposto no §7º, entendemos que as situações previstas na
+norma não são exaustivas, podendo a Diretoria de Administração e Finanças, unidade a qual o
+servidor está vinculado, considerar a existência de critério não expresso que valide a concessão do
+pedido, conforme as considerações constantes nos itens 16 e 17 da presente nota. Em outras palavras,
+o referido decreto concede à Administração certa margem de discricionariedade para utilizar-se do
+PGD no exterior nas situações que entender vantajosas, sem prejuízo dos demais critérios previstos e
+obrigatórios. 
+19. Ressalta-se, ainda, que este Setor procedeu à análise apenas dos requisitos específicos
+constantes no art. 12 do referido Decreto, uma vez que se subentende estarem atendidos os requisitos
+gerais para a concessão de adesão ao PGD, na modalidade teletrabalho, previamente analisados pela
+chefia imediata e autorizado pelo dirigente da Unidade, nos termos do art. 11 do Decreto nº
+11.072/2022 e da Portaria nº 4.1914/2022.
+
+
+
+20. Por fim, considerando os expedientes acima citados, esta Coordenação encaminha o
+presente processo à CGGP/DAF, sugerindo-se o encaminhamento dos autos à Diretoria de
+Administração e Finanças, e, havendo concordância, seja o processo remetido à Diretoria Executiva
+para autorização, conforme delegação de Competência prevista na Portaria nº 3661, de 26 de junho
+de 2022.
+
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JUNIOR
+
+Chefe do Serviço Especializado de Orientação de Normas de Pessoal
+
+ 
+
+ 
+
+Ciente e de acordo. Encaminhem-se os autos à CGGP/DAF para prosseguimento
+conforme proposto.
+
+ 
+
+assinado eletronicamente
+GIDALTI INÁCIO DA SILVA
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas Substituto
+
+ 
+
+ 
+
+Ciente e de acordo. Encaminhem-se os autos à Diretoria de Administração e Finanças,
+para ciência, sugerindo-se, o encaminhamento à Diretoria Executiva visando a autorização para o
+PGD, na modalidade teletrabalho no exterior.
+
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+Coordenador-Geral de Gestão de Pessoas
+
+ 
+Brasília/DF, 27 de junho de 2023.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe do Serviço
+Especializado de Orientação de Normas de Pessoal, em 27/06/2023, às 13:54, conforme
+horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de
+outubro de 2015.
+
+Documento assinado eletronicamente por Gidal  Inacio da Silva, Coordenador de Legislação e
+Gestão Estratégica de Pessoas-Subs tuto(a), em 27/06/2023, às 14:28, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de
+2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador-Geral de
+Gestão de Pessoas, em 27/06/2023, às 14:44, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador
+14617155 e o código CRC 180CCE91.
+
+Referência: Processo nº 50600.031820/2021-95 SEI nº 14617155
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902
+Brasília/DF |

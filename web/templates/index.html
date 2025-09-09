@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA-JUR - Sistema de Pesquisa Jurídica Inteligente</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header com Menu -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-robot"></i>
+                    <h1>IA-JUR</h1>
+                    <span class="subtitle">Sistema de Pesquisa Jurídica Inteligente</span>
+                </div>
+                <nav class="nav-menu">
+                    <ul>
+                        <li><a href="#home" class="nav-link active" data-section="home">
+                            <i class="fas fa-home"></i> Início
+                        </a></li>
+                        <li><a href="#consulta" class="nav-link" data-section="consulta">
+                            <i class="fas fa-search"></i> Consulta
+                        </a></li>
+                        <li><a href="#historico" class="nav-link" data-section="historico">
+                            <i class="fas fa-history"></i> Histórico
+                        </a></li>
+                        <li><a href="#metricas" class="nav-link" data-section="metricas">
+                            <i class="fas fa-chart-bar"></i> Métricas
+                        </a></li>
+                        <li><a href="#sobre" class="nav-link" data-section="sobre">
+                            <i class="fas fa-info-circle"></i> Sobre
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="main-content">
+        <!-- Seção Início -->
+        <section id="home" class="section active">
+            <div class="container">
+                <div class="welcome-section">
+                    <div class="welcome-content">
+                        <h2>🤖 Bem-vindo ao IA-JUR</h2>
+                        <p class="subtitle">Sistema de Pesquisa Jurídica Inteligente com IA</p>
+
+                        <div class="features-grid">
+                            <div class="feature-card">
+                                <i class="fas fa-search"></i>
+                                <h3>Pesquisa Inteligente</h3>
+                                <p>Faça perguntas jurídicas e receba respostas baseadas em documentos oficiais</p>
+                            </div>
+                            <div class="feature-card">
+                                <i class="fas fa-robot"></i>
+                                <h3>IA Avançada</h3>
+                                <p>Utiliza modelos Gemini para análise e síntese de informações jurídicas</p>
+                            </div>
+                            <div class="feature-card">
+                                <i class="fas fa-database"></i>
+                                <h3>Base de Conhecimento</h3>
+                                <p>Acesso a vasta base de documentos e precedentes jurídicos</p>
+                            </div>
+                        </div>
+
+                        <div class="cta-section">
+                            <button type="button" class="btn btn-primary btn-large" onclick="app.navegarParaConsulta()">
+                                <i class="fas fa-play"></i> Começar Consulta
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Consulta -->
+        <section id="consulta" class="section">
+            <div class="container">
+                <div class="consulta-section">
+                    <h2><i class="fas fa-search"></i> Consulta Jurídica</h2>
+                    <p class="section-description">
+                        Digite sua pergunta jurídica e receba uma resposta detalhada baseada em documentos oficiais.
+                    </p>
+
+                    <div class="consulta-form">
+                        <div class="form-group">
+                            <label for="pergunta">Sua Pergunta:</label>
+                            <textarea
+                                id="pergunta"
+                                name="pergunta"
+                                placeholder="Digite sua consulta jurídica aqui... Ex: O DNIT pode ou deve pagar ARTs a arquitetos? Em quais casos?"
+                                rows="4"
+                                required
+                            ></textarea>
+                        </div>
+
+                        <div class="form-actions">
+                            <button type="button" id="btn-consulta" class="btn btn-primary">
+                                <i class="fas fa-search"></i> Processar Consulta
+                            </button>
+                            <button type="button" id="btn-limpar" class="btn btn-secondary">
+                                <i class="fas fa-eraser"></i> Limpar
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Loading -->
+                    <div id="loading" class="loading hidden">
+                        <div class="spinner"></div>
+                        <p>Processando sua consulta...</p>
+                    </div>
+
+                    <!-- Resultados -->
+                    <div id="resultados" class="resultados hidden">
+                        <h3><i class="fas fa-file-alt"></i> Resposta da Consulta</h3>
+
+                        <div class="resultado-header">
+                            <div class="resultado-meta">
+                                <span class="meta-item">
+                                    <i class="fas fa-clock"></i>
+                                    <span id="duracao">0.00s</span>
+                                </span>
+                                <span class="meta-item">
+                                    <i class="fas fa-database"></i>
+                                    <span id="fontes">0 fontes</span>
+                                </span>
+                                <span class="meta-item">
+                                    <i class="fas fa-id-card"></i>
+                                    <span id="workflow-id">N/A</span>
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="resultado-content">
+                            <div class="resumo-section">
+                                <h4><i class="fas fa-lightbulb"></i> Resumo Executivo</h4>
+                                <div id="resumo" class="resumo-text"></div>
+                            </div>
+
+                            <div class="resposta-section">
+                                <h4><i class="fas fa-file-text"></i> Resposta Completa</h4>
+                                <div id="resposta-completa" class="resposta-text"></div>
+                            </div>
+                        </div>
+
+                        <div class="resultado-actions">
+                            <button type="button" id="btn-copiar" class="btn btn-secondary">
+                                <i class="fas fa-copy"></i> Copiar Resposta
+                            </button>
+                            <button type="button" id="btn-download-txt" class="btn btn-secondary">
+                                <i class="fas fa-download"></i> Download TXT
+                            </button>
+                            <button type="button" id="btn-nova-consulta" class="btn btn-primary">
+                                <i class="fas fa-plus"></i> Nova Consulta
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Erro -->
+                    <div id="erro" class="erro hidden">
+                        <div class="erro-content">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            <h4>Erro no Processamento</h4>
+                            <p id="erro-mensagem"></p>
+                            <button type="button" id="btn-tentar-novamente" class="btn btn-primary">
+                                <i class="fas fa-redo"></i> Tentar Novamente
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Histórico -->
+        <section id="historico" class="section">
+            <div class="container">
+                <div class="historico-section">
+                    <h2><i class="fas fa-history"></i> Histórico de Consultas</h2>
+                    <p class="section-description">
+                        Visualize e gerencie suas consultas anteriores.
+                    </p>
+
+                    <div class="historico-actions">
+                        <button type="button" id="btn-atualizar-historico" class="btn btn-primary">
+                            <i class="fas fa-sync-alt"></i> Atualizar Histórico
+                        </button>
+                        <button type="button" id="btn-limpar-historico" class="btn btn-secondary">
+                            <i class="fas fa-trash"></i> Limpar Histórico
+                        </button>
+                    </div>
+
+                    <div id="historico-lista" class="historico-lista">
+                        <!-- Histórico será carregado dinamicamente -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Métricas -->
+        <section id="metricas" class="section">
+            <div class="container">
+                <div class="metricas-section">
+                    <h2><i class="fas fa-chart-bar"></i> Métricas do Sistema</h2>
+                    <p class="section-description">
+                        Visualize estatísticas e métricas de uso do sistema.
+                    </p>
+
+                    <div class="metricas-grid">
+                        <div class="metrica-card">
+                            <div class="metrica-icon">
+                                <i class="fas fa-search"></i>
+                            </div>
+                            <div class="metrica-content">
+                                <h3 id="total-consultas">0</h3>
+                                <p>Total de Consultas</p>
+                            </div>
+                        </div>
+
+                        <div class="metrica-card">
+                            <div class="metrica-icon">
+                                <i class="fas fa-robot"></i>
+                            </div>
+                            <div class="metrica-content">
+                                <h3 id="consultas-pesquisa">0</h3>
+                                <p>Consultas de Pesquisa</p>
+                            </div>
+                        </div>
+
+                        <div class="metrica-card">
+                            <div class="metrica-icon">
+                                <i class="fas fa-clock"></i>
+                            </div>
+                            <div class="metrica-content">
+                                <h3 id="tempo-medio">0.00s</h3>
+                                <p>Tempo Médio</p>
+                            </div>
+                        </div>
+
+                        <div class="metrica-card">
+                            <div class="metrica-icon">
+                                <i class="fas fa-database"></i>
+                            </div>
+                            <div class="metrica-content">
+                                <h3 id="fontes-totais">0</h3>
+                                <p>Fontes Consultadas</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="metricas-actions">
+                        <button type="button" id="btn-atualizar-metricas" class="btn btn-primary">
+                            <i class="fas fa-sync-alt"></i> Atualizar Métricas
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Sobre -->
+        <section id="sobre" class="section">
+            <div class="container">
+                <div class="sobre-section">
+                    <h2><i class="fas fa-info-circle"></i> Sobre o IA-JUR</h2>
+
+                    <div class="sobre-content">
+                        <div class="sobre-card">
+                            <h3><i class="fas fa-robot"></i> Tecnologia</h3>
+                            <p>Este sistema utiliza inteligência artificial avançada com modelos Gemini da Google para análise e pesquisa jurídica automatizada.</p>
+                        </div>
+
+                        <div class="sobre-card">
+                            <h3><i class="fas fa-search"></i> Funcionalidades</h3>
+                            <ul>
+                                <li>Pesquisa inteligente em base de conhecimento jurídica</li>
+                                <li>Análise automática de documentos e precedentes</li>
+                                <li>Geração de respostas estruturadas e formatadas</li>
+                                <li>Interface web intuitiva e responsiva</li>
+                                <li>Histórico de consultas e métricas em tempo real</li>
+                            </ul>
+                        </div>
+
+                        <div class="sobre-card">
+                            <h3><i class="fas fa-shield-alt"></i> Segurança</h3>
+                            <p>O sistema mantém a confidencialidade das consultas e utiliza apenas fontes oficiais e verificadas para as respostas.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 IA-JUR - Sistema de Pesquisa Jurídica Inteligente.</p>
+                <p>Desenvolvido com IA para pesquisa jurídica automatizada.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

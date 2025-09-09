@@ -1,0 +1,756 @@
+﻿01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+NOTA TÉCNICA Nº: 87/2024/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50617.000521/2024-72
+REFERÊNCIA: PESSOAL: CONTROLE DE FREQUÊNCIA/FOLHA DE PONTO
+
+I. DOS FATOS
+1. Trata-se do Despacho / SRE - ES/COENGE - CAF - ES/SOT - ES, da lavra do servidor
+                      , Técnico de Suporte em Infraestrutura de Transportes:
+
+No dia 12/03/2024 a ANTSIT - Associação Nacional dos Técnicos de Suporte em
+Infraestrutura de Transportes do DNIT (sei nº 17582025) foi até Brasília/DF para apresentar
+a proposta de reestruturação da carreira dos TSIT - Técnicos de Suporte em Infraestrutura de
+Transportes e contou com o apoio da Diretoria Colegiada do DNIT (sei nº 17581988).
+Considerando que o servidor                                 é o representante legal da ANTSIT (sei nº
+17581589 e sei nº 17581658), solicito gentilmente a aplicação do código no sistema de
+frequência SouGov harmônico à Convenção nº 151 da OIT - "Parte III - Das
+Facilidades que devem ser concedidas às organizações de empregados/servidores
+públicos; Art. 7 — Deverão ser adotadas, sendo necessário, medidas adequadas às
+condições nacionais para estimular e fomentar o pleno desenvolvimento e utilização de
+procedimentos de negociação entre as autoridades públicas competentes e as organizações
+de empregados/servidores públicos sobre as condições de emprego, ou de quaisquer outros
+métodos que permitam aos representantes dos empregados/servidores públicos participar na
+determinação de tais condições". 
+
+2. Em resposta, o Serviço de Gestão de Pessoas da Superintendência Regional no Estado do
+Espírito Santo - SGP/ES exarou o Despacho / SRE - ES/CAF - ES/SGP - CAF - ES, que segue na íntegra:
+
+1. Trata o presente de solicitação do servidor                           , Matrícula SIAPE nº
+             , ocupante do cargo de Técnico de Suporte em Infraestrutura de Transportes, para
+utilização de código harmônico à Convenção nº 151 da OIT,  para o dia 12/03/2024.
+2. No Despacho (DNIT) SOT - ES (17582081), o servidor                                       relata que
+participou de uma agenda em Brasília/DF para apresentar a proposta de reestruturação da
+carreira dos TSIT - Técnicos de Suporte em Infraestrutura de Transportes, como
+representante da Associação Nacional dos Técnicos de Suporte em Infraestrutura de
+Transportes (ANTSIT),  ficando o registro de frequência do dia 12/03/2024 sem a devida
+codificação e sem homologação até a presente data.
+3. Inicialmente,  esclarecemos que a Convenção nº 151 da Organização Internacional do
+Trabalho limita-se apenas as organizações constituídas nos termos do art. 8º da
+Constituição, conforme  Decreto nº 10.088, de 05/11/2019, in verbis:
+
+Art. 3º  As Convenções anexas a este Decreto serão executadas e cumpridas
+integralmente em seus termos.
+(....)
+§ 4º  A Convenção nº 151 e a Recomendação nº 159 da OIT sobre as Relações de
+Trabalho na Administração Pública, constantes do Anexo LXXVI, foram
+promulgadas com as seguintes declarações interpretativas:
+I - a expressão “pessoas empregadas pelas autoridades públicas”, constante do item
+1 do Artigo 1 da Convenção nº 151, abrange tanto os empregados públicos,
+ingressos na administração pública mediante concurso público, regidos pela
+Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º
+de maio de 1943, quanto os servidores públicos federais, regidos pela Lei nº 8.112,
+de 11 de dezembro de 1990, e os servidores públicos estaduais e municipais, regidos
+pela legislação dos respectivos entes federativos; e
+II - consideram-se “organizações de trabalhadores” abrangidas pela
+Convenção apenas as organizações constituídas nos termos do art. 8º da
+Constituição. (grifo nosso).
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 1/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+4. O Artigo 8º da  Constituição Federal, relaciona as entidades abrangidas pela Convenção,
+conforme se segue:
+
+Art. 8º É livre a associação profissional ou sindical, observado o seguinte:
+I - a lei não poderá exigir autorização do Estado para a fundação de sindicato,
+ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência
+e a intervenção na organização sindical;
+II - é vedada a criação de mais de uma organização sindical, em qualquer grau,
+representativa de categoria profissional ou econômica, na mesma base
+territorial, que será definida pelos trabalhadores ou empregadores interessados, não
+podendo ser inferior à área de um Município;
+III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da
+categoria, inclusive em questões judiciais ou administrativas;
+IV - a assembléia geral fixará a contribuição que, em se tratando de categoria
+profissional, será descontada em folha, para custeio do sistema confederativo da
+representação sindical respectiva, independentemente da contribuição prevista em
+lei;
+V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato;
+VI - é obrigatória a participação dos sindicatos nas negociações coletivas de
+trabalho;
+(...)
+
+5. O controle de frequência dos servidores públicos do DNIT é normatizado pela  Instrução
+Normativa nº 02/2018 - Atualizada (SEI nº 17595204), sendo que a participação em
+atividades sindicais está estabelecida no Artigo 36, conforme se segue:
+
+Art. 36. Poderá haver a liberação do servidor público para participar de atividades
+sindicais, desde que haja a compensação das horas não trabalhadas.
+Parágrafo único. Fica dispensado da compensação de que trata o caput o servidor
+indicado para representar a bancada sindical nas Mesas Central, Setorial, e
+Específica e Temporária, em suas reuniões ordinárias e extraordinárias, atestada
+por Declaração expedida pelo coordenador das respectivas mesas. (Incluído pela
+Instrução Normativa SRT/MGI nº 38, de 20 de novembro de 2023). (grifo nosso).
+
+6. Dito isto, informamos a existência do código 00353 (AUSENCIA PARA ATIVIDADES
+SINDICAIS EST), no SouGov frequência, para que os servidores possam participar de
+atividades sindicais, mediante compensação das horas não trabalhadas, ou seja, caso
+seja autorizado o uso desse código para o dia 12/03/2024, o servidor não está dispensados
+de repor as horas não trabalhadas.
+7. O Serviço de Gestão de Pessoas, após consulta informal à CGGP,  informou ao servidor
+que não seria possível a utilização de código de participação em atividade sindical, uma vez
+que associação não é sindicato,  e também que não seria possível a utilização do código de
+serviço externo (22222) na presente situação.
+8. Foi sugerido também ao servidor que, caso houvesse autorização da chefia imediata,
+poderia ser utilizado os códigos de ausência ou falta justificada, ou ainda ausência para
+débito em Banco de Horas, caso assim desejasse mediante autorização.
+9. Isto posto, sugerimos a ciência dos fatos aqui apresentados e, caso esteja de acordo,
+evolua os autos ao Superintendente Regional para ciência e, posterior, encaminhamento
+à COLEG/CGGP, tendo em vista que após o início da mesa de negociação salarial poderão
+ocorrer novas ausências. Sendo necessário que se esclareça os questionamentos abaixo
+relacionados: 
+
+a) Qual o código deve ser utilizado no frequência SouGov para o dia 12/03/2024, na
+presente situação?
+b) O servidor deve solicitar autorização prévia para participar de tais eventos?
+c) O servidor que se ausenta do trabalho para participar de reuniões como
+representante de associação deve compensar a ausência?
+d) Existe alguma possibilidade estabelecida em legislação para a não compensação
+das horas não trabalhadas?
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 2/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+e) Caso o servidor não queira utilizar o banco de horas e nem compensar as horas não
+trabalhadas, a chefia imediata deve registrar falta não justificada para o dia?
+
+3. Em seguida, a Coordenação de Administração e Finanças da Superintendência Regional no
+Estado do Espírito Santo - CAF/ES emitiu o Despacho / SRE - ES/CAF - ES encaminhando os autos para
+o Sr. Superintendente Regional no Estado do Espírito Santo, que, por sua vez, exarou o OFÍCIO Nº
+76915/2024/SRE - ES diretamente a esta Setorial para que responda aos questionamentos realizados pelo
+SGP/ES.
+4. Após, foi anexado, nos autos, e-mail do mesmo servidor à sua chefia imediata com o
+seguinte conteúdo:
+
+Informo que, na qualidade de Presidente da ANTSIT - Associação Nacional dos TSIT
+do DNIT, fui convidado a participar no dia 14/05/2024 às 11hs em Brasília/DF da instalação
+da Mesa Específica e Temporária do DNIT, conforme calendário da CONDSEF -
+Confederação dos Trabalhadores no Serviço Público Federal e convite anexos.
+Solicito gentilmente autorização para participar da reunião com o MGI sem ônus para o
+servidor, haja vista que a Diretoria Colegiada do DNIT é a favor da restruturação da carreira
+e a favor da instalação de mesa de negociação específica. Portanto, a participação tem
+natureza institucional. Embora seja formalmente uma associação, a ANTSIT tem caráter
+sindical, o que fica evidenciado por suas ações e pelo teor do seu estatuto. A associação tem
+por objetivo nuclear a melhoria da qualidade do serviço público prestado pelo DNIT,
+conforme seus objetivos institucionais previstos no art. 4º do seu Estatuto, em especial
+aqueles que envolvem a defesa do corpo técnico do DNIT e a luta pela participação nos
+processos decisórios da autarquia (art. 4º, alínea "b") e a defesa dos direitos funcionais e de
+melhores condições de trabalho de seus associados frente à Administração Federal (art. 4º,
+alínea "g").
+Portanto, não há ilegalidade em permitir que o representante legal da ANTSIT participe de
+reuniões institucionais; ao contrário isso está de acordo com o que dispõe o art. 5º, inciso
+XXI, e art. 8º da Constituição Federal. Note-se que esse art. 8º diz que "É livre a associação
+profissional ou sindical", colocando as associações profissionais (caso da ANTSIT) no
+mesmo patamar das entidades sindicais.
+Diante do exposto, solicito gentilmente a chancela prévia desta chefia para participar da
+reunião no dia 14/05/2024. 
+
+5. Em resposta sua chefia imediata, o Chefe de Serviço de Operações Terrestres da SRE/ES
+informou:
+
+Conforme última orientação trazida pelo SGP-ES, não é possível abona (sic) horas de
+serviços no SOUGOV durante atividades da ANTSIT. No entanto é possível a utilização do
+Código 356 - Ausência para débito em banco de horas - a critério da chefia com
+anuência do servidor.
+Caso queira utilizar o banco de horas, desde já está autorizado.
+Quanto ao abono das horas, sugiro buscar mais informações junto ao SGP-ES ou à SEDE,
+visto às manifestações já trazidas anteriormente.
+
+6. É o relato do essencial. Passa-se à análise.
+II. DA FUNDAMENTAÇÃO LEGAL
+7. O artigo 8º da Constituição Federal trata do direito à liberdade de os trabalhadores
+associarem-se:
+
+Art. 8º É livre a associação profissional ou sindical, observado o seguinte: [grifos deste
+expediente]
+I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o
+registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na
+organização sindical;
+II - é vedada a criação de mais de uma organização sindical, em qualquer grau,
+representativa de categoria profissional ou econômica, na mesma base territorial, que será
+definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área
+de um Município;
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 3/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da
+categoria, inclusive em questões judiciais ou administrativas;
+IV - a assembléia geral fixará a contribuição que, em se tratando de categoria profissional,
+será descontada em folha, para custeio do sistema confederativo da representação sindical
+respectiva, independentemente da contribuição prevista em lei;
+V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato;
+VI - é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho;
+VII - o aposentado filiado tem direito a votar e ser votado nas organizações sindicais;
+VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a
+cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após
+o final do mandato, salvo se cometer falta grave nos termos da lei.
+Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e
+de colônias de pescadores, atendidas as condições que a lei estabelecer.
+
+8. O Decreto Legislativo nº 206, de 07 de abril de 2010 aprovou, com ressalvas, os textos da
+Convenção nº 151 e da Recomendação nº 159, da Organização Internacional do Trabalho - OIT, ambas de
+1978, sobre as Relações de Trabalho na Administração Pública:
+
+Art. 2º No caso brasileiro:
+I - a expressão "pessoas empregadas pelas autoridades públicas", constante do item 1 do
+artigo 1 da Convenção nº 151, de 1978, abrange tanto os empregados públicos, ingressos na
+Administração Pública, mediante concurso público, regidos pela Consolidação das Leis do
+Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, quanto os
+servidores públicos, no plano federal, regidos pela Lei nº 8.112, de 11 de dezembro de 1990,
+e os servidores públicos, nos âmbitos estadual e municipal, regidos pela legislação
+específica de cada um desses entes federativos;
+II - consideram-se organizações de trabalhadores abrangidas pela Convenção apenas
+as organizações constituídas nos termos do art. 8º da Constituição Federal. [grifos
+deste expediente]
+
+9. Cabe citar, aqui,  a parte III e a parte IV da Convenção nº 151, da OIT:
+PARTE III - GARANTIAS A SEREM CONCEDIDAS ÀS ORGANIZAÇÕES DE
+TRABALHADORES DA ADMINISTRAÇÃO PÚBLICA
+Artigo 6
+1. Devem ser concedidas garantias aos representantes das organizações reconhecidas
+de trabalhadores da Administração Pública, de modo a permitir-lhes cumprir rápida e
+eficientemente as suas funções, quer durante as suas horas de trabalho, quer fora
+delas.
+2. A concessão dessas garantias não deve prejudicar o funcionamento eficiente da
+Administração ou do serviço interessado. [grifos deste expediente]
+3. A natureza e a amplitude dessas garantias devem ser fixadas de acordo com os métodos
+mencionados no Artigo 7 da presente Convenção ou por quaisquer outros meios adequados.
+PARTE IV - PROCEDIMENTOS PARA FIXAÇÃO DAS CONDIÇÕES DE TRABALHO
+Artigo 7
+Devem ser tomadas, quando necessário, medidas adequadas às condições nacionais para
+encorajar e promover o desenvolvimento e utilização plenos de mecanismos que permitam a
+negociação das condições de trabalho entre as autoridades públicas interessadas e as
+organizações de trabalhadores da Administração Pública ou de qualquer outro meio que
+permita aos representantes dos trabalhadores da Administração Pública participarem na
+fixação das referidas condições.
+
+10. Sobre jornada de trabalho do servidores públicos federais, assim se manifesta a Lei nº 8.112,
+de 11 de dezembro de 1990:
+
+ Art. 19.  Os servidores cumprirão jornada de trabalho fixada em razão das atribuições pertinentes aos
+respectivos cargos, respeitada a duração máxima do trabalho semanal de quarenta horas e observados os
+limites mínimo e máximo de seis horas e oito horas diárias, respectivamente.               (Redação dada pela Lei
+nº 8.270, de 17.12.91)
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 4/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+§ 1o  O ocupante de cargo em comissão ou função de confiança submete-se a regime de integral dedicação ao
+serviço, observado o disposto no art. 120, podendo ser convocado sempre que houver interesse da
+Administração.               (Redação dada pela Lei nº 9.527, de 10.12.97)
+§ 2o  O disposto neste artigo não se aplica a duração de trabalho estabelecida em leis
+especiais.               (Incluído pela Lei nº 8.270, de 17.12.91)
+
+11. A Instrução Normativa nº 2, de 12 de setembro de 2018, estabelece orientação, critérios e
+procedimentos gerais a serem observados pelos órgãos e entidades integrantes do Sistema de Pessoal Civil
+da Administração Federal- SIPEC, quanto à jornada de trabalho de que trata o art. 19 da Lei nº 8.112, de 11
+de dezembro de 1990, regulamentado pelo Decreto nº 1.590, de 10 de agosto de 1995, e pelo Decreto nº
+1.867, de 17 de abril de 1996, que dispõem sobre o controle eletrônico de frequência e a compatibilidade
+de horários na acumulação remunerada de cargos, empregos e funções, aplicáveis aos servidores públicos
+em exercício nos órgãos e entidades integrantes da Administração Pública Federal direta, autárquica e
+fundacional:
+
+Art. 8º No âmbito da Administração Pública Federal direta, autárquica e fundacional
+somente serão dispensados do controle eletrônico de frequência os ocupantes de cargos de: 
+I - Natureza Especial;
+II - Grupo-Direção e Assessoramento Superiores- DAS, iguais ou superiores ao nível 4, ou
+equivalentes;
+III - Professor do Magistério Superior da Carreira de Magistério Superior, de que trata a Lei
+nº 12.772, de 28 de dezembro de 2012; e
+IV - Pesquisador e Tecnologista do Plano de Carreira para a área de Ciência e Tecnologia.
+§ 1º No interesse do serviço, o dirigente máximo do órgão ou entidade poderá manter o
+controle eletrônico de frequência dos ocupantes de cargo de Pesquisador e Tecnologista do
+Plano de Carreira para a área de Ciência e Tecnologia, conforme as características das
+atividades de cada entidade.
+§ 2º Ficam também dispensados do controle eletrônico de frequência os servidores
+participantes do programa de gestão, de que trata o § 6º do art. 6º do Decreto nº 1.590, de 10
+de agosto de 1995.
+(...)
+Art. 10. O servidor público terá descontada: 
+I- a remuneração do dia em que faltar ao serviço sem motivo justificado; e
+II- a parcela de remuneração diária proporcional aos atrasos, ausências justificadas e
+saídas antecipadas, quando não compensadas até o mês subsequente ao da ocorrência
+e a critério da chefia imediata, em conformidade com a legislação vigente.
+Art. 11. As faltas injustificadas não poderão ser compensadas e deverão ser lançadas como
+falta no controle eletrônico de frequência.
+Art. 12. As saídas antecipadas e os atrasos deverão ser comunicados antecipadamente à
+chefia imediata e poderão ser compensados no controle eletrônico de frequência até o
+término do mês subsequente ao da sua ocorrência.
+§ 1º As ausências justificadas somente poderão ser compensadas no controle eletrônico
+de frequência até o término do mês subsequente ao da sua ocorrência, desde que
+tenham anuência da chefia imediata.
+§ 2º A compensação de horário deverá ser estabelecida pela chefia imediata, sendo
+limitada a 2 (duas) horas diárias da jornada de trabalho. [grifos deste expediente]
+§ 3º Eventuais atrasos ou saídas antecipadas decorrentes de interesse do serviço poderão ser
+abonados pela chefia imediata.
+(...)
+Art. 36. Poderá haver a liberação do servidor público para participar de atividades
+sindicais, desde que haja a compensação das horas não trabalhadas.
+Parágrafo único. Fica dispensado da compensação de que trata o caput o servidor
+indicado para representar a bancada sindical nas Mesas Central, Setorial, e Específica
+e Temporária, em suas reuniões ordinárias e extraordinárias, atestada por Declaração
+expedida pelo coordenador das respectivas mesas. (Incluído pela Instrução Normativa
+SRT/MGI nº 38, de 20 de novembro de 2023) [grifos deste expediente]
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 5/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+12. A Instrução Normativa nº 13/DNIT SEDE, de 25 de março de 2020 estabelece critérios e
+procedimentos específicos à jornada de trabalho no Departamento Nacional de Infraestrutura de
+Transportes.
+
+Art. 11. Até o limite de cinco horas faltantes para o cumprimento da carga horária mensal de
+trabalho do servidor ou do empregado público não será exigida compensação de horário, a
+fim de contrabalancear o tempo dispendido entre a entrada nas dependências do DNIT, o
+acionamento do controle eletrônico e o efetivo registro de frequência.
+Art. 12. A compensação de horário do servidor estudante beneficiado pelo art. 98 da Lei nº
+8.112, de 1990, deverá ser realizada na mesma semana em que é realizado o horário especial
+de trabalho, respeitando-se, desse modo, a duração da jornada de trabalho a ser cumprida.
+Art. 13. Para a realização dos descontos relativos aos atrasos, às ausências justificadas e as
+saídas antecipadas que não forem compensadas nos termos da Instrução Normativa
+SEGES/MP n° 2, de 2018, a jornada de trabalho será apurada em minutos.
+Parágrafo único. O calculo do valor a ser descontado será efetuado com base na
+remuneração do mês em que se verificar o saldo negativo.
+Art. 14. Os atrasos, as ausências e as saídas antecipadas deverão ser justificadas e
+comprovadas pelo servidor ou empregado perante sua chefia imediata, com vistas à
+compensação nos termos do § 2° do art. 12 da Instrução Normativa SEGES/MP n° 2, de
+2018.
+Art. 15. No interesse da administração, mediante prévia anuência da chefia imediata,
+poderão ser prestadas horas excedentes a jornada diária de serviço a fim de compor banco
+de horas, observadas as disposições constantes nos arts. 23 a 29 da Instrução Normativa
+SEGES/MP n° 2, de 2018.
+Paragrafo único. Somente após o fechamento mensal da frequência as horas excedentes a
+jornada de trabalho regular, devidamente autorizadas e atestadas pela chefia imediata,
+integrarão o banco de horas.
+Art. 16. Compete a chefia imediata avaliar a pertinência da utilização de horas excedentes
+à jornada normal do servidor ou do empregado publico.
+Paragrafo único. A chefia imediata deverá, previamente, por meio do controle eletrônico de
+frequência, informar a relação nominal dos servidores e empregados públicos autorizados
+à realização das horas excedentes para inserção em banco de horas.
+
+13. O Decreto-Lei nº 1.402, de 05 de julho de 1939, do qual não consta revogação expressa,
+regula a associação em sindicato:
+
+CAPÍTULO I
+DAS ASSOCIAÇÕES PROFISSIONAIS E DOS SINDICATOS
+        Art. 1o É lícita a associação, para fins de estudo, defesa e coordenação dos seus
+interesses profissionais, de todos os que, como empregadores, empregados ou trabalhadores
+por conta própria, intelectuais, técnicos ou manuais, exerçam a mesma profissão, ou
+profissões similares ou conexas.
+        Art. 2o Somente as associações profissionais constituídas para os fins do artigo anterior
+e registradas de acordo com o art. 48 poderão ser reconhecidas como sindicatos e investidas
+nas prerrogativas definidas nesta lei.
+        Art. 3o São prerrogativas dos sindicatos:
+        a) representar, perante as autoridades administrativas e judiciárias, os interesses da
+profissão e os interesses individuais dos associados, relativos à atividade profissional;
+        b) fundar e manter agências de colocação;
+        c) firmar contratos coletivos de trabalho;
+        d) eleger ou designar os representantes da profissão;
+        e) colaborar com o Estado, com órgãos técnicos e consultivos no estudo e solução dos
+problemas que se relacionam com a profissão;
+        f) impor contribuições a todos aqueles que participam das profissões ou categorias
+representadas.
+        Parágrafo único. As associações profissionais, registradas nos termos do art. 48,
+poderão representar, perante as autoridades administrativas e judiciárias, os interesses
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 6/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+individuais dos associados relativos à sua atividade profissional, sendo-lhes também
+extensivas as prerrogativas contidas nas alíneas b e e deste artigo.
+        Art. 4o São deveres dos sindicatos
+        a) colaborar com os poderes públicos no desenvolvimento da solidariedade das
+profissões;
+        b) promover a fundação de cooperativas de consumo e de crédito;
+        c) manter serviços de assistência judiciária para os associados;
+        d) fundar e manter escolas, especialmente de aprendizagem, hospitais e outras
+instituições de assistência social;
+        e) promover a conciliação nos dissídios de trabalho.
+CAPÍTULO II
+DO RECONHECIMENTO E DA INVESTIDURA SINDICAL
+        Art. 5o As associações profissionais deverão satisfazer os seguintes requisitos para ser
+reconhecidas como sindicatos:
+        a) reunião de um terço, no mínimo, de empresas legalmente constituídas, sob a forma
+individual ou de sociedade, si se tratar de associação de empregadores: ou de um terço dos
+que exercem a profissão, si se tratar de associação de empregados ou de trabalhadores por
+conta própria ou de profissão liberal;
+        b) duração não excedente de dois anos para o mandato da diretoria;
+        c) exercício do cargo de presidente por brasileiro nato, e dos demais cargos de
+administração e representação por brasileiros.
+        Parágrafo único. O Ministro do Trabalho, Indústria e Comércio poderá,
+excepcionalmente, reconhecer como sindicato a associação cujo número de sócios seja
+inferior ao terço a que se refere a alínea a.
+(...)
+CAPITULO IX
+DISPOSIÇÕES GERAIS
+        Art. 48. Fica criado, no Departamento Nacional do Trabalho e nas Inspetorias
+Regionais do Ministério do Trabalho, Indústria e Comércio, o registo das associações
+profissionais. Somente depois do registo as associações dessa natureza adquirirão
+personalidade jurídica.            (Vide Decreto-lei n. 2.353, de 1940)
+        § 1o Ao registo serão admitidas exclusivamente as associações profissionais cujos
+sócios exerçam atividade lícita.
+        § 2o O registo das associações far-se-á mediante requerimento, acompanhado de cópia
+autenticada dos estatutos e da declaração do número de sócios, do patrimônio e dos serviços
+sociais organizados.
+        § 3o As alterações dos estatutos das associações profissionais não entrarão em vigor
+sem aprovação do Ministro do Trabalho, Indústria e Comércio.
+        § 4o Nenhum ato de defesa profissional será permitido a associação não registada na
+forma deste artigo, não podendo ser conhecido qualquer pedido seu, ou representação.
+        Art. 49. Não se reputará transmissão de bens, para efeitos fiscais, a incorporação do
+patrimônio de uma associação profissional ao de associação sindical, ou de associações
+sindicais entre si.
+        Art. 50. A denominação "sindicato" é privativa das associações profissionais de
+primeiro gráu, reconhecidas na forma desta lei.
+
+14. O Código Civil (Lei nº 10.406, de 10 de janeiro de 2002) trata sobre as associações:
+Art. 44. São pessoas jurídicas de direito privado:
+I - as associações;
+II - as sociedades;
+III - as fundações.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 7/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+IV - as organizações religiosas; (Incluído pela Lei nº 10.825, de 22.12.2003)
+V - os partidos políticos. (Incluído pela Lei nº 10.825, de 22.12.2003)
+VI - (Revogado pela Lei nº 14.382, de 2022)
+§ 1º São livres a criação, a organização, a estruturação interna e o funcionamento das
+organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou
+registro dos atos constitutivos e necessários ao seu funcionamento. (Incluído pela Lei nº
+10.825, de 22.12.2003)
+§ 2º As disposições concernentes às associações aplicam-se subsidiariamente às sociedades
+que são objeto do Livro II da Parte Especial deste Código. (Incluído pela Lei nº 10.825, de
+22.12.2003)
+§ 3º Os partidos políticos serão organizados e funcionarão conforme o disposto em lei
+específica. (Incluído pela Lei nº 10.825, de 22.12.2003)
+Art. 45. Começa a existência legal das pessoas jurídicas de direito privado com a inscrição
+do ato constitutivo no respectivo registro, precedida, quando necessário, de autorização ou
+aprovação do Poder Executivo, averbando-se no registro todas as alterações por que passar
+o ato constitutivo.
+Parágrafo único. Decai em três anos o direito de anular a constituição das pessoas jurídicas
+de direito privado, por defeito do ato respectivo, contado o prazo da publicação de sua
+inscrição no registro.
+Art. 46. O registro declarará:
+I - a denominação, os fins, a sede, o tempo de duração e o fundo social, quando houver;
+II - o nome e a individualização dos fundadores ou instituidores, e dos diretores;
+III - o modo por que se administra e representa, ativa e passivamente, judicial e
+extrajudicialmente;
+IV - se o ato constitutivo é reformável no tocante à administração, e de que modo;
+V - se os membros respondem, ou não, subsidiariamente, pelas obrigações sociais;
+VI - as condições de extinção da pessoa jurídica e o destino do seu patrimônio, nesse caso.
+Art. 47. Obrigam a pessoa jurídica os atos dos administradores, exercidos nos limites de
+seus poderes definidos no ato constitutivo.
+Art. 48. Se a pessoa jurídica tiver administração coletiva, as decisões se tomarão pela
+maioria de votos dos presentes, salvo se o ato constitutivo dispuser de modo diverso.
+Parágrafo único. Decai em três anos o direito de anular as decisões a que se refere este
+artigo, quando violarem a lei ou estatuto, ou forem eivadas de erro, dolo, simulação ou
+fraude.
+Art. 48-A. As pessoas jurídicas de direito privado, sem prejuízo do previsto em legislação
+especial e em seus atos constitutivos, poderão realizar suas assembleias gerais por meio
+eletrônico, inclusive para os fins do disposto no art. 59 deste Código, respeitados os direitos
+previstos de participação e de manifestação.   (Incluído pela Lei nº 14.382, de 2022)
+(...)
+CAPÍTULO II
+DAS ASSOCIAÇÕES
+Art. 53. Constituem-se as associações pela união de pessoas que se organizem para fins não
+econômicos.
+Parágrafo único. Não há, entre os associados, direitos e obrigações recíprocos.
+Art. 54. Sob pena de nulidade, o estatuto das associações conterá:
+I - a denominação, os fins e a sede da associação;
+II - os requisitos para a admissão, demissão e exclusão dos associados;
+III - os direitos e deveres dos associados;
+IV - as fontes de recursos para sua manutenção;
+V – o modo de constituição e de funcionamento dos órgãos deliberativos; (Redação dada
+pela Lei nº 11.127, de 2005)
+VI - as condições para a alteração das disposições estatutárias e para a dissolução.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 8/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+VII – a forma de gestão administrativa e de aprovação das respectivas contas. (Incluído pela
+Lei nº 11.127, de 2005)
+Art. 55. Os associados devem ter iguais direitos, mas o estatuto poderá instituir categorias
+com vantagens especiais.
+Art. 56. A qualidade de associado é intransmissível, se o estatuto não dispuser o contrário.
+Parágrafo único. Se o associado for titular de quota ou fração ideal do patrimônio da
+associação, a transferência daquela não importará, de per si , na atribuição da qualidade de
+associado ao adquirente ou ao herdeiro, salvo disposição diversa do estatuto.
+Art. 57. A exclusão do associado só é admissível havendo justa causa, assim reconhecida em
+procedimento que assegure direito de defesa e de recurso, nos termos previstos no
+estatuto. (Redação dada pela Lei nº 11.127, de 2005)
+Parágrafo único. (revogado) (Redação dada pela Lei nº 11.127, de 2005)
+Art. 58. Nenhum associado poderá ser impedido de exercer direito ou função que lhe tenha
+sido legitimamente conferido, a não ser nos casos e pela forma previstos na lei ou no
+estatuto.
+Art. 59. Compete privativamente à assembléia geral: (Redação dada pela Lei nº 11.127, de
+2005)
+I – destituir os administradores; (Redação dada pela Lei nº 11.127, de 2005)
+II – alterar o estatuto. (Redação dada pela Lei nº 11.127, de 2005)
+Parágrafo único. Para as deliberações a que se referem os incisos I e II deste artigo é exigido
+deliberação da assembléia especialmente convocada para esse fim, cujo quorum será o
+estabelecido no estatuto, bem como os critérios de eleição dos administradores. (Redação
+dada pela Lei nº 11.127, de 2005)
+Art. 60. A convocação dos órgãos deliberativos far-se-á na forma do estatuto, garantido a
+1/5 (um quinto) dos associados o direito de promovê-la. (Redação dada pela Lei nº 11.127,
+de 2005)
+Art. 61. Dissolvida a associação, o remanescente do seu patrimônio líquido, depois de
+deduzidas, se for o caso, as quotas ou frações ideais referidas no parágrafo único do art. 56,
+será destinado à entidade de fins não econômicos designada no estatuto, ou, omisso este, por
+deliberação dos associados, à instituição municipal, estadual ou federal, de fins idênticos ou
+semelhantes.
+§ 1 o Por cláusula do estatuto ou, no seu silêncio, por deliberação dos associados, podem
+estes, antes da destinação do remanescente referida neste artigo, receber em restituição,
+atualizado o respectivo valor, as contribuições que tiverem prestado ao patrimônio da
+associação.
+§ 2 o Não existindo no Município, no Estado, no Distrito Federal ou no Território, em que a
+associação tiver sede, instituição nas condições indicadas neste artigo, o que remanescer do
+seu patrimônio se devolverá à Fazenda do Estado, do Distrito Federal ou da União.
+
+III. DA ANÁLISE TÉCNICA
+15. A Instrução Normativa nº 2/2018 prevê a liberação do servidor público para participar de
+atividades sindicais, desde que haja a compensação das horas não trabalhadas. Além disso, há
+possibilidade de dispensa da compensação das horas para o servidor indicado a representar a bancada
+sindical nas Mesas Central, Setorial, e Específica e Temporária, em suas reuniões ordinárias e
+extraordinárias, atestada por Declaração expedida pelo coordenador das respectivas mesas. Tal
+normativo usa os termos "atividades sindicais" e "bancada sindical", não mencionando o termo
+"associação". O servidor em comento alega, em sua argumentação para conseguir o abono para reunião no
+dia 15 de maio de 2024, que há a equiparação entre associação e sindicato, primeiramente pelo texto do
+caput do art. 8º da Constituição Federal, que diz: "É livre a associação profissional ou sindical".
+Contudo, ao se verificar o restante do texto do art. 8º, só se usam os termos "sindical", "sindicato"
+e "sindicalizado". Entretanto, a Carta Magna não estabelece, em nenhum momento, a garantia de abono às
+ausências de um representante de associação profissional.
+16. O mesmo pode ser dito da Convenção nº 151, da OIT, que não menciona o abono das horas
+de ausência ao trabalho. Ela vai além do texto constitucional ao garantir expressamente ao representante de
+associação o exercício de suas funções, ainda que no horário de trabalho, mas sua aplicação se dá nos
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_sist… 9/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+moldes em que a legislação pátria e os normativos da Administração Pública definirem como regras
+específicas, ou seja, a forma como a Constituição e a Convenção se concretizam em termos práticos é
+definida pelas normas infraconstitucionais, como as leis e atos administrativos normativos que
+regulamentam as garantias aos representantes de sindicatos e associações. 
+17. Assim, como mencionado no item 15, a opção da Administração, expressa na Instrução
+Normativa nº 2/2018, foi a de beneficiar a dispensa de compensação de horas apenas ao representante
+sindical quando estiver representando "a bancada sindical nas Mesas Central, Setorial, e Específica e
+Temporária, em suas reuniões ordinárias e extraordinárias, atestada por Declaração expedida pelo
+coordenador das respectivas mesas." Não se sabe o motivo de tal opção, restringindo-se apenas a
+conjecturar que o trato diferenciado esteja relacionado com a maior abrangência e, por conseguinte,
+relevância das atividades realizadas por um sindicato em termos de número de beneficiários e no
+engajamento nas negociações envolvendo os direitos de empregados e servidores. Quanto a esses
+distintivos, veja-se o que diz a ANAJUS-PI (17730268): 
+
+As associações e sindicatos são pessoas jurídicas de direito privado, sem fins lucrativos, que
+reúnem indivíduos com os mesmos interesses e objetivos comuns.
+No entanto, a primeira das diferenças consiste na limitação constitucional de defesa e
+representação dos interesses. A associação atua em nome, apenas, de seus associados,
+enquanto o sindicato em prol de toda a categoria profissional ou econômica,
+independentemente de filiação.
+Assim, a mera constituição da pessoa jurídica no cartório competente não confere a
+competência legal e as prerrogativas de personalidade sindical. A entidade necessita,
+também, ser reconhecida pelo Ministério do Trabalho e Emprego (MTE), que é o guardião
+da unicidade sindical.
+(...)
+Vale destacar que as associações focam mais em oferecer cursos de formação, atividades
+culturais e ações sociais para os seus associados, enquanto o sindicato prevalece em uma
+forte função política. O movimento sindical existe para ser porta-voz de uma categoria em
+ações coletivas e firmamento de acordos com os patrões.
+(...)
+
+18. Também foi opção da Administração Pública determinar que o servidor, atuando em outra
+atividade que não a definida no art. 36, parágrafo único, da IN nº 2/2018, como representante sindical,
+conforme o caput do mesmo artigo, poderá se ausentar sem embaraço por parte da Administração, mas terá
+que compensar as horas não trabalhadas. Essa é a regra geral para o representante sindical, sendo a
+dispensa de compensação situação excepcional. Ora, se até o representante sindical tem como regra a
+necessidade de compensar horas pela ausência ao trabalho para exercer as atividades sindicais, não é
+absurdo concluir que o representante de associação profissional também deva compensar as horas não
+trabalhadas.
+19. A diferença entre os representantes de sindicatos e demais associações profissionais é que a
+possibilidade de compensação para estes está prevista no art. 12 da Instrução Normativa nº 2/2018. O
+servidor deve previamente avisar à chefia imediata da necessidade de ausência condicionada à posterior
+compensação.  
+20. Não poderia ser diferente, pois não apenas as diferenças são previstas em lei, mas o
+tratamento diferenciado entre sindicato e demais associações também o são. O Decreto-Lei nº 1.402/39,
+conforme os artigos 1º ao 5º transcritos no item 13 desta nota, difere as associações profissionais dos
+sindicatos quando afirma que somente as associações profissionais constituídas para fins de estudo, defesa
+e coordenação dos seus interesses profissionais e registradas de acordo com o art. 48 poderão ser
+reconhecidas como sindicatos e investidas nas prerrogativas definidas na lei.
+21. Demonstrada a posição da Administração por meio da redação da IN nº 2/2018,
+emitida pelo órgão central do SIPEC, cabe ressaltar que este Serviço Especializado está vinculado ao
+entendimento daquele órgão, haja vista sua responsabilidade legal por interpretar a legislação de pessoal
+para toda a Administração Pública federal. Resta-nos apenas reproduzir com fidelidade a opção da redação
+do normativo.
+22. Além disso, existe a obrigação que este serviço especializado possui de aplicar nas situações
+concretas uma interpretação que respeite o principio constitucional da legalidade. Reconhece-se a
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_si… 10/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+importância e a proteção que a lei confere às associações profissionais, mas o benefício específico
+pleiteado, qual seja, o abono das horas não trabalhadas, é legalmente previsto apenas para o representante
+sindical. Interpretar de modo mais amplo tal benefício seria extrapolar não apenas a vontade da
+Administração veiculada pelo órgão central do SIPEC mediante a Instrução Normativa, mas desrespeitar a
+Constituição quando submeteu a Administração Pública à observância do princípio da legalidade, o qual
+estabelece que "ficam os entes da administração pública sujeitos especificamente ao que está previsto e
+disposto em lei, devendo agir, fazer ou não fazer exclusivamente de acordo com o que está legislado"[1].
+Desse modo, entidades como o DNIT devem sujeitar-se às prescrições emanadas dos Poderes do Estado. 
+23. Portanto, aplica-se o art. 12, §§ 1º e 2º da IN nº 2/2018, com relação à presença do servidor
+em Brasília/DF no dia 12 de março de 2024. Se sua chefia a considerou como falta justificada, ela poderia
+ter sido compensada até o mês subsequente pelo servidor, não sendo possível o abono como pediu o
+servidor ao SGP no Despacho / SRE - ES/COENGE - CAF - ES/SOT - ES (17582081), do dia 19 de abril
+de 2024, mais de um mês depois de sua ausência ao trabalho para participar de atividades da ANTSIT. Se
+sua chefia autorizar, o servidor pode usar o banco de horas para amortizar a referida ausência.
+24. Com relação à presença do servidor na reunião do dia 15 de maio de 2024, aplica-se o
+mesmo entendimento acima. Via de regra, ele deve compensar sua ausência ou utilizar o banco de horas,
+como sua chefia imediata já autorizou. 
+IV. CONCLUSÃO
+25. Assim, volta-se aos questionamentos realizados pelo SGP/ES:
+
+a) Qual o código deve ser utilizado no frequência SouGov para o dia 12/03/2024, na
+presente situação?
+Resposta: Se a chefia do servidor considerou a ausência dele como justificada, poderia
+então utilizar o banco de horas, pois não é mais possível a compensação.
+b) O servidor deve solicitar autorização prévia para participar de tais eventos?
+Resposta: Sim, pois sua chefia avaliará se a ausência pode ser justificada e autorizar a
+utilização do banco de horas e a compensação, dependendo do caso.
+c) O servidor que se ausenta do trabalho para participar de reuniões como representante de
+associação deve compensar a ausência?
+Resposta: A regra é a compensação até o próximo mês subsequente ao da ocorrência,
+conforme art. 12 da IN nº 02/2018, §§ 1º e 2º
+d) Existe alguma possibilidade estabelecida em legislação para a não compensação das
+horas não trabalhadas?
+Resposta: Sim, existem situações que não ensejam a compensação mas não abarcam esse
+caso do servidor em comento.
+e) Caso o servidor não queira utilizar o banco de horas e nem compensar as horas não
+trabalhadas, a chefia imediata deve registrar falta não justificada para o dia?
+Resposta: Certamente será falta, mas sua chefia pode optar para que seja ou não justificada.
+
+26. Após a resposta dos questionamentos realizados pelo SGP/ES, sugere-se o envio dos autos à
+SRE/ES para ciência do SGP/ES e do servidor em comento.
+
+ 
+À Consideração superior.
+ 
+ 
+
+assinado eletronicamente
+LUIZA LOUZADA HUGUENEY LACAVA
+
+Técnico Administrativo
+ 
+ 
+De acordo. À Coordenação de Legislação e Gestão Estratégica de Pessoas para apreciação e
+
+providências.
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_si… 11/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+
+ 
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JÚNIOR
+
+Chefe do Serviço Especializado de Orientação de Normas de Pessoal
+ 
+
+ 
+De acordo. À Coordenação-Geral de Gestão de Pessoas para apreciação e providências.
+ 
+ 
+
+assinado eletronicamente
+GIDALTI INÁCIO DA SILVA
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+ 
+Ciente e de acordo. Encaminhem-se os autos à SRE/ES para ciência do SGP/ES e do
+
+servidor em comento.
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+Coordenador-Geral de Gestão de Pessoas
+
+____________________________
+[1] FACHINI, Tiago. Princípio da legalidade: o que é e como ele se aplica na prática. PROJURIS. 2023.
+Disponível em: https://www.projuris.com.br/blog/principio-da-legalidade/. Acesso em: 12 jun. 2024.
+
+ 
+Brasília/DF, na data das assinaturas.
+
+Documento assinado eletronicamente por Luiza Louzada Hugueney Lacava, Técnico Administra vo,
+em 13/06/2024, às 13:16, conforme horário oficial de Brasília, com fundamento no art. 4º, § 3º, do
+Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe do Serviço
+Especializado de Orientação de Normas de Pessoal, em 13/06/2024, às 13:23, conforme horário
+oficial de Brasília, com fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+Documento assinado eletronicamente por Gidal  Inacio da Silva, Coordenador de Legislação e
+Gestão Estratégica de Pessoas, em 13/06/2024, às 14:45, conforme horário oficial de Brasília, com
+fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador-Geral de
+Gestão de Pessoas, em 13/06/2024, às 14:53, conforme horário oficial de Brasília, com fundamento
+no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 17882399 e
+o código CRC FCAA36E0.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_si… 12/13
+
+
+
+01/07/2024, 11:13 SEI/DNIT - 17882399 - Nota Técnica
+Referência: Processo nº 50617.000521/2024-72 SEI nº 17882399
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902
+Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18991882&infra_si… 13/13

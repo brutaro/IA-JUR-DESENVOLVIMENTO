@@ -1,0 +1,59 @@
+---
+description: Padrões específicos para desenvolvimento FastAPI
+globs: **/app.py,**/api/*.py,**/*fastapi*.py
+---
+
+# 🚀 Padrões FastAPI
+
+## Estrutura de Projeto
+```
+app.py                 # Aplicação principal
+├── models/           # Modelos Pydantic
+├── routes/           # Endpoints organizados
+├── services/         # Lógica de negócio
+└── dependencies/     # Injeção de dependências
+```
+
+## Modelos Pydantic
+```python
+from pydantic import BaseModel, Field
+
+class UserCreate(BaseModel):
+    """Modelo para criação de usuário"""
+    name: str = Field(..., min_length=1, max_length=100)
+    email: str = Field(..., regex=r'^[\w\.-]+@[\w\.-]+\.\w+$')
+    age: int = Field(..., ge=0, le=150)
+```
+
+## Endpoints
+- SEMPRE use Pydantic models para request/response
+- SEMPRE inclua documentação OpenAPI
+- SEMPRE implemente tratamento de erros
+- Use HTTPException para erros HTTP
+
+## Segurança
+- SEMPRE valide entrada de dados
+- SEMPRE use HTTPS em produção
+- SEMPRE implemente rate limiting
+- SEMPRE sanitize dados de entrada
+
+## Logging
+```python
+import logging
+logger = logging.getLogger(__name__)
+
+@app.post("/users/")
+async def create_user(user: UserCreate):
+    logger.info(f"Creating user: {user.email}")
+    try:
+        # lógica aqui
+        logger.info(f"User created: {user.email}")
+    except Exception as e:
+        logger.error(f"Failed to create user {user.email}: {str(e)}")
+        raise
+```
+
+## Configurações
+- Use variáveis de ambiente para configurações
+- Configure CORS apropriadamente
+- Use middleware para logging e segurança

@@ -1,0 +1,541 @@
+﻿01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+NOTA TÉCNICA Nº: 344/2020/COLEG/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50609.003372/2020-79
+REFERÊNCIA: PESSOAL: GRATIFICAÇÃO NATALINA (DÉCIMO TERCEIRO)
+OBJETO: CONSULTA SOBRE O PAGAMENTO DE GRATIFICAÇÃO NATALINA NOS CASOS DE
+VACÂNCIA DE FUNÇÃO.
+1. DOS FATOS
+1.1. O instrumento trata do questionamento efetuado pela Superintendência Regional no Estado
+do Paraná acerca do pagamento da gratificação natalina em situações específicas efetuado mediante o
+Despacho (DNIT) SGP - CAF - PR 7057629:
+
+Vimos através deste, buscar dirimir dúvidas quanto ao direito à Gratificação Natalina paga
+aos servidores nos casos de vacância de Função.
+Por meio da leitura e análise dos dispositivos anexos, concluímos que o direito à
+Gratificação Natalina deve ser verificado em dois momentos: no mês de dezembro de
+cada ano; e no momento da exoneração/dispensa de cargo/função pública. Não
+obstante, para sua adequada aplicação, faz-se necessária a distinção entre base de cálculo e
+fato gerador do direito à referida gratificação.
+Encontramos nos Arts. 63 e 65, da Lei nº 8.112/1990, o seguinte:
+
+“Art. 63.  A gratificação natalina corresponde a 1/12 (um doze avos) da remuneração
+a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo
+ano.
+Parágrafo único. A fração igual ou superior a 15 (quinze) dias será considerada como
+mês integral.
+(...)
+Art. 65. O servidor exonerado perceberá sua gratificação natalina, proporcionalmente
+aos meses de exercício, calculada sobre a remuneração do mês da exoneração.”
+
+De acordo com esses artigos, o cálculo para concessão do direito tomará como base a
+remuneração do mês de dezembro e/ou do mês em que se der a exoneração. O que
+significa dizer que todos os valores recebidos através de rubricas incidentes sobre a
+Gratificação Natalina nesses referidos meses, formarão a base de cálculo à qual se aplicará
+a regra de proporcionalização (1/12 avos desta base por mês de exercício no respectivo
+ano).
+Quanto ao fato gerador do direito, este se dá pelo exercício do cargo/função durante o ano,
+medido mensalmente, considerando-se como um mês frações iguais ou superiores a 15 dias
+de exercício.
+(...)
+Depreende-se das normas citadas, que apesar da aquisição do direito medir-se em frações
+mensais, a base de cálculo para sua concessão nada tem a ver com as remunerações desses
+meses, devendo ser calculada com base apenas na remuneração do mês de dezembro e/ou
+do mês em que se der a exoneração.
+O Ofício-Circular nº 83/SRH/MP (7057628), com o intuito de uma correta adequação e
+padronização dos cálculos relativos ao direito em tela, traz em seu bojo possíveis aplicações
+do entendimento disposto acima.
+As dúvidas deste Serviço de Gestão de Pessoas situam-se nas letras “c” e “d” do item
+3.1 deste Ofício. Temos abaixo o texto das letras citadas:
+“c) o servidor ocupante de cargo efetivo exonerado do cargo em comissão, receberá
+indenização de gratificação natalina proporcionalmente aos meses de exercício,
+calculada sobre a remuneração do mês em que ocorreu o ato exoneratório;
+d) o servidor ocupante de cargo efetivo exonerado de cargo em comissão e nomeado
+para outro de maior valor remuneratório, por exemplo, perceberá indenização de
+gratificação natalina, proporcionalmente aos meses de exercício tomando por base a
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 1/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+remuneração do mês em que ocorreu a exoneração, sem prejuízo do pagamento da
+gratificação natalina correspondente à remuneração do mês de dezembro.”
+
+1.2. Foi efetuado estudo de caso acerca da situação específica de um servidor daquela
+Superintendência, convergindo para os seguintes questionamentos:
+
+"Seguem estudos de casos:
+1 - SERVIDOR EFETIVO DISPENSADO DE FUNÇÃO NO DECORRER DO
+EXERCÍCIO 2019 (LETRA “C”):
+Data de designação na Função: 17/10/2018
+Data de dispensa da Função: 18/03/2019
+Valor da Função: R$ 6.223,98
+Férias 2019 usufruídas: 30 dias em Janeiro/2019
+Sem adiantamento de Gratificação Natalina
+ACERTO DA GRATIFICAÇÃO NATALINA DE 2019:
+(desconsideraremos os acertos referentes às Férias, uma vez que o presente questionamento
+se refere apenas ao tema da Gratificação Natalina)
+Exercício da Função em 2019: 01/01/2019 a 17/03/2019
+Número de meses de exercício no ano: 3 (considerando-se a regra dos 14 dias)
+Direito: 3/12 avos
+Cálculo: R$ 6.223,98/12 x 3 = R$ 1.555,99
+Gratificação Natalina proporcional pelo exercício da Função em 2019: R$ 1.555,99
+QUESTIONAMENTO:
+1.1          O acerto da Gratificação Natalina proporcional, pelo exercício da Função em
+2019, deve ser pago ao servidor na folha subsequente à dispensa ou somente na folha
+de novembro juntamente com a gratificação Natalina do cargo efetivo?
+2 - SERVIDOR EFETIVO DISPENSADO DE FUNÇÃO E DESIGNADO PARA
+OUTRA DE MAIOR VALOR REMUNERATÓRIO (LETRA “D”):
+Um servidor, ocupante de Função do tipo FCPE 101.1 desde 2015, é dispensado desta
+função em Abril/2019 e designado para Função DAS 101.1, de maior valor remuneratório,
+em Setembro/2019.
+QUESTIONAMENTO:
+2.1          Neste caso, seu acerto de Gratificação Natalina proporcional referente à
+Função FCPE 101.1 deve ser pago na folha subsequente à dispensa, ou seja, a de
+Maio/2019?
+2.2          Se sim, quando a Gratificação Natalina no mês de Dezembro/2019 for paga
+sobre o valor da Função DAS 101.4, deverá ser feito algum desconto do valor que foi
+pago em Maio a título de acerto da Função FCPE 101.1 ou a expressão “sem prejuízo
+do pagamento da gratificação natalina correspondente à remuneração do mês de
+dezembro”, contida na letra “d” supracitada, dispensa esse acerto?
+2.3          Uma vez que os valores pagos na ocasião da dispensa da Função FCPE 101.1
+dizem respeito a este vínculo, e os valores pagos em Dezembro dizem respeito ao
+vínculo ativo a esse tempo, devemos considerar que os dois pagamentos não
+configuram duplicidade uma vez que dizem respeito a vínculos diferentes?". Grifos
+nossos
+
+2. DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2.1. De acordo com a Lei n° 8.112/90, a gratificação natalina corresponde a 1/12 (um doze avos)
+da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano. A
+fração igual ou superior a quinze dias será considerada como mês integral e a gratificação será paga até o
+dia 20 de dezembro de cada ano. O servidor exonerado perceberá a gratificação natalina
+proporcionalmente aos meses de exercício, calculada sobre a remuneração do mês da exoneração.
+Consoante Nota Técnica/MP n° 1093/2010,  são duas parcelas, uma no mês de junho e a outra no mês de
+dezembro. Por questões operacionais, no âmbito do Poder Executivo, o pagamento da segunda parcela da
+referida indenização é realizado no início do mês de dezembro, em concomitância com a remuneração do
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 2/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+mês de novembro, base de cálculo da referida gratificação. Em caso de alteração da remuneração do
+servidor no mês de dezembro, eventuais acertos serão realizados na remuneração subseqüente, paga no
+início do mês de janeiro.
+2.2. Sobre o tema, mediante a emissão da Nota Técnica/MP n° 609/2009, o Ministério do
+Planejamento, Orçamento e Gestão, atual Ministério da Economia, dirimiu questionamento relacionado à
+situação de servidores que exerceram substituição de ocupantes de cargo ou função de direção ou chefia,
+especificamente se o cálculo para a percepção da Gratificação Natalina deveria ser feito sobre a
+remuneração do cargo ao qual os servidores substituíram no mês de dezembro ou se sobre os valores
+originários de seus cargos efetivos. Concluíram que a base de cálculo da gratificação natalina seria a
+remuneração do mês de dezembro. Os valores recebido a título de substituição dos ocupantes de cargo
+em comissão cargo ou função de direção ou chefia somente poderiam ser utilizados para cálculo da
+gratificação natalina, no caso em que a substituição se desse no mês de dezembro. Aludiram ao ao
+Ofício-Circular n° 83/2002 para explicitar a pacificação do entendimento, in verbis:
+
+“3. Gratificação natalina: A gratificação natalina, também denominada 13º (décimo
+terceiro)salário, é uma gratificação salarial paga aos servidores públicos federais,
+utilizando-se como base de cálculo a remuneração referente ao mês de dezembro, conforme
+dispõe o art. 63 da Lei nº 8.112, de1990. Esclareça-se que a expressão “por mês de
+exercício no respectivo ano”, utilizada no mencionado dispositivo legal deve ser entendida
+como sendo o tempo de efetivo exercício prestado pelo servidor.
+
+3.1. Dos pagamentos/indenizações
+a) o pagamento da gratificação natalina será efetuado de forma integral, tomando-se
+por base a remuneração do mês de dezembro, desde que no respectivo ano tenha
+havido efetivamente o exercício em quaisquer cargos e/ou funções públicas;
+b) o servidor detentor de cargo efetivo nomeado para cargo em comissão no decorrer
+do exercício, fará jus ao pagamento integral, no mês de dezembro, da gratificação
+natalina calculada com base na remuneração do mês de dezembro;
+c) o servidor ocupante de cargo efetivo exonerado do cargo em comissão, receberá
+indenização de gratificação natalina proporcionalmente aos meses de exercício,
+calculada sobre a remuneração do mês em que ocorreu o ato exoneratório;
+d) o servidor ocupante de cargo efetivo exonerado de cargo em comissão e nomeado
+para outro de maior valor remuneratório, por exemplo, perceberá indenização de
+gratificação natalina ,proporcionalmente aos meses de exercício tomando por base a
+remuneração do mês em que ocorreu a exoneração, sem prejuízo do pagamento da
+gratificação natalina correspondente à remuneração do mês de dezembro;
+e) o servidor sem vínculo nomeado para cargo em comissão ou equivalente, fará jus
+à gratificação natalina calculada proporcionalmente aos meses que efetivamente
+esteve em exercício, tomando-se por base a remuneração do mês de dezembro;
+f) servidor sem vínculo exonerado de cargo em comissão ou equivalente, perceberá
+indenização de gratificação natalina proporcionalmente aos meses de exercício,
+calculada sobre a remuneração do mês em que ocorreu o ato exoneratório."
+
+2.3. Em outra ocasião, foi exarada a Nota Técnica/MP n° 42/2015 sobre o pagamento da
+gratificação natalina a servidor que solicitou vacância por posse em outro cargo inacumulável. No caso em
+comento, o servidor solicitou o pagamento da gratificação natalina proporcional ao período de 01 de
+janeiro de 2014 a 30 de abril de 2014 (data da vacância), equivalente a 4/12 (quatro doze avos) relativo ao
+tempo de serviço na Anatel. No entanto, o TCU entendeu que o servidor receberia 8/12 (oito doze avos) de
+gratificação natalina por aquele órgão, nos termos do art. 2 da Portaria TCU nº 214, de 30 de setembro de
+2003. A Anatel defendeu que caberia ao TCU o pagamento da gratificação natalina, com base no Parecer
+2/2014/ADJ/PFEAnatel/AGU, da Procuradoria Especializada junto aquela autarquia, na Nota Técnica nº
+01/2011/DENOP/SRH/MP e no Ofício-Circular nº 83/SRH/MP. Nesse sentido, há menção da Nota
+Técnica nº 13484/2014/SEIMC emitida pela Coordenação-Geral de Gestão de Pessoas do Ministério das
+Comunicações – CGGP/MC , na qual consta o esclarecimento de que independente dos cargos ocupados
+ao longo do ano, desde que não haja interrupção ou rompimento do vínculo jurídico com a Administração
+pública, a gratificação do servidor deverá ser paga integralmente pela mesma fonte que pagar a
+remuneração de dezembro, considerando os meses trabalhados no exercício e a remuneração a qual fizer
+jus em dezembro (...). Independente do valor e dos cargos que o servidor tiver ocupado no exercício, o
+órgão que pagar a remuneração do mês de dezembro será responsável por pagar integralmente a
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 3/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+gratificação natalina a que o servidor tiver direito. Deverá ser paga de forma integral, computando todos
+os meses trabalhados no exercício, e não apenas proporcionalmente aos meses em que o servidor estiver
+em exercício em determinado órgão.
+2.4. Sendo assim, os servidores públicos federais fazem jus à gratificação natalina ou décimo
+terceiro salário calculada a partir da remuneração referente ao mês de dezembro (base de cálculo), desde
+que, no ano, o servidor tenha prestado serviço no cargo ou função pública. A expressão "por mês de
+exercício no respectivo ano" deve ser entendida como "tempo de efetivo exercício prestado pelo
+servidor".  O entendimento converge para os seguintes pontos: a) a base de cálculo da gratificação natalina
+é a remuneração do mês de dezembro, situação que importa no reconhecimento dos valores recebidos
+nesse mês para o seu cálculo; b) o servidor que solicitou vacância por posse em outro cargo inacumulável
+poderá utilizar o tempo de serviço prestado em outro cargo público para fins de percepção de gratificação
+natalina, desde que não tenha havido interrupção de interstício entre a exoneração e a nomeação no novo
+cargo; e c) independente do valor e dos cargos que o servidor tiver ocupado no exercício, o órgão que
+pagar a remuneração do mês de dezembro, será responsável por pagar integralmente a gratificação
+natalina a que o servidor tiver direito, computando todos os meses trabalhados no exercício, e não apenas
+proporcionalmente aos meses em que o servidor estiver em exercício em determinado órgão.
+2.5. Ocorre que, acompanhando as prescrições do Parecer/AGU n° 00982/2018, houve alusão
+ao Parecer/AGU n° 0076/2016, que concluiu contrariamente à Nota Técnica/MP n° 42/2015. A conclusão
+do Parecer/AGU n° 0076/2016 viabilizaria a percepção da gratificação natalina proporcionalmente aos
+meses de exercício em cada um dos cargos que o servidor ocupou (transição do cargo de Técnico
+Judiciário da Justiça Federal para o cargo de Procurador da Fazenda Nacional), calculada sobre a
+remuneração de cada um deles. Nesse sentido, a regra aplicável não seria o art. 63 da Lei n° 8/112/90,
+que prevê o pagamento da gratificação na forma de um doze avo da remuneração a que o servidor fizer jus
+no mês de dezembro, por mês de exercício no respectivo ano, mas sim o art. 65 da mesma Lei, que
+esclarece que o servidor perceberá a gratificação natalina proporcionalmente aos meses de exercício
+calculada sobre a remuneração do mês de exoneração. Não obstante, o relator do Parecer/AGU n°
+00982/2018 afirmou que, ainda que ocorra a vacância do cargo público, em virtude de posse em
+outro cargo inacumulável pertencente à União, prevalece a mesma relação Jurídica e, por isso, não
+seria apropriado o enquadramento da situação nas prescrições do art. 65 da Lei n° 8.112/90, mas
+sim a aplicação do art. 63 da Lei n° 8/112/90, in verbis:
+
+"(...) é aplicável à situação ora tratada o art. 63 da Lei n. 8.112/1990, que elege a
+remuneração do mês de dezembro como base de cálculo da gratificação natalina. Nesse
+particular, faz-se necessário distinguir a base de cálculo da parcela (remuneração de
+dezembro) do seu fato gerador, que é o exercício de cargo público durante o ano, em
+dezembro ou em qualquer outro mês, desde que por fração superior a 15 (quinze) dias.
+Dessa forma, ainda que o fato gerador do benefício seja o exercício do cargo durante o ano,
+não há, consoante as disposições legais aplicáveis, necessária correlação do seu valor com
+as remunerações percebidas durante esse período, mas sim com a remuneração a que o
+servidor fizer jus em dezembro.
+Nesse sentido, há decisão do Supremo Tribunal Federal que afirma o caráter único da
+gratificação natalina, correspondente à unidade de tempo "ano". O julgado foi proferido em
+atenção à aquisição do direito pelos servidores no ano da promulgação da Constituição
+Federal, que estendeu a eles a parcela antes restrita às relações trabalhistas. Considerou-se
+que a promulgação da Carta somente em outubro de 1988 não ensejaria a proporcionalidade
+do benefício, em vista do seu caráter único. O voto expressamente destacou a produção de
+efeitos da gratificação natalina com relação ao ano a que se refere, e não a cada mês de
+trabalho (AgRg n. 176194-7 - RJ, rel. Ministro Marco Aurélio, d.j. 12.03.1996).
+(...)
+Assim, deve prevalecer o entendimento de que a base de cálculo da gratificação natalina
+consiste na remuneração do mês de dezembro. Em caso de mudança de cargo no decorrer
+do ano (vacância por posse em outro cargo inacumulável), a gratificação deve ser paga com
+base na remuneração de dezembro, computando todos os meses trabalhados no exercício,
+inclusive no outro cargo, sem cálculo proporcional à remuneração de cada um dos cargos
+exercidos.
+(...)
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 4/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+A meu ver, o entendimento dos Pareceres n. 00716/2016/LFL/CGJRH/CONJUR-
+MP/CGU/AGU e n. 1269-3.10/2014/TLC/CONJUR/MP-CGU/AGU não estão de
+acordo com a ordem jurídica vigente. Como afirmado acima, a gratificação natalina
+deve ser calculada com base na remuneração de dezembro, razão pela qual não é
+possível a sua proporcionalidade com relação à remuneração recebida durante o ano.
+Outrossim , conforme o AgRg n. 176194-7 (transcrito no item 10 acima), o STF
+rechaçou a tese de que esse direito se adquire mês a mês, afirmando que a gratificação
+natalina refere-se à unidade de tempo "ano", não sendo o caso, portanto, de
+proporcionalizar o seu cálculo com relação à remuneração de cada mês.
+Dessa maneira, deve prevalecer o entendimento de que o exercício de substituição de
+cargo em comissão/ função de chefia ou direção somente repercute na gratificação
+natalina se ele houver ocorrido no mês de dezembro, uma vez que a parcela considera
+como base de cálculo somente a remuneração a que o servidor fizer jus nesse mês."
+Grifos nossos
+
+2.6. Significa afirmar que prevaleceria a configuração de cálculo conforme esclarecido na Nota
+Técnica/MP n° 13.920/2018 e na Nota Técnica/MP n° 609/2009. A conclusão apoia o pagamento da
+gratificação natalina considerando a base de cálculo a remuneração a que fizer jus o servidor no mês de
+dezembro e, caso ocorra mudança de cargo no decorrer do ano, a gratificação deve ser paga com base na
+remuneração de dezembro, computando todos os meses trabalhados no exercício, inclusive no outro cargo,
+sem cálculo proporcional à remuneração de cada um dos cargos exercidos; o exercício de
+substituição de cargo em comissão/ função de chefia ou direção somente repercute no valor da
+gratificação natalina se ele houver ocorrido no mês de dezembro. No caso de vacância por exoneração,
+sem posse imediata em outro cargo, a indenização de gratificação natalina será paga na forma do art. 65
+da Lei n° 8.112/90, ou seja, proporcional aos meses de exercício, calculada sobre a remuneração do mês
+da exoneração, tendo em vista a quebra de vínculo entre o servidor e o Estado. No caso de vacância de
+servidor estável, com posse em cargo inacumulável, por prevalecer a relação jurídica entre o servidor e o
+Estado, a regra de cálculo da gratificação natalina é a remuneração de dezembro deduzindo os pagamentos
+efetuados a este título no ano, in verbis:
+
+"16. Dessa forma, se o exercício é o efetivo desempenho das atribuições do cargo público
+ou da função de confiança e estando o servidor em exercício do cargo público em todos os
+meses de determinado ano, mesmo que em cargos, órgãos ou poderes da União distintos, a
+base de cálculo da gratificação natalina será a remuneração de dezembro.
+17. A titulo de informação, a Câmara dos Deputados assim como o SIPEC, adota a mesma
+regra de cálculo da Lei nº 8.112/90.
+
+ATO DA MESA Nº 91, DE 29/11/2006
+Art. 6° O servidor que apresentar declaração de vacância de cargo público federal
+terá o tempo de exercício no cargo anterior considerado para o cálculo da
+gratificação natalina, descontando-se, por ocasião do pagamento, a importância
+eventualmente recebida no órgão de origem a título de adiantamento, no respectivo
+ano.
+
+18. Quanto ao pagamento de gratificação natalina sobre a substituição de ocupante de
+função que é exercida apenas em dezembro, não há legalmente como orientar diferente,
+tendo em vista que a substituição é remuneração, conforme a Lei n° 8.852, de 4 de fevereiro
+de 1994, art. 1°, inciso III:
+
+III - como remuneração, a soma dos vencimentos com os adicionais de caráter
+individual e demais vantagens, nestas compreendidas as relativas à natureza ou ao
+local de trabalho e a prevista no art. 62 da Lei nº 8.112, de 1990, ou outra paga sob o
+mesmo fundamento, sendo excluídas:
+
+CONCLUSÃO
+20. Diante do exposto, considerando-se a distinção entre os institutos da exoneração e
+da vacância de cargo público previstos em lei, sugere-se o encaminhamento da
+presente Nota Técnica à CONJUR/MP para que seja verificada a possibilidade de
+revisão do entendimento constante do supracitado Parecer nº
+00716/2016/CFL/CGJRH/CONJUR-MP/GU/AGU." Grifos nossos
+
+2.7. A Nota Técnica/MP n° 68/2015 alude à Orientação Normativa n° 2/2011 ao afirmar que é
+aplicada por parâmetro em relação aos casos de concessão de gratificação natalina no sentido de que o
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 5/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+servidor que solicitou vacância para fins de posse em outro cargo inacumulável e mantém-se regido pela
+Lei n° 8.112/90, bem como cumpriu o interstício de doze meses de efetivo exercício no cargo
+anteriormente ocupado, fará jus à gratificação natalina correspondente aquele ano civil no novo cargo
+efetivo.
+2.8. Em 2020,  o Conselho Superior da Justiça do Trabalho do Poder Judiciário emitiu um
+Acórdão mediante o qual propunha a alteração da Resolução CSJT nº 102/2012 sobre a regulamentação da
+gratificação natalina. A redação legal proposta foi a seguinte, in verbis:
+
+"Art. 1º A Resolução CSJT n.º 102, de 25 de maio de 2012, passa a vigorar com as
+seguintes alterações:
+“Art. 4º [...]
+§1º O servidor deve exercer o cargo em comissão ou função comissionada por, no mínimo,
+15 (quinze) dias no mês para que o referido mês seja considerado na apuração proporcional
+da gratificação natalina decorrente da respectiva remuneração, nos termos do art. 63,
+parágrafo único da Lei n.º 8.112/90 e art. 2º, §1º desta Resolução.
+§2º Havendo exercício de cargos ou funções comissionadas diferentes por períodos
+iguais ou superiores a 15 (quinze) dias, dentro do mesmo mês, considerar-se-á a
+remuneração mais vantajosa. " Grifos nossos
+
+2.9. Na Instrução Normativa do Conselho Nacional de Justiça, a redação é similar, in verbis:
+"Art. 2° O servidor que durante o ano esteve investido em função comissionada ou cargo
+em comissão, ainda que em substituição, perceberá a gratificação natalina proporcional aos
+meses de exercício em cada comissionamento, desde que não tenha havido indenização
+prévia. 
+
+Parágrafo único. Havendo exercício de cargos ou funções comissionadas diferentes por
+período igual a 15 dias, dentro do mesmo mês, considerar-se-á a remuneração mais
+vantajosa." Grifos nossos
+
+2.10. As duas redações negritadas acima sugerem que, havendo o exercício de cargos ou funções
+comissionadas diferentes por período igual a 15 dias, dentro do mesmo mês, a remuneração mais vantajosa
+será considerada no cálculo da gratificação natalina.
+2.11. Combinando as orientações acima à situação específica apresentada por aquele SGP-PR,
+descrita no item 1.2 dos fatos, pontuamos:
+
+Questionamento: o acerto da Gratificação Natalina proporcional, pelo exercício da Função em 2019,
+deve ser pago ao servidor na folha subsequente à dispensa ou somente na folha de novembro
+juntamente com a gratificação Natalina do cargo efetivo?
+Questionamento: um servidor, ocupante de Função do tipo FCPE 101.1 desde 2015, é dispensado
+desta função em Abril/2019 e designado para Função DAS 101.1, de maior valor remuneratório, em
+Setembro/2019. Neste caso, seu acerto de Gratificação Natalina proporcional referente à Função
+FCPE 101.1 deve ser pago na folha subsequente à dispensa, ou seja, a de Maio/2019?
+
+Respostas: I - O Ofício-Circular n° 83/2002 esclarece que o pagamento da gratificação
+natalina será efetuado de forma integral, tomando-se por base a remuneração do mês de
+dezembro, desde que no respectivo ano tenha havido efetivamente o exercício em quaisquer
+cargos e/ou funções públicas;
+
+II - O servidor detentor de cargo efetivo nomeado para cargo em comissão no
+decorrer do exercício, fará jus ao pagamento integral, no mês de dezembro, da
+gratificação natalina calculada com base na remuneração do mês de dezembro;
+III - O servidor ocupante de cargo efetivo exonerado do cargo em
+comissão receberá indenização de gratificação natalina proporcionalmente aos
+meses de exercício, calculada sobre a remuneração do mês em que ocorreu o ato
+exoneratório; e
+IV - O servidor ocupante de cargo efetivo exonerado de cargo em comissão e
+nomeado para outro de maior valor remuneratório, por exemplo, perceberá
+indenização de gratificação natalina proporcionalmente aos meses de exercício,
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 6/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+tomando por base a remuneração do mês em que ocorreu a exoneração, sem
+prejuízo do pagamento da gratificação natalina correspondente à remuneração do
+mês de dezembro.
+
+2.12. Ademais, reforçamos que, de acordo com a Lei n° 8.112/90, a regra é a de que a
+gratificação natalina é paga até o dia 20 de dezembro de cada ano. Em caso de alteração da
+remuneração do servidor no mês de dezembro, eventuais acertos serão realizados na remuneração
+subsequente, paga no início do mês de janeiro. Consoante Nota Técnica/MP n° 13.920/2018 e Nota
+Técnica/MP n° 609/2009, caso ocorra mudança de cargo no decorrer do ano, a gratificação deve ser paga
+com base na remuneração de dezembro, computando todos os meses trabalhados no exercício, inclusive
+no outro cargo. No caso de vacância por exoneração, sem posse imediata em outro cargo, a indenização
+de gratificação natalina será paga na forma do art. 65 da Lei n° 8.112/90, ou seja, proporcional aos meses
+de exercício, calculada sobre a remuneração do mês da exoneração, tendo em vista a quebra de vínculo
+entre o servidor e o Estado. No caso de vacância de servidor estável, com posse em cargo inacumulável,
+por prevalecer a relação jurídica entre o servidor e o Estado, a regra de cálculo da gratificação natalina é a
+remuneração de dezembro deduzindo os pagamentos efetuados a este título no ano.
+3. CONCLUSÃO
+3.1. Feitas as considerações, pontuamos:
+
+3.1.1. Mediante o Despacho (DNIT) SGP - CAF - PR 7057629, o SGP-PR efetuou os
+questionamentos descritos no item 1.2 dos fatos;
+3.1.2. De acordo com a Lei n° 8.112/90, a gratificação natalina corresponde a 1/12 (um doze
+avos) da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no
+respectivo ano. A fração igual ou superior a quinze dias será considerada como mês integral e a
+gratificação será paga até o dia 20 de dezembro de cada ano. O servidor exonerado perceberá a
+gratificação natalina proporcionalmente aos meses de exercício, calculada sobre a remuneração do
+mês da exoneração. Consoante Nota Técnica/MP n° 1093/2010,  são duas parcelas, uma no mês de
+junho e a outra no mês de dezembro. Por questões operacionais, no âmbito do Poder Executivo, o
+pagamento da segunda parcela da referida indenização é realizado no início do mês de dezembro, em
+concomitância com a remuneração do mês de novembro, base de cálculo da referida gratificação. Em
+caso de alteração da remuneração do servidor no mês de dezembro, eventuais acertos serão realizados
+na remuneração subseqüente, paga no início do mês de janeiro;
+3.1.3. A respeito do tema, os normativos aplicáveis são o Ofício-Circular n° 83/2002, a Nota
+Técnica/MP n° 609/2009, a Nota Técnica/MP n° 42/2015, a Nota Técnica/MP n° 68/2015 e a Nota
+Técnica/MP n° 13.920/2018;
+3.1.4. Combinando as orientações acima à situação específica apresentada por aquele SGP-
+PR, descrita no item 1.2 dos fatos, pontuamos:
+
+Questionamento: o acerto da Gratificação Natalina proporcional, pelo exercício da Função em
+2019, deve ser pago ao servidor na folha subsequente à dispensa ou somente na folha de
+novembro juntamente com a gratificação Natalina do cargo efetivo?
+Questionamento: um servidor, ocupante de Função do tipo FCPE 101.1 desde 2015, é
+dispensado desta função em Abril/2019 e designado para Função DAS 101.1, de maior valor
+remuneratório, em Setembro/2019. Neste caso, seu acerto de Gratificação Natalina
+proporcional referente à Função FCPE 101.1 deve ser pago na folha subsequente à dispensa, ou
+seja, a de Maio/2019?
+Respostas: I - O Ofício-Circular n° 83/2002 esclarece que o pagamento da gratificação
+natalina será efetuado de forma integral, tomando-se por base a remuneração do mês de
+dezembro, desde que no respectivo ano tenha havido efetivamente o exercício em quaisquer
+cargos e/ou funções públicas;
+II - O servidor detentor de cargo efetivo nomeado para cargo em comissão no decorrer do
+exercício, fará jus ao pagamento integral, no mês de dezembro, da gratificação natalina
+calculada com base na remuneração do mês de dezembro;
+III - O servidor ocupante de cargo efetivo exonerado do cargo em comissão receberá
+indenização de gratificação natalina proporcionalmente aos meses de exercício, calculada sobre
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 7/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+a remuneração do mês em que ocorreu o ato exoneratório; e
+IV - O servidor ocupante de cargo efetivo exonerado de cargo em comissão e nomeado para
+outro de maior valor remuneratório, por exemplo, perceberá indenização de gratificação
+natalina proporcionalmente aos meses de exercício, tomando por base a remuneração do mês
+em que ocorreu a exoneração, sem prejuízo do pagamento da gratificação natalina
+correspondente à remuneração do mês de dezembro.
+Ademais, reforçamos que, de acordo com a Lei n° 8.112/90, a regra é a de que a gratificação
+natalina é paga até o dia 20 de dezembro de cada ano. Em caso de alteração da
+remuneração do servidor no mês de dezembro, eventuais acertos serão realizados na
+remuneração subseqüente, paga no início do mês de janeiro. Consoante Nota Técnica/MP
+n° 13.920/2018 e Nota Técnica/MP n° 609/2009, caso ocorra mudança de cargo no decorrer do
+ano, a gratificação deve ser paga com base na remuneração de dezembro, computando todos os
+meses trabalhados no exercício, inclusive no outro cargo. No caso de vacância por exoneração,
+sem posse imediata em outro cargo, a indenização de gratificação natalina será paga na forma
+do art. 65 da Lei n° 8.112/90, ou seja, proporcional aos meses de exercício, calculada sobre a
+remuneração do mês da exoneração, tendo em vista a quebra de vínculo entre o servidor e o
+Estado. No caso de vacância de servidor estável, com posse em cargo inacumulável, por
+prevalecer a relação jurídica entre o servidor e o Estado, a regra de cálculo da gratificação
+natalina é a remuneração de dezembro deduzindo os pagamentos efetuados a este título no ano.
+
+3.2. Esta Coordenação de Legislação Estratégica de Pessoas contribuiu explicitando a
+fundamentação de fato e de direito concernente ao tema, especificamente elucidando a respeito da forma
+como a gratificação natalina deve ser legalmente calculada. No entanto, os questionamentos efetuados
+naquele  Despacho (DNIT) SGP - CAF - PR 7057629 possuem caráter eminentemente cadastral e de
+pagamento e, nesse sentido, resta saber se o raciocínio apresentado por aquele Serviço de Gestão de
+Pessoas acerca do pagamento da gratificação natalina no caso específico descrito no item 1.2 dos fatos está
+correto e de acordo com a legislação correlata retromencionada, motivo pelo qual é apropriada a sugestão
+de direcionamento do pleito à Coordenação de Cadastro e Pagamento para revisão.
+
+ 
+assinado eletronicamente
+
+JACQUELINE GOMES FERRAZ
+Técnico Administrativo
+
+ 
+Acompanhando os esclarecimentos efetuados, encaminho os autos ao Coordenador de
+
+Legislação e Gestão Estratégica de Pessoas, com a sugestão de direcionamento do pleito à Coordenação de
+Cadastro e Pagamento, para atendimento do que dispõe o item 3.2 supramencionado.
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JÚNIOR
+
+Chefe da Divisão de Orientação de Normas de Pessoal
+ 
+Ciente e de acordo. Direciono o instrumento à Coordenação de Cadastro e pagamento para
+
+revisão do estudo de caso apresentado pelo SGP-PR descrito no item 1.2 dos fatos.
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+
+Brasília/DF, 21 de dezembro de 2020.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 8/9
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7151033 - Nota Técnica
+
+Documento assinado eletronicamente por Jacqueline Gomes Ferraz, Técnico Administra vo, em
+22/12/2020, às 10:55, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Seção de
+Pesquisas e Estudos de Desenvolvimento de Pessoal, em 22/12/2020, às 10:57, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador de Legislação
+de Pessoal, em 22/12/2020, às 11:41, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 7151033 e
+o código CRC D41F0D1E.
+
+Referência: Processo nº 50609.003372/2020-79 SEI nº 7151033
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7692245&infra_siste… 9/9

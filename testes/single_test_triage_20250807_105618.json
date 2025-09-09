@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-08-07T10:56:18.558716",
+  "test_result": {
+    "test_name": "Teste de Triagem",
+    "query": "Existe algum precedente similar sobre ART/RRT no DNIT?",
+    "expected_type": "triage",
+    "actual_type": "triage",
+    "success": true,
+    "duration": 14.862896,
+    "result": {
+      "status": "completed",
+      "type": "triage",
+      "query": "Existe algum precedente similar sobre ART/RRT no DNIT?",
+      "confidence": 0.744664192,
+      "decision": "refer_existing",
+      "similar_documents": [
+        {
+          "id": "19_2023_50600.006054.2022.10_e-3",
+          "title": "30/2022/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": "o para que o\nDNIT pague apenas a ART de cargo e função. A Nota Técnica faz um excelente\ncontextualização histórica sobre as manifestações jurídicas da PFE/DNIT( PARECER N.\n00007/207/CPLC/PGF/AGU (0396169), Parecer nº 00971/2017/PFE-\nDNIT/PGF/AGU(0396169), Parecer nº 30/2018/DECOR/CGU/AGU (6607588) e PARECER\nn. 00112/2019/PFE-DNIT/PGF/AGU(2668305); da PGF/AGU( Parecer nº\n30/2018/DECOR/CGU/AGU), CGU/AGU( Parecer nº 30/2018/DECOR/CGU/AG) e a\nrepercussão geral decorrente do julgamento do Recurso Extraordinário 838.284 que ao cabo\nveio a orientação geral pela Diretoria Geral, por meio do Memorando-Circular nº\n2377/2018/ASSJUR/DIR/DNIT SEDE (1447588) informaram as Coordenações Setoriais e\nSuperintendências sobre a referida decisão e deram amplo conhecimento dos pareceres para\nque fossem tomadas as providências quanto ao pagamento das ARTs. Portanto, pacificado\npelas manifestações jurídicas mencionadas no item anterior e já de conhecimento da\nAdministração de que cabe ao DNIT o recolhimento das ARTs e RRT sempre que seus\nseus servidores, respeitadas as atribuições dos seus respectivos cargos e funções,\ndesempenhem atividades passíveis de recolhimento das referidas taxas.\n\n\n\n(...)\n7. De fa",
+          "score": 0.744664192,
+          "metadata": {
+            "numero_processo": "50600.006054/2022-10",
+            "objeto": "OFÍCIO Nº 006/2022 - STF - INFORMAÇÕES SOBRE OBRA",
+            "fonte_sei": "13119653",
+            "referencia_cabecalho": "INFORMAÇÕES E CONSULTAS: SOLICITAÇÕES DE INFORMAÇÕES"
+          },
+          "calculated_similarity": 0.744664192
+        },
+        {
+          "id": "100_2023_50612.001436.2023.91_e-13",
+          "title": "169/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": "função, regulamentada nos arts. 43 a 46 da Resolução\nn.º 1.025/2009 do CONFEA. Assim, já estão ocorrendo o pagamento de ARTs de cargo e função por parte\nde vários setores do DNIT.\n15. Corroborando com esse entendimento, o Tribunal de Contas da União - TCU, no ACÓRDÃO\nN.º 1703/2013 - TCU - 2ª Câmara 15276990, decidiu, por unanimidade, que a ausência de Anotação de\nResponsabilidade Técnica -ART, afronta o disposto nos arts. 1º e 2º da Lei n.º 6.496/1977 e art. 3º da\nResolução Confea n.º 425/1998.\n16. Nesse diapasão, a Procuradoria Federal Especializada junto ao DNIT - PFE-DNIT, por meio\nda NOTA n.º 00005/2022/CAE/PFE-DNIT/PGF/AGU 15277037, exarou manifestação no sentido de\nque cabe ao DNIT o recolhimento das ARTs e RRT sempre que seus seus servidores, respeitadas as\natribuições dos seus respectivos cargos e funções, desempenhem atividades passíveis de recolhimento das\nreferidas taxas.\n\nD a  L e i  n . º  5 . 1 9 4 ,  d e  2 4  d e  d e z e m b r o  d e  1 9 6 6 .\n17. A Lei n.º 5.194, de 24 de dezembro de 1966 15277002, que regula o exercício das profissões\nde Engenheiro, Arquiteto e Engenheiro-Agrônomo, e dá outras providências, determina,\nexpressamente, em seu artigo 63, que os prof",
+          "score": 0.713504612,
+          "metadata": {
+            "numero_processo": "50612.001436/2023-91",
+            "objeto": "RESTITUIÇÃO DE VALORES PAGOS ANUIDADE CREA",
+            "fonte_sei": "15277289",
+            "referencia_cabecalho": "ARRECADAÇÃO: RESTITUIÇÃO/COMPENSAÇÃO"
+          },
+          "calculated_similarity": 0.713504612
+        },
+        {
+          "id": "32_2023_50600.021263.2022.85_e-47",
+          "title": "188/2022/DINOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": " previsto na\nLei nº 13.639/2018, especialmente nos seus arts. 17 a 19 e regulamentado pela Resolução CFT nº\n55/2019, dos tipos TRT de obra e serviço, TRT das atividades técnicas de rotina, TRT de cargo ou\nfunção técnica, TRT derivado e TRT extemporâneo, sugere-se encaminhar questionamento à PFE-\n\n\n\nDNIT para, assim como já fez em relação ao pagamento da Anotação de Responsabilidade Técnica -\nART do Sistema CONFEA/CREA, responder como será cumprida essa legislação no âmbito do\nDNIT em relação aos seus servidores que possuem cargo de técnico e habilitações técnicas\nregulamentadas pelo Conselho Federal de Técnicos Industriais.\n32. Assim, por ora, não se revela razoável que esta Divisão emita parecer conclusivo\nsobre a questão, permanecendo no aguardo da uniformização de entendimento, bem como retomar a\nanálise, dentro de suas competências regimentais, somente após posicionamento da Procuradoria\nFederal Especializada junto ao DNIT - PFE/DNIT.\nIII - CONCLUSÃO\n33. Diante de todo exposto neste documento, considerando que, além do objeto da\ndemanda versar de notificação encaminhada à esta Autarquia, e que as dúvidas\nsuscitadas extrapolam a esfera de competência desta Divisão de Orientação ",
+          "score": 0.704542816,
+          "metadata": {
+            "numero_processo": "50600.021263/2022-85",
+            "objeto": "OFÍCIO Nº 030/2022/GAB/CRT01",
+            "fonte_sei": "12499708",
+            "referencia_cabecalho": "DEMANDA EXTERNA: OUTRAS ENTIDADES PRIVADAS"
+          },
+          "calculated_similarity": 0.704542816
+        },
+        {
+          "id": "110_2023_50614.001769.2023.08_e-51",
+          "title": "156/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": "o DNIT cujos cargos demandem o desenvolvimento de\natividade técnica no âmbito das profissões de engenharia, arquitetura e agronomia\":\n\n\"Deste modo, em reforço às recomendações exaradas pela PFE/DNIT, por meio\ndo Despacho nº 01119/2021/CCON/PFE-DNIT/PGF/AGU (SEI nº 9832219),\naprovado pelo Despacho nº 00614/2021/GABINETE/PFE-DNIT/PGF/AGU (SEI nº\n9832221), alerta-se, que, somente na hipótese de emergência e transitoriedade é\nque se autoriza o pagamento de Anotação de Responsabilidade Técnica - ART e\nRegistro de Responsabilidade Técnica - RRT referente a servidor público cujo\ncargo não demande o desenvolvimento de atividade técnica no âmbito das\nprofissões de engenharia, arquitetura e agronomia, sob pena de ilegalidade e\ncontrovérsias quanto ao pagamento das diferenças salarias decorrentes do desvio\nde função.\nIII. conclusão\nDiante de todo o exposto neste documento, acerca da viabilidade do DNIT custear o\npagamento da anuidade do Conselho de Arquitetura e Urbanismo, a taxa do Registro\nde Responsabilidade Técnica - RRT e a Anotação de Responsabilidade Técnica -\nART, ressalte-se que esta Divisão de Orientação de Normas de Pessoal manifesta-se\ncom o seguinte entendimento:\n(...)\nReferente ",
+          "score": 0.703641593,
+          "metadata": {
+            "numero_processo": "50614.001769/2023-08",
+            "objeto": "SOLICITA A DESIGNAÇÃO DE ANALISTA EM INFRAESTRUTURA DE",
+            "fonte_sei": "15153121",
+            "referencia_cabecalho": "PESSOAL: MOVIMENTAÇÃO DE SERVIDOR"
+          },
+          "calculated_similarity": 0.703641593
+        },
+        {
+          "id": "33_2021_50600.010011.2021.40_e-36",
+          "title": "35/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": "meira no ano\nde 2020 (processo SEI nº 50606.004912/2019-28)  e a outra em 04/01/2021 (processo SEI nº\n50614.002102/2020-71), que tratam da ART de cargo e função. Vejamos abaixo alguns dos trechos mais\nimportantes da Nota Técnica nº 247/2020/COLEG/CGGP/DAF/DNIT SEDE ( ) e\nda  Nota Técnica nº 1/2021/COLEG/CGGP/DAF/DNIT SEDE ( ):\n\nNota Técnica nº 247/2020/COLEG/CGGP/DAF/DNIT SEDE ( )\n(...)\n2.12 Em seguida, a própria Procuradoria Federal Especializada junto ao DNIT emitiu o Parecer nº\n00971/2017/PFE-DNIT/PGF/AGU (0396169), aprovado pelo Despacho nº 03103/2017/PFE-\nDNIT/PGF/AGU, no qual corrobora o entendimento do PARECER N.\n00007/207/CPLC/PGF/AGU, notadamente seus itens 65, 68, 75, 76 e 83, tendo sido já citados\nacima. Nesse sentido enuncia: \"fica o DNIT autorizada (sic) ao pagamento das ARTs sem o\nnecessário ajuizamento de ação e indeferimento de tutela de urgência, cabendo no entanto\nà Administração fazer o registro dos valores efetivamente pagos para futura e eventual\ncobrança do indébito, conclusão que responde ao item A da presente consulta\". Importante\nressaltar que nesse parecer, a PFE trata do procedimento de pagamento da ART, do qual se\ndestacam os seguintes trechos:\n\n3. Consi",
+          "score": 0.700927913,
+          "metadata": {
+            "numero_processo": "50600.010011/2021-40",
+            "objeto": "SOLICITAÇÃO DE DOCUMENTAÇÃO CREA",
+            "fonte_sei": "",
+            "referencia_cabecalho": "PESSOAL: ORIENTAÇÕES E DIRETRIZES GERAIS"
+          },
+          "calculated_similarity": 0.700927913
+        },
+        {
+          "id": "110_2023_50614.001769.2023.08_e-122",
+          "title": "156/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": " a partir da decisão do STF no\nRecurso Extraordinário nº. 838.284/SC e no Agravo do Recurso Extraordinário nº.\n748.455/SC, \"todos os trabalhos técnicos que demandem registro de responsabilidade técnica\nproduzidos por servidores públicos estão obrigados ao registro de Anotação de\nResponsabilidade Técnica - ART ou Registro de Responsabilidade Técnica - RRT conforme se\ntrate de engenheiro, arquiteto ou urbanista\".\n41. O cargo dos selecionados é de natureza técnica, de suporte e apoio às atividades\nfinalísticas do DNIT desempenhadas pelos Analista em Infraestrutura de Transportes. Significa que\nas atribuições relativas aos cargos prescritas na Lei n° 11.171/200 e no Manual de Gestão e\nFiscalização de Contratos (2020) e aquelas que desempenharão como fiscais demandam o\ndesenvolvimento de atividade técnica no âmbito da profissão de engenharia e registro de ART.\nConsoante explicitamos, o assunto está sendo tratado pela Coordenação de Administração e Finanças\ndo DNIT no diligenciamento do processo n° 50612.001735/2021-63.\n42. No ato de solicitação das ARTs de cargo e função deve-se atentar para os ditames da\nLei n° 6.496/1977 e da Resolução/CONFEA n° 1.137/2023. O registro está relacionado",
+          "score": 0.632689595,
+          "metadata": {
+            "numero_processo": "50614.001769/2023-08",
+            "objeto": "SOLICITA A DESIGNAÇÃO DE ANALISTA EM INFRAESTRUTURA DE",
+            "fonte_sei": "15153121",
+            "referencia_cabecalho": "PESSOAL: MOVIMENTAÇÃO DE SERVIDOR"
+          },
+          "calculated_similarity": 0.632689595
+        },
+        {
+          "id": "41_2024_50600.033549.2020.41_e-37",
+          "title": "33/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE",
+          "content": "o de\ntécnico de suporte de infraestrutura com formação em engenharia possam ter ART de cargo e\nfunção paga pela Autarquia, no momento em que assumem cargos ou funções relacionadas a sua\nárea de formação, isso porque podem vir outras consultas do mesmo teor para esta Coordenação.\n21. Tratar-se-á, também, da NOTA TÉCNICA Nº: 1/2021/COLEG/CGGP/DAF/DNIT SEDE\n(7995694), que versa sobre solicitação de orientação acerca de dúvidas existentes sobre questionamento\nformulado por servidor ocupante do cargo de Técnico de Suporte em Infraestrutura de Transportes -\nárea Topografia, lotado no Serviço de Planejamento e Projetos da Superintendência Regional no Estado do\nRio Grande do Norte - SRE/RN, acerca da viabilidade do DNIT custear o pagamento do Conselho de\nArquitetura e Urbanismo - CAU, tendo em vista sua formação em arquitetura e a necessidade eventual de\nprodução de atividade técnica de levantamentos topográficos e correspondentes representações gráficas\nque são incorporadas a processos judiciais, isso porque o Juízo, ordinariamente, requer a incorporação do\nRegistro de Responsabilidade Técnica - RRT ou ART junto à peça técnica elaborada e incorporada aos\nautos nesses processos.\n22. Além d",
+          "score": 0.626499712,
+          "metadata": {
+            "numero_processo": "50600.033549/2020-41",
+            "objeto": "CONSULTA AO ÓRGÃO CENTRAL DO SIPEC ACERCA DA OBRIGATORIEDADE DA",
+            "fonte_sei": "8239914",
+            "referencia_cabecalho": "PESSOAL: ORIENTAÇÕES E DIRETRIZES GERAIS"
+          },
+          "calculated_similarity": 0.626499712
+        }
+      ],
+      "recommendations": [
+        "Encontrados 5 documentos com alta similaridade",
+        "Recomenda-se revisar os documentos existentes antes de prosseguir",
+        "Possível duplicação de esforços"
+      ],
+      "summary": "ANÁLISE DE TRIAGEM JURÍDICA\n\nConsulta: Existe algum precedente similar sobre ART/RRT no DNIT?\n\nResultado da Análise:\n- Documentos encontrados: 7\n- Similaridade máxima: 74.47%\n- Decisão: refer_existing\n\nRecomendações:\n- Encontrados 5 documentos com alta similaridade\n- Recomenda-se revisar os documentos existentes antes de prosseguir\n- Possível duplicação de esforços",
+      "formatted_response": "ANÁLISE DE TRIAGEM JURÍDICA\n\nConsulta: Existe algum precedente similar sobre ART/RRT no DNIT?\n\nResultado da Análise:\n- Documentos encontrados: 7\n- Similaridade máxima: 74.47%\n- Decisão: refer_existing\n\nRecomendações:\n- Encontrados 5 documentos com alta similaridade\n- Recomenda-se revisar os documentos existentes antes de prosseguir\n- Possível duplicação de esforços",
+      "metadata": {
+        "workflow_id": "simple_workflow_20250807_105603",
+        "question_type": "triage",
+        "duration": 14.861805,
+        "start_time": "2025-08-07T10:56:03.695330",
+        "end_time": "2025-08-07T10:56:18.557135",
+        "txt_file_path": "testes/respostas_txt/(Existe_algum_precede_20250807_105618).txt"
+      }
+    },
+    "timestamp": "2025-08-07T10:56:03.695321",
+    "category": "triage"
+  },
+  "metrics": {
+    "total_queries": 1,
+    "triage_queries": 1,
+    "precedent_queries": 0,
+    "research_queries": 0,
+    "full_workflow_queries": 0
+  }
+}

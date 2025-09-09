@@ -1,0 +1,682 @@
+﻿01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+NOTA TÉCNICA Nº: 82/2021/COLEG/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50001.014019/2021-34
+REFERÊNCIA: ACESSO À INFORMAÇÃO: DEMANDA DO E-SIC
+OBJETO: SOLICITAÇÃO DE INFORMAÇÃO
+1. DOS FATOS
+1.1. O instrumento trata de demanda emitida pelo Sistema de Acesso à Informação/e-SIC-
+OUVIDORIA (7721008), formulada por                          , por intermédio da qual solicita esclarecimentos
+quanto às atribuições e competências dos cargos de engenheiro civil do DNIT, com prazo de cumprimento
+limitado ao dia 26 de março de 2021.
+2. DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2.1. A Lei n° 5.645, de 10 de dezembro de 1970 (7748984), estabeleceu diretrizes para a
+classificação de cargos do Serviço Civil da União e das autarquias federais. O art. 7° afirmou que o Poder
+Executivo elaboraria e expediria o novo Plano de Classificação de Cargos, total ou parcialmente, mediante
+decreto. Foi o Decreto n° 70.320, de 23 de março de 1972 (7749040), publicado no Diário Oficial da
+União, Seção 1, Página 2611, em 24 de março de 1972, que estabeleceu normas essenciais à implantação
+do sistema de classificação de cargos instituído pela Lei n° 5.645, de 10 de dezembro de 1970.
+2.2. Em consequência, com base no art. 7° do Decreto n° 70.320/1972, foi publicada a Portaria
+/DASP n° 146/1973 (7748586), que aprovou as especificações de classes do Grupo - Outras atividades de
+Nível Superior a que se refere o art. 2°, item IX, da Lei n° 5.645, de 10 de dezembro de 1970, as quais
+poderiam ser objeto de permanente atualização, em decorrência de possíveis alterações do conteúdo
+ocupacional das classes, bem como de futuros detalhamentos por especialidade, identificados
+setorialmente por órgãos do Sistema de Pessoal Civil da Administração Federal - Sipec.
+2.3. O Decreto n° 72.493, de 19 de julho de 1973, publicado no Diário Oficial da União de 10
+de setembro de 1973, tendo em vista o disposto no art. 7°  da Lei n° 5.645, de 10 de dezembro de 1970,
+dispôs sobre o Grupo - Outras Atividades de Nível Superior a que se referia o art. 2° da Lei n° 5.645/1970.
+No art. 3° daquele Decreto, constam as Categorias Funcionais, incluindo a de Engenheiro, codificada
+como NS-916. O inciso XV do art. 5° atesta a inclusão, na Categoria Funcional de Engenheiro, dos cargos
+de Engenheiro, Engenheiro de Minas e Metalurgia, Engenheiro de Portos e Vias Navegáveis e
+Engenheiro-Tecnologista e, por transformação, os de Auxiliar de Engenheiro, Inspetor de
+Telecomunicações, Técnico de Telecomunicações, Assessor de Eletrônica, Técnico de Eletrônica, Inspetor
+Eletrotécnico e Eletrotécnico cujos ocupantes possuam diploma de Engenheiro devidamente
+registrado.
+2.4. Consoante a Portaria /DASP n° 146/1973 (7748586), verifica-se que a denominação da
+categoria de Engenheiro está codificada como NS-916, o que acompanha as prescrições do art. 3° do
+Decreto n° 72.493/1973. A descrição sumária das atribuições da classe abarca atividades de supervisão,
+planejamento, coordenação ou execução em grau de maior complexidade, bem como elaboração de
+projetos em geral, de regiões, zonas, cidades, obras, estruturas, transportes, desenvolvimento industrial,
+preservação e exploração de riquezas minerais, melhoramento das condições de navegação marítima ou
+interior e aperfeiçoamento da técnica e da indústria nacionais, especialmente no que se refere ao seu
+aspecto fisico-mecânico. Foram disponibilizados exemplos típicos de trabalhos da classe, in verbis:
+
+"EXEMPLOS TÍPICOS DE TRABALHOS DA CLASSE:
+1.Supervisionar, coordenar, controlar e fiscalizar a programação relacionada com a
+especialidade.
+2.Planejar, dirigir, coordenar e controlar estudos, projetos e serviços na sua especialidade.
+3.Supervisionar, planejar, coordenar ou executar, em grau de maior complexidade:
+trabalhos topográficos e geodésicos;
+-estudo, projeto, direção, fiscalização e construção de: edifícios, com todas as suas obras
+complementares, estradas de rodagem e de ferro, obras de captação e abastecimento de
+água, obras de drenagem e irrigação, obras destinadas ao aproveitamento de energia e dos
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 1/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+trabalhos relativos às máquinas e fábricas, obras concernentes a portos, rios, canais e
+aeroportos;
+- estudos do saneamento urbano e rural;
+- projeto, direção e fiscalização dos serviços de urbanismo;
+- estudos referentes à execução de processos de controle de poluição ambiental;
+- trabalhos sobre a utilização da água para fins industriais;
+- estudo da Geologia econômica e pesquisa de riquezas minerais;
+- pesquisa, localização, prospecção e valorização de jazidas minerais;
+- serviço de exploração de minas e de indústria metalúrgica;
+- seleção e análise de elementos para a construção de cartas, medições e sondagens
+hidrográficas, operações com equipamentos eletrônicos de levanta-mentos, determinação
+para apoio e resistência aerofotogramétrica, reembulações e coleta de dados toponímicos;
+- controle de projetos de mapas e cartas planimétricas, topográficas e de recursos naturais;
+- especificação de trabalhos cartográficos em todas as suas etapas;
+- elaboração e preparo de mapas e cartas em qualquer modelo;
+- apoio técnico dos mapeamentos para elaboração e execução dos mapas respectivos;
+- cálculos e traçados de projeções cartográficas;
+- atividades técnicas ou de coleta de material de caráter oceanográfico a bordo ou em terra,
+nos campos da física, da química, da eletrônica, da hidráulica, da biologia, da geologia, da
+geofísica, segundo sua especialização;
+- interpretação de dados oceanográficos para diferentes aplicações na oceanografia militar;
+- a introdução de novas técnicas e instrumentação em oceanografia;
+- a coleta de material e trabalhos de laboratórios de análises químicas de água do mar;
+- o processamento de dados oceanográficos obtidos, classificando o material biológico
+coletado e as amostras de fundo obtidas;
+- a operação e a manutenção dos equipamentos e instrumentos sob sua responsabilidade;
+- a pesquisa de sistemas de telecomunicações, de transmissão e recepção de bóias oceânicas
+para meteorologia;
+- estudos sobre transmissão e recepção por satélite e por fac-simile;
+- a pesquisa de fabricação de válvula, tubos de raios catódicos e componentes diversos;
+- a montagem de sistemas de telecomunicações, centrais telefônicas, rádio, televisão,
+computadores, sonar, acústica e controles automáticos para diversos fins;
+- pesquisas e medidas óticas;
+- projetos de estabelecimentos de faróis, radiofaróis, sistema «Loran», luzes de
+alinhamentos, bóias e demais utensílios à orientação dos viajantes;
+- instalações de circuitos eletrônicos;
+- desenvolvimento de anteprojetos de equipamentos e instalações de sinalização náutica;
+- a elaboração de instruções de funcionamento de equipamentos;
+- instalações de equipamentos misto gás-elétrico;
+- o acompanhamento e o desenvolvimento de novas técnicas no ramo;
+- a operação de auxílio à navegação, com equipamentos eletrônicos;
+- elaboração de projetos e planos, estudos e orçamentos relacionados com a construção
+naval;
+- obras de construção ou reparos de navios e embarcações com ou sem propulsão mecânica;
+- obras de construção ou reparos de diques flutuantes ou similares;
+- obras de instalação de estaleiros e diques;
+- todo e qualquer tipo de levantamentos hidrográficos, topo-hidrográficos e geofísicos, das
+vias navegáveis interiores, a bordo ou em terra;
+- medição e cálculo de bases geodésicas e topográficas e topográficas;
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 2/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+- medição e cálculo de poligonais e triangulações geodésicas e topográficas;
+- medição e cálculo de nivelamento;
+- observação, análise, previsão e cálculo das marés e medição de seus efeitos;
+- observação e cálculo de azimutes geodésicos;
+- observações astronômicas necessárias e cálculo da coordenada;
+- observações e cálculos dos componentes do magnetismo terrestre;
+- medições e cálculos para o apoio à restituição aerofotogramétrica;
+- observações, análise e cálculo das correntes marítimas;
+- determinação do relevo submarino;
+- operações de varredura hidrográfica;
+- observações meteorológicas em superfície e em altitude;
+- cálculos para o apoio topográfico;
+- cálculo, traçado e pilotagem das folhas de bordo de sondagem e de restituição;
+- cálculos de velocidade de som na água;
+- planejamento de redes, canais, balizamentos, vias de acesso, fundeadouros, locais de
+espera e localização de áreas de manobras;
+- diagramas de condições físico-químicas das águas;
+- estudo para o estabelecimento de normas específicas de métodos de produção;
+- estudo sobre as matérias-primas empregadas e os produtos obtidos na indústria da pesca;
+- pesquisa sobre o aproveitamento e ensaios relativos ao beneficiamento do pescado;
+- orientação técnica à indústria da pesca;
+-estudos e ensaios tecnológicos relativos aos melhores e mais racionais processos de
+industrialização do pescado;
+- perícias e vistorias de máquinas e aparelhos, para verificação de sua real utilização pela
+indústria da pesca;
+- estudo de processos, que versem sobre projetos de implantação e ampliação de empresas
+industriais de pesca;
+- pesquisas de novos produtos, de novas técnicas ou de novos processos de fabricação;
+- estudo para o estabelecimento de normas especificas e aperfeiçoamento de métodos de
+ensaios;
+- pesquisas de substâncias de origem nacional para substituir outras importadas;
+- estudo sobre as matérias-primas empregadas e os produtos obtidos na indústria têxtil;
+- análises físicas de gases, minérios e outras matérias inorgânicas;
+-estudos sobre combustíveis nacionais, sólidos, líquidos e gasosos, bem como sobre
+motores térmicos em que possam eles ser aproveitados;
+- pesquisas sobre aproveitamento e ensaio sobre beneficiamento de minérios;
+- coleta e preparação de amostras de minérios beneficiados para ensaios tecnológicos;
+- orientação técnica à indústria de minérios;
+- estudos sobre produtos metalúrgicos mais adaptáveis às necessidades nacionais e sobre
+processos de fabricação mais adequados;
+- investigações de interesses para a indústria de construção (agressividade de água do mar
+sobre o concreto fabricado com cimento comum);
+- estudos relativos aos melhores e mais racionais processos construtivos;
+- ensaios tecnológicos relativos à construção, tais como: mecânica do solo, fundações,
+edifícios,barragens, resistência de materiais;
+- aferição e calibração de medidas e instrumentos de medir bem como de aparelhos elétricos
+para o mesmo fim;
+- medição de reservatórios para armazenamento de produtos líquidos derivados de petróleo;
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 3/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+- avaliamento e medição de carregamento sólidos, líquidos e gasosos dos combustíveis
+importados a granel;
+- projetos relativos a usinas hidrelétricas, termelétricas, subestações, linhas de transmissão,
+linhas de distribuição e redes de distribuição;
+- inspeções de usinas hidro e termelétricas, subestações, linhas de transmissão e redes de
+distribuição;
+- medição de descargas de cursos d'água;
+- instalação e reinstalação de estações pluviométricas, fluviométricas, sedimentométricas e
+evagorimétricas;
+- cálculo de medições de descargas;
+- redes de estações hidrológicas;
+- fiscalização de operações de estações hidrológicas;
+- fiscalização de aplicação de verbas em convênios;
+- orientação e fiscalização dos trabalhos dos arquivos técnicos sobre chuvas, rios, medições
+de descargas, leituras das máximas e mínimas, resumo de estações pluviofluviométricas,
+evaporimétricas, processamento eletrônico de dados hidrométricos;
+- análise e estudo de revisão tarifária, bem como a aplicação de adicionais tarifários;
+- contratos de suprimentos entre concessionários de energia elétrica; contratos de
+fornecimento de concessionárias e usuários, inspeções técnicas em sistemas de energia
+elétrica.
+-pericias técnicas para apuração e apropriação de custos;
+-identificação e verificação física de bens e instalações de concessionárias sob tombamento.
+4.Fazer engenharia legal, pericias e arbitramento.
+5.Emitir laudos e pareceres sobre matéria de sua competência.
+6.Assessorar autoridade de nível superior em assuntos de sua especialidade.
+7.Fornecer dados estatísticos de suas atividades.
+8.Desempenhar tarefas semelhantes.
+FORMA DE RECRUTAMENTO:
+Progressão funcional dos ocupantes de cargos da classe A de Engenheiro, ou outra forma
+legal de provimento.
+QUALIFICAÇÕES ESSENCIAIS PARA O RECRUTAMENTO:
+Escolaridade: A exigida para ingresso na Categoria Funcional.
+Experiência: 3 (três) anos de efetivo exercicio na classe A de Engenheiro, e 4 (quatro), no
+mínimo, de experiência profissional.
+Outras Qualificações: Diploma ou certificado de conclusão de curso de especialização ou
+aperfeiçoamento, com vistas ao exercício das atribuições da classe B de Engenheiro.
+PERÍODO DE TRABALHO: Jornada de trabalho estabelecida pela repartição de
+conformidade com o respectivo funcionamento, observado o mínimo de 30 (trinta) horas
+semanais, podendo haver convocação sempre que o exigir o interesse do serviço.
+OUTRAS CARACTERÍSTICAS: O exercício do cargo pode exigir permanência fora da
+sede ou viagens constantes."
+
+2.5. No que concerne às disposições da Lei n° 11.171, de 2 de setembro de 2005, que dispõe
+sobre a criação de carreiras e do Plano Especial de Cargos do DNIT,  o art. 3° formaliza a criação, a partir
+de 1° de janeiro de 2005, do Plano Especial de Cargos do Departamento Nacional de Infraestrutura de
+Transportes, composto pelos cargos de provimento efetivo do Plano de Classificação de Cargos instituído
+pela Lei n° 5.645, de 10 de dezembro de 1970, ou de planos correlatos das autarquias e fundações
+públicas não integrantes de carreiras estruturadas regidos pela Lei n° 8.112/90, pertencentes ao Quadro de
+Pessoal do DNIT, neles lotados em 1° de outubro de 2004, ou que venham a ser redistribuídos, desde que
+as redistribuições tenham sido requeridas até 31 de julho de 2004. Consoante § 2° do art. 3°, os servidores
+ocupantes de tais cargos seriam enquadrados no PEC-DNIT de acordo com as atribuições, com os
+requisitos de formação profissional e com a posição na tabela, consoante Anexo IV da Lei.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 4/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+2.6. O art. 1°, inciso I, da mesma Lei, confirma a criação dos cargos de Analista em
+Infraestrutura de Transportes, de nível superior, com atribuições voltadas às atividades de planejamento,
+gerenciamento, pesquisas e estudos, elaboração de projetos, acompanhamento de obras e fiscalização de
+contratos e convênios, operação e engenharia de tráfego, com vistas na construção, restauração,
+manutenção e operação da infra-estrutura de transportes federal, rodoviária, ferroviária, portuária e
+hidroviária.
+2.7. O DNIT foi criado pela Lei n° 10.233, de 5 de junho de 2001, como pessoa jurídica de
+direito público submetido ao regime de autarquia, vinculado ao antigo Ministério de Transportes, atual
+Ministério da Infraestrutura. Os objetivos e atribuições constam descritos nos arts. 79 a 82 daquela Lei.
+Basicamente, a esfera de atuação do DNIT corresponde à infraestrutura do sistema federal de viação, sob a
+jurisdição do ministério dos transportes, constituída de: vias navegáveis, inclusive eclusas ou outros
+dispositivos de transposição hidroviária de níveis; ferrovias e rodovias federais; e instalações e vias de
+transbordo e de interface intermodal, exceto as portuárias. O Regimento Interno do DNIT, aprovado pela
+Resolução n° 39, de 17 de novembro de 2020, em seu art. 2°, esclarece que a autarquia é órgão gestor e
+executor da infraestrutura de transportes terrestre e aquaviário, integrante do Sistema Federal de Viação,
+tipificando a competência da Autarquia a partir do art. 3° e do 78 ao 142. O Edital/ESAF n° 66, de 5 de
+novembro de 2012, referente ao concurso público para provimento de cargos do quadro de pessoal efetivo
+do DNIT, ao esclarecer sobre escolaridade, habilitação legal específica por cargo, categorizou três áreas de
+especialização relativas ao cargo de Analista em Infraestrutura de Transportes, quais sejam, Ambiental,
+Geoprocessamento e Engenharia Civil, todas de nível Superior, mencionando a Lei n° 11.171/2005 ao
+descrever as atribuições do cargo. A prova objetiva abarcou as disciplinas de Língua Portuguesa,
+Raciocínio Lógico-Quantitativo, Direito Administrativo, Direito Financeiro, Conhecimentos de Economia
+Brasileira Contemporânea, bem como os conhecimentos específicos atinentes a cada área de
+especialização.
+2.8. Lato sensu, as atividades desempenhadas pelos Analistas em Infraestrutura de Transportes
+do DNIT, com habilitação em engenharia civil, bem como pelos ocupantes do cargo de Engenheiro do
+PEC-DNIT, estarão correlacionadas às atividades finalísticas da autarquia, mais especificamente aquelas
+dispostas nos arts. 80, 81 e 82 da Lei 10.233/2001 (7775875), bem como aquelas categorizadas nos incisos
+do art. 3° da Resolução 39/2020 (7776294), no art. 1°, inciso I, da Lei n° 11.171/2005 (7748686), na
+Portaria /DASP n° 146/1973 (7748586). Stricto sensu, as atribuições podem abarcar aquelas (não
+necessariamente todas) descritas nos arts. 78 a 142 do Regimento interno do DNIT (7776294), que
+estejam correlacionadas às atividades de planejamento, gerenciamento, pesquisas e estudos, elaboração
+de projetos, acompanhamento de obras e fiscalização de contratos e convênios, operação e engenharia de
+tráfego, com vistas na construção, restauração, manutenção e operação da infra-estrutura de transportes
+federal, rodoviária, ferroviária, portuária e hidroviária, considerando as particularidades e os
+conhecimentos específicos atinentes às áreas de especialização descritas no Edital ESAF/DNIT n°
+66/2012. Além disso, é possível que o servidor ocupante do cargo de Analista em Infraestrutura de
+Transportes seja nomeado, por exemplo, para ocupação de cargo comissionado ou função de confiança ou
+para exercer fiscalização contratual.
+2.9. Na hipótese de nomeação/designação para ocupação de cargo comissionado ou  função de
+confiança, além das atribuições próprias do cargo efetivo que ocupa, poderá desempenhar atividades
+destinadas à direção, chefia e assessoramento.
+2.10. Em referência à fiscalização contratual, o art. 58 da Lei n° 8.666/93 prevê que o regime
+jurídico dos contratos administrativos confere à administração a prerrogativa de fiscalizá-los. O agente da
+administração que é nomeado para exercer tal atividade deve proceder de modo a verificar se há/houve o
+cumprimento das disposições contratuais por parte da  contratada e de todas as exigências relativas ao
+processo licitatório, atuação que está estreitamente relacionada aos  princípios do interesse público, por
+envolver recursos financeiros públicos, bem como eficiência e eficácia, que estão associadas à ideia de que
+é dever dos agentes públicos prezar pela apropriada aplicação do dinheiro público, estimando os
+benefícios para a sociedade. No DNIT, o agente responsável pelo exercício de tais atividades é nomeado
+de Fiscal de Contrato, mas há também o Gestor do Contrato.
+2.11. De acordo com o Manual de Gestão e Fiscalização de Contratos do DNIT de 2020, que
+revisou a IS/DNIT n° 6/2018, na literalidade,  Fiscal Técnico de Contrato é o servidor designado para
+auxiliar o Gestor do contrato quanto à fiscalização do objeto do contrato. Fiscalização Técnica é o
+acompanhamento com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso,
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 5/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+aferir se a quantidade, qualidade, tempo e modo da prestação dos serviços estão compatíveis com os
+indicadores de níveis mínimos de desempenho estipulados no ato convocatório, para efeito de pagamento
+conforme o resultado. Fiscalizar é verificar a conformidade da prestação de serviços, o fornecimento de
+produto e a execução de obras, de acordo com o contrato ou instrumento que o substitua, no que concerne
+aos prazos, projetos, especificações, valores, condições da proposta da empresa e demais documentos
+presentes e essenciais à consecução do pretendido pela Administração. Gestor do Contrato é o servidor
+designado para coordenar e comandar o processo da fiscalização da execução contratual.
+2.12. A Instrução Normativa n° 5/2017, do Ministério do Planejamento, Desenvolvimento e
+Gestão, atual Ministério da Economia, esclarece que os contratos, quando possível, deverão possuir três
+agentes distintos: Gestor, Fiscal Administrativo e Fiscal Técnico. O Manual esclarece que as designações
+advindas da Administração Pública, em decorrência de dispositivo legal, não conferem ao servidor
+atribuição que não estava prevista por ocasião do concurso de ingresso ao cargo. Trata-se de obrigação
+indicada entre os compromissos dos agentes públicos, não havendo, portanto, possibilidade de ser
+recusado o encargo, decorrente do poder-dever da Administração. A recusa somente poderá ocorrer,
+segundo a doutrina, quando o agente for impedido ou suspeito, em razão de: ser parente, cônjuge,
+companheiro, amigo íntimo ou inimigo do contratado; ter recebido presentes do contratado; ter relação de
+débito ou crédito com o contratado ou qualquer outro tipo de interesse, direto ou indireto, plenamente
+justificado. A escolha do fical deve levar em consideração a capacitação técnica e experiência relacionada
+ao objeto da contratação, tendo em vista que acompanhará o desenvolvimento da atividade da Contratada,
+devendo anotar ocorrências relevantes e documentando eventuais equívocos e, para isso, deve ter domínio
+concernente à temática central ou objeto da contratação. Dispomos trecho do Manual, a fim de explicitar
+as atribuições do servidor nomeado para desempenhar as atividades de Gestor ou de Fiscal, in verbis:
+
+"4.1 Gestor do contrato
+O Gestor do contrato é o servidor, investido no cargo, especialmente designado, por meio
+de Portaria, para gerenciar as relações firmadas com a contratada. Este gerenciamento é
+subsidiado por dados, informações e pareceres técnicos dos fiscais quanto a execução do
+objeto, a avaliação da qualidade dos resultados obtidos, bem como informações atualizadas
+que viabilizem a tomada de decisão relacionada à manutenção, ou não, das condições
+contratuais.
+Considerando que o Gestor nem sempre participa das fases de Planejamento e Licitação, é
+importante que ele leia atentamente o Memorial Descritivo, o Projeto Executivo (quando
+for o caso) e o contrato, prestando especial atenção às cláusulas que descrevem as
+especificações do objeto, as condições de execução, os procedimentos de fiscalização e as
+penalidades aplicáveis à Contratada. Cabe ao Gestor, principalmente, as seguintes
+atribuições:
+a) estabelecer comunicação formal com a contratada visando zelar pelo fiel cumprimento
+do objeto contratado;
+b) coordenar, comandar e acompanhar a execução do contrato agindo de forma proativa e
+preventiva;
+c) observar o cumprimento das regras previstas no contrato e buscar os resultados
+esperados;
+d) solicitar formalmente à contratada a correção de pendências constatadas na execução do
+contrato;
+e) convocar e coordenar a reunião inicial, registrada em ata que posteriormente é
+incorporada ao Processo de Acompanhamento e Fiscalização do Contrato. A reunião
+contará preferencialmente com a equipe técnica responsável pela elaboração do Termo de
+Referência, além dos Fiscais e do Preposto;
+f) emitir ordem inicial de serviço e autorizar implantação do contrato no sistema de controle
+de contratos;
+g) intervir e adotar providências na identificação de qualquer tipo de inconformidade,
+incluindo atrasos no atendimento de pendências anteriormente solicitadas;
+h) Realizar a atualização contínua do Mapa de Gerenciamento de Riscos durante a fase de
+gestão do contrato, com apoio da Equipe de Fiscalização do Contrato;
+i) avaliar eventuais atrasos nos prazos de entrega ou ocorrências que possam gerar
+dificuldades à conclusão do objeto contratado;
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 6/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+j) analisar e conduzir processo com solicitação de repactuação do objeto, reajuste
+financeiro, reequilíbrio físico-financeiro, acréscimo/supressão de metas, interrupção de
+serviços, prorrogação de prazo ou encerramento unilateral;
+k) manter os sistemas atualizados com valor do contrato, com seus aditivos, se houver, e os
+valores empenhados e já pagos;
+l) receber, manifestar-se e dar o encaminhamento devido às dúvidas ou questionamentos
+feitos pela fiscalização e pela contratada;
+m) instaurar e conduzir o Processo Administrativo de Apuração de Responsabilidade
+(PAAR).
+(...)
+5. FISCALIZAÇÃO CONTRATUAL
+A fiscalização contratual é o acompanhamento da execução dos contratos, que busca
+garantir a execução de serviços e fornecimento de bens, na quantidade e qualidade
+contratados.
+5.1 Fiscal do Contrato
+O Fiscal do contrato, seja administrativo ou técnico, é o Servidor designado mediante
+Portaria específica por Autoridade Competente, com o conhecimento necessário e suficiente
+para fiscalizar a execução física do contrato. Responsável pelas anotações das ocorrências
+em registro próprio, ou seja, ele é o “agente de campo” do contrato, representando a
+Administração em conformidade com os termos do art. 67 da Lei nº 8.666/93.
+(...)
+As atribuições do Fiscal do contrato são:
+• Conhecer todos os termos do Projeto Básico e Termo de Referência, em especial o objeto
+do contrato;
+• Sempre que possível, e se o contrato assim o exigir, estar presente no local da execução do
+contrato;
+• Monitorar a contratada, certificando-se de que o seu Preposto esteja sempre ciente das
+obrigações assumidas na contratação;
+• Estar disponível para esclarecer as dúvidas do Preposto que estiverem em sua alçada, e
+quando lhe faltar capacitação técnica ou fugir de sua atribuição legal, encaminhar os
+problemas que surgirem ao Gestor, a exemplo dos casos de infração, suscetíveis de
+aplicação de pena pecuniária ou de rescisão contratual;
+• Adotar o modo formal de comunicação ao se dirigir tanto à contratada quanto a seu
+Preposto, para que quaisquer medidas e esforços para resolver irregularidades na execução
+do objeto, além de estarem registradas, facilitem a comunicação ao Gestor do contrato, que
+terá subsídio na hora de adotar as medidas administrativas cabíveis ao caso;
+• Antecipar-se à solução de fatos que venham, eventualmente, a afetar a relação contratual,
+a exemplo de greves, problemas na entrega de materiais, chuvas, fim de prazo, entre outros;
+• Notificar o Preposto da contratada formalmente, nos casos de ocorrências importantes que
+afetem a execução, dando-lhe prazo para resposta e acompanhando o ocorrido até sua
+devida solução;
+• Atestar a Nota Fiscal do serviço/material emitida pela contratada, assinando
+eletronicamente o documento;
+• Realizar a aferição financeira, que deverá confrontar os preços e as quantidades constantes
+da Nota Fiscal com aqueles fixados no contrato, bem como as medições dos serviços nas
+datas estabelecidas, que devem ocorrer sempre antes de atestar o documento Fiscal;
+• Encaminhar a Nota Fiscal ao Gestor, após a medição e conferência dos serviços, em
+tempo hábil, para que este realize a verificação da documentação anexada juntamente com a
+do pagamento, com vistas a evitar a incidência de multas por atrasos;
+• Solicitar à contratada, quando necessário, a substituição de qualquer utensílio, ferramenta
+ou equipamento cujo uso seja considerado prejudicial à boa conservação dos bens ou
+instalações, ou, ainda, que não atendam às necessidades da Administração;
+• Determinar que o contratado dê início à correção dos defeitos ou não conformidades
+constatadas durante a execução do objeto, ou após o recebimento provisório, fixando prazo
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 7/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+para o respectivo término, ficando a contratada obrigada a corresponder às exatas
+exigências do objeto contratado, sob pena de multa e outras penalidades;
+• Comunicar formalmente com antecedência suficiente quando o Fiscal estiver impedido de
+continuar com esta atribuição, a fim de que o substituto as assuma; se o impedimento for
+permanente, deverá ser justificado, sendo encaminhado à autoridade competente;
+• Solicitar à autoridade competente, quando necessário, mediante justificativa, o apoio de
+outro servidor ou técnico para auxiliar na Fiscalização técnica ou administrativa do
+contrato;
+• Providenciar inclusão de relatório fotográfico que comprove a execução dos serviços no
+período de execução, para todos os serviços, sempre que aplicável;
+• Verificar divergência entre valores medidos ou declarados e os efetivamente recolhidos
+pela empresa a título de ISSQN.
+5.1.1 Atribuições do Fiscal técnico
+a) Representar o DNIT no local de execução dos serviços;
+b) Solicitar, quando for o caso, que o serviço seja refeito por inadequação ou vícios que
+apresentem;
+c) Realizar juntamente com a contratada, as medições dos serviços nas datas estabelecidas,
+antes de atestar as respectivas notas fiscais;d) Proceder as medições nos serviços
+executados, conferindo-os, atestando-os e encaminhando-os ao Fiscal Administrativo para
+remessa à Sede para a remuneração correspondente;
+e) Realizar vistorias nos trabalhos de campo verificando sua conformidade com as normas
+vigentes e o cumprimento de orientações técnicas e indicações de segurança;
+f) Emitir relatórios técnicos, laudos e pareceres sobre os resultados das Fiscalizações
+efetuadas;
+g) Verificar o fiel cumprimento das obrigações contidas na apólice do seguro-garantia e
+comunicar ao fiscal administrativo eventuais irregularidades;
+h) Obter a anuência das partes para a celebração de Termo Aditivo e elaborar nota técnica
+fundamentada quanto aos aspectos técnicos, observando o término da vigência do contrato e
+assegurando que haverátempo hábil para sua tramitação;
+i) Acompanhar o descarte adequado dos produtos ao fim de sua vida útil, em observância à
+Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010);
+j) Determinar a reparação, correção, remoção, reconstrução ou substituição no todo ou em
+parte, às expensas da contratada, quando forem verificados vícios, defeitos ou incorreções
+resultantes da execução do contrato ou de materiais empregados;
+k) Emitir Termo de Recebimento Provisório de Obras e Serviços. Para contratos de
+Tecnologia da Informação, verificar a manutenção das condições definidas nos Modelos de
+Execução e Modelo de Gestão do Contrato, conforme disposto nos art. 18 e 19 da IN
+SLTI/MP nº 01/2019 (importante ressaltar que os contratos firmados até 1° de julho de 2019
+continuarão vigorando conforme a IN SLTI/MP n° 4 de 2014).
+5.1.2 Atribuições do Fiscal Administrativo
+a) Realizar todas as tarefas relacionadas ao controle de prazos, acompanhamento de
+empenho/pagamento, verificação do cumprimento das obrigações fiscais, trabalhistas,
+previdenciárias efundiárias, gestão de documentos, documentação relativa ao reajuste de
+preços, formalização de Apostilamentos e Termos Aditivo, e acompanhamento de garantias
+e glosas;
+b) Obter a anuência das partes para a celebração de Termo Aditivo e elaborar nota técnica
+fundamentada quanto aos aspectos formais, observando o término da vigência do contrato e
+assegurando que haverá tempo hábil para sua tramitação;
+c) Conferir os dados das faturas antes do ateste do fiscal técnico, promovendo as correções
+devidas e arquivando cópia junto aos demais documentos pertinentes;
+d) Verificar a manutenção pela contratada das condições de habilitação exigida pela Lei de
+Licitações, edital e contrato, solicitando os documentos comprobatórios pertinentes;
+e) Em contratos de terceirização de mão de obra, Manter o controle nominal dos
+empregados da Contratada vinculados ao contrato, bem como exigir que se apresentem
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 8/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+uniformizados, com crachá de identificação e que tenham bom comportamento, quando
+assim se fizer necessário;
+f) Acompanhar o valor do empenho, por meio dos sistemas apropriados
+SIASG/SIAC/SIAFI;
+g) Acompanhar rotineiramente a execução dos serviços administrativos, de forma a atuar
+tempestivamente na solução de eventuais problemas verificados;
+h) Solicitar a reparação/correção de incorreções/irregularidades administrativas resultantes
+da execução do contrato;
+i) Acompanhar o saldo do empenho em função do cronograma financeiro previsto de
+desembolso;
+j) Manter os sistemas atualizados com valor do contrato, com seus aditivos, se houver, e os
+valores empenhados e já pagos;
+k) Acompanhar junto ao fiscal técnico eventuais informações de descumprimento de
+obrigações constantes na apólice do seguro-garantia e reportar para a Unidade Gestora;
+l) Subsidiar a emissão do Termo de Encerramento do contrato.Acompanhamento das
+obrigações trabalhistas e sociais em contratos de terceirização de mão de obra. No primeiro
+mês da prestação dos serviços, o gestor deverá solicitar em meio magnético à contratada a
+relação dos empregados terceirizados de todo contrato administrativo, com nome completo,
+número de CPF, função exercida, salário, adicionais, gratificações, benefícios recebidos
+(quantidade e valor: vale-transporte, auxílio-alimentação, dentro outros) e horário do posto
+de trabalho."
+
+2.13. Efetuamos, por fim, especial ressalte em relação ao que dispõe o inciso XVII do art. 117 da
+Lei n° 8.112/90, que defende a proibição de cometimento de atividades estranhas ao cargo ocupado pelo
+servidor, exceto em situações de emergência e transitórias. Significa que, em situações de emergência e
+transitórias, é possível que o servidor público regido pela Lei n° 8.112/90 desempenhe atividades
+estranhas ao cargo que ocupa no âmbito do órgão no qual está lotado.
+3. CONCLUSÃO
+3.1. Feitas as considerações, pontuamos:
+
+3.1.1. A demanda é oriunda do Sistema de Acesso à Informação/e-SIC-OUVIDORIA
+(7721008), formulada por                           , por intermédio da qual solicita esclarecimentos quanto às
+atribuições e competências dos cargos de engenheiro civil do DNIT, com prazo de cumprimento
+limitado ao dia 26 de março de 2021;
+3.1.2. No âmbito do DNIT, há servidores que ocupam o cargo de Engenheiro com
+ancoramento no art. 3° da Lei n° 11.171/2005, integrantes do PEC-DNIT, bem como servidores
+habilitados em engenharia  ocupantes do cargo de Analista em Infraestrutura de Transportes,
+ancorados no inciso I do art. 1° da mesma Lei;
+3.1.3. Com base no art. 7° do Decreto n° 70.320/1972, foi publicada a Portaria /DASP n°
+146/1973 (7748586), que aprovou as especificações de classes do Grupo - Outras atividades de Nível
+Superior, a que se refere o art. 2°, item IX, da Lei n° 5.645, de 10 de dezembro de 1970, codificando
+a categoria do cargo de Engenheiro como NS-916 e disponibilizando a descrição sumária das
+atribuições, bem como as específicas, consoante disposto no item 2.4 desta Nota;
+3.1.4. O inciso I do art. 1° da Lei n° 11.171/2005 também descreve as atribuições do cargo de
+Analista em Infraestrutura de Transportes;
+3.1.5. Apresentamos trecho da Lei n° 10.233/2001 e do Regimento Interno do DNIT,
+aprovado pela Resolução n° 39, de 17 de novembro de 2020,  a fim de expor as atribuições da esfera
+de atuação da Autarquia, tendo em vista que tanto os servidores que ocupam o cargo de Engenheiro
+ancorado no PEC-DNIT como aqueles habilitados em engenharia civil que ocupam o cargo de
+Analista em Infraestrutura de Transportes terão atribuições relacionadas ao objetivo finalístico da
+Autarquia;
+3.1.6. Lato sensu, as atividades desempenhadas pelos Analistas em Infraestrutura de
+Transportes do DNIT, com habilitação em engenharia civil, bem como pelos ocupantes do cargo de
+Engenheiro do PEC-DNIT, estarão correlacionadas às atividades finalísticas da autarquia, mais
+especificamente aquelas dispostas nos arts. 80, 81 e 82 da Lei 10.233/2001 (7775875), bem como
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 9/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+aquelas categorizadas nos incisos do art. 3° da Resolução 39/2020 (7776294), no art. 1°, inciso I, da
+Lei n° 11.171/2005 (7748686), na Portaria /DASP n° 146/1973 (7748586). Stricto sensu, as
+atribuições podem abarcar aquelas (não necessariamente todas) descritas nos arts. 78 a 142 do
+Regimento interno do DNIT (7776294), que estejam correlacionadas às atividades de planejamento,
+gerenciamento, pesquisas e estudos, elaboração de projetos, acompanhamento de obras e
+fiscalização de contratos e convênios, operação e engenharia de tráfego, com vistas na construção,
+restauração, manutenção e operação da infra-estrutura de transportes federal, rodoviária,
+ferroviária, portuária e hidroviária, considerando as particularidades e os conhecimentos específicos
+atinentes às áreas de especialização descritas no Edital ESAF/DNIT n° 66/2012;
+3.1.7. Além disso, é possível que o servidor ocupante do cargo de Analista em Infraestrutura
+de Transportes seja nomeado, por exemplo, para ocupação de cargo comissionado ou função de
+confiança ou para exercer fiscalização contratual;
+3.1.8. Efetuamos especial ressalte em relação ao que dispõe o inciso XVII do art. 117 da Lei
+n° 8.112/90, que defende a proibição de cometimento de atividades estranhas ao cargo ocupado pelo
+servidor, exceto em situações de emergência e transitórias. Significa que, em situações de
+emergência e transitórias, é possível que o servidor público regido pela Lei n° 8.112/90
+desempenhe atividades estranhas ao cargo que ocupa no âmbito do órgão no qual está lotado.
+
+3.2. Propomos o direcionamento do pleito à Ouvidoria, em resposta ao Despacho (DNIT) SIC -
+OUVIDORIA 7728999.
+
+ 
+assinado eletronicamente
+
+JACQUELINE GOMES FERRAZ
+Técnico Administrativo
+
+ 
+A partir das pontuações acima, direciono o pleito ao Coordenador de Legislação e Gestão
+
+Estratégica de Pessoas, com a proposta de restituição à  Ouvidoria, em resposta ao Despacho (DNIT) SIC -
+OUVIDORIA 7728999.
+
+ 
+assinado eletronicamente
+
+FRANCISCO EDSON MACEDO JÚNIOR
+Chefe da Divisão de Orientação de Normas de Pessoal
+
+ 
+Acompanhando os esclarecimentos efetuados, em  resposta ao Despacho (DNIT) SIC -
+
+OUVIDORIA 7728999, encaminho os autos sugerindo o direcionamento à Ouvidoria, para ciência.
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+
+Ciente e de acordo. Encaminhe-se à DAF nos termos acima.
+ 
+
+assinado eletronicamente
+NEURY LOPES DE OLIVEIRA
+
+Coordenador-Geral de Gestão de Pessoas
+
+Referências Bibliográficas
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sis… 10/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+BRASIL. Departamento Administrativo do Serviço Público (DASP). Portaria n° 146, de 17 de agosto
+de 1973 – Especificações de classes do Grupo Outras Atividades de Nível Superior. Disponível em:
+<https://conlegis.planejamento.gov.br/conlegis/legislacao/atoNormativoDetalhesPub.htm?id=3177>.
+
+BRASIL. Lei n° 5.645, de 10 de dezembro de 1970. Estabelece diretrizes para a classificação de cargos
+do Serviço Civil da União e das autarquias federais e dá outras providências. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/leis/L5645.htm>.
+
+BRASIL. Decreto n° 72.493, de 19 de julho de 1973. Dispõe sobre o Grupo - Outras Atividades de Nível
+Superior, a que se refere o artigo 2º, da Lei nº 5.645, de 10 de dezembro de 1970, e dá outras
+providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/1970-1979/D72493.htm>.
+
+BRASIL. Lei N° 6.550, de 05 de julho de 1978. Estabelece diretrizes para a classificação de cargos,
+empregos e funções do Serviço Civil dos Territórios Federais, e dá outras providências. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/leis/L6550.htm>.
+
+BRASIL. Lei n° 8.112, de 11 de dezembro de 1990. Dispõe sobre a criação de carreiras e do Plano
+Especial de Cargos do Departamento Nacional de Infra-Estrutura de Transportes - DNIT e dá outras
+providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm>. 
+
+BRASIL. Lei n° 11.171, de 2 de setembro de 2005. Estabelece diretrizes para a classificação de cargos do
+Serviço Civil da União e das autarquias federais e dá outras providências. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11171.htm>.
+
+BRASIL. Lei n° 10.233, de 5 de junho de 2001. Dispõe sobre a reestruturação dos transportes
+aquaviário e terrestre, cria o conselho nacional de integração de políticas de transporte, a agência
+nacional de transportes terrestres, a agência nacional de transportes aquaviários e o departamento
+nacional de infra-estrutura de transportes, e dá outras providências.disponível em:
+<http://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10233.htm>.
+
+BRASIL. Manual de  Gestão e Fiscalização de Contratos Administrativos. Brasília: DNIT, 2020.
+
+BRASIL. Resolução n° 39, de 17 de novembro de 2020. Aprova o novo Regimento Interno do
+Departamento Nacional de Infraestrutura de Transportes - DNIT e revoga a Resolução
+CONSAD/DNIT n° 26, de 5 de maio de 2016. Brasília: DNIT, 2020.
+
+BRASIL. Edital ESAF n° 66, de 5 de novembro de 2012. Concurso público para provimento de cargos do
+quadro de pessoal efetivo do Departamento Nacional de Infraestrutura de Transportes - DNIT.
+Brasília: DNIT, 2020.
+
+Brasília/DF, 23 de março de 2021.
+
+Documento assinado eletronicamente por Jacqueline Gomes Ferraz, Técnico Administra vo, em
+25/03/2021, às 08:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Seção de
+Pesquisas e Estudos de Desenvolvimento de Pessoal, em 25/03/2021, às 09:19, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador de Legislação
+de Pessoal, em 25/03/2021, às 09:23, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Neury Lopes de Oliveira, Coordenador-Geral de Gestão
+de Pessoas, em 26/03/2021, às 07:04, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sist… 11/12
+
+
+
+01/06/2022 16:49 SEI/DNIT - 7777361 - Nota Técnica
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 7777361 e
+o código CRC D6CBCEF4.
+
+Referência: Processo nº 50001.014019/2021-34 SEI nº 7777361
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=8349878&infra_sis… 12/12

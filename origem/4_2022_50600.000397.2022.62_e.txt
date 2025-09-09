@@ -1,0 +1,338 @@
+﻿22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+NOTA TÉCNICA Nº: 6/2022/DINOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50600.000397/2022-62
+REFERÊNCIA: PESSOAL: SOLICITAÇÃO
+OBJETO: DÚVIDA SOBRE ACÚMULO DE RENDIMENTOS
+DOS FATOS
+1. O instrumento trata do questionamento efetuado por servidora do DNIT a respeito da
+viabilidade legal de acúmulos de benefícios previdenciários, direcionado à Coordenação de Legislação e
+Gestão Estratégica de Pessoas, tal como consta do Despacho (DNIT) CGCOM 10183421:
+
+"Trata-se de consulta a respeito da legislação existente para aposentadorias no DNIT. Tais
+informações vão permitir que eu tome a decisão sobre o melhor momento de aposentar,
+considerando redução de rendimentos etc.
+A dúvida refere-se à mudança implantada na última reforma da Previdência, no que
+concerne a acúmulo de recebimento de pensão por morte, do INSS, e a aposentadoria pelo
+DNIT. Passo à descrição do caso específico:
+
+Meu marido faleceu em junho de 2021 e recebo pensão por morte dele, que já era
+aposentado pelo INSS. Ele trabalhou a vida toda na iniciativa privada e se aposentou
+pelo INSS. Recebo atualmente apenas 60% do valor que era depositado na conta
+dele.
+Sou servidora do DNIT e, em algum momento, vou me aposentar por este órgão.
+Quando eu passar a receber a minha aposentadoria, há alguma alteração em relação à
+pensão por morte? Poderei receber minha aposentadoria do DNIT e também a
+pensão por morte, que já é depositada em minha conta? Ou seja, poderei acumular
+esses dois rendimentos?
+
+Aguardo esclarecimento da questão, e coloco-me à disposição para eventuais informações
+complementares acaso necessárias."
+
+DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2. Tal como consta dos fatos, a dúvida alude à recente Reforma da Previdência promovida
+pela Emenda Constitucional n° 103, de 12 de novembro de 2019, publicada no Diário Oficial da União de
+13 de novembro de 2019. A servidora menciona que atualmente percebe uma pensão por morte ancorada
+no Regime Geral de Previdência Social (RGPS), cujo instituidor é seu esposo falecido, com óbito datado
+de junho de 2021, e deseja saber sobre a viabilidade de cumular a pensão com a futura aposentadoria a ser
+concedida pelo DNIT, com ancoramento no Regime Próprio de Previdência Social (RPPS).
+3. A Emenda Constitucional n° 103, de 2019, no § 1° do art. 24, categoriza as permissões de
+cumulatividade de benefícios previdenciários, in verbis:
+
+"Art. 24. É vedada a acumulação de mais de uma pensão por morte deixada por cônjuge ou
+companheiro, no âmbito do mesmo regime de previdência social, ressalvadas as pensões do
+mesmo instituidor decorrentes do exercício de cargos acumuláveis na forma do art. 37 da
+Constituição Federal.
+§ 1º Será admitida, nos termos do § 2º, a acumulação de:
+I - pensão por morte deixada por cônjuge ou companheiro de um regime de previdência
+social com pensão por morte concedida por outro regime de previdência social ou com
+pensões decorrentes das atividades militares de que tratam os arts. 42 e 142 da Constituição
+Federal;
+II - pensão por morte deixada por cônjuge ou companheiro de um regime de
+previdência social com aposentadoria concedida no âmbito do Regime Geral de
+Previdência Social ou de regime próprio de previdência social ou com proventos de
+inatividade decorrentes das atividades militares de que tratam os arts. 42 e 142 da
+Constituição Federal; ou
+III - pensões decorrentes das atividades militares de que tratam os arts. 42 e 142 da
+Constituição Federal com aposentadoria concedida no âmbito do Regime Geral de
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 1/6
+
+
+
+22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+Previdência Social ou de regime próprio de previdência social.
+§ 2º Nas hipóteses das acumulações previstas no § 1º, é assegurada a percepção do
+valor integral do benefício mais vantajoso e de uma parte de cada um dos demais
+benefícios, apurada cumulativamente de acordo com as seguintes faixas:
+I - 60% (sessenta por cento) do valor que exceder 1 (um) salário-mínimo, até o limite de 2
+(dois) salários-mínimos;
+II - 40% (quarenta por cento) do valor que exceder 2 (dois) salários-mínimos, até o limite
+de 3 (três) salários-mínimos;
+III - 20% (vinte por cento) do valor que exceder 3 (três) salários-mínimos, até o limite de 4
+(quatro) salários-mínimos; e
+IV - 10% (dez por cento) do valor que exceder 4 (quatro) salários-mínimos.
+§ 3º A aplicação do disposto no § 2º poderá ser revista a qualquer tempo, a pedido do
+interessado, em razão de alteração de algum dos benefícios.
+§ 4º As restrições previstas neste artigo não serão aplicadas se o direito aos benefícios
+houver sido adquirido antes da data de entrada em vigor desta Emenda
+Constitucional.
+§ 5º As regras sobre acumulação previstas neste artigo e na legislação vigente na data
+de entrada em vigor desta Emenda Constitucional poderão ser alteradas na forma do
+§ 6º do art. 40 e do § 15 do art. 201 da Constituição Federal." Grifos nossos
+
+4. Verifica-se que o art. 24 da EC n° 103, de 2019, confirma o fato de que é vedada a
+acumulação de mais de uma pensão por morte deixada por cônjuge ou companheiro, no âmbito do mesmo
+regime de previdência social, ressaltadas aquelas do mesmo instituidor decorrentes do exercício de cargos
+acumuláveis. No entanto, esclarece no inciso II do § 1° do art. 24 que será admitida a cumulatividade de
+pensão por morte deixada por cônjuge ou companheiro de um regime de previdência social (expressão
+genérica que se refere tanto ao RPPS quanto ao RGPS) com aposentadoria concedida no âmbito do
+Regime Geral de Previdência Social ou de regime próprio de previdência social, situação na qual se
+enquadra a servidora.
+5. A acumulação de pensão por morte ancorada no RGPS com proventos de aposentadoria
+ancorada no RPPS ficaria restrita ao que consta do § 2° do art. 24, ou seja, seria assegurada a percepção do
+valor integral do benefício mais vantajoso e de uma parte de cada um dos demais benefícios, apurada
+cumulativamente de acordo com as faixas categorizadas nos incisos I a IV: 60% (sessenta por cento) do
+valor que exceder 1 (um) salário-mínimo, até o limite de 2 (dois) salários-mínimos; 40% (quarenta por
+cento) do valor que exceder 2 (dois) salários-mínimos, até o limite de 3 (três) salários-mínimos; 20%
+(vinte por cento) do valor que exceder 3 (três) salários-mínimos, até o limite de 4 (quatro) salários-
+mínimos; e 10% (dez por cento) do valor que exceder 4 (quatro) salários-mínimos.
+6. As vedações que relatam as impossibilidades legais de cumulatividade de benefícios
+previdenciários estão nos arts. 118 e 225 da Lei n° 8.112, de 1990, bem como no art. 124 da Lei n° 8.213,
+de 1991. É considerado acumulação proibida a percepção de vencimento de cargo ou emprego público
+efetivo com proventos da inatividade, salvo quando os cargos de que decorram essas remunerações forem
+acumuláveis na atividade, bem como acumular a percepção de mais de uma pensão deixada por cônjuge
+ou companheiro, exceto o direito de opção pela regra mais vantajosa. No entanto, o caso da servidora
+não se enquadra em nenhuma das vedações, significando que prevalece a viabilidade legal de
+cumulatividade dos benefícios de aposentadoria (RPPS) e pensão por morte (RGPS) nos termos do inciso
+II do § 1° do art. 24, observadas as delimitações constantes dos incisos do § 2° do mesmo artigo. Para fins
+de melhor explicação, citamos as redações legais vedatórias dos mencionados normativos,
+respectivamente, in verbis:
+
+"LEI Nº 8.112, DE 11 DE DEZEMBRO DE 1990
+(...)
+Art. 118.  Ressalvados os casos previstos na Constituição, é vedada a acumulação
+remunerada de cargos públicos.
+§ 1°  A proibição de acumular estende-se a cargos, empregos e funções em autarquias,
+fundações públicas, empresas públicas, sociedades de economia mista da União, do Distrito
+Federal, dos Estados, dos Territórios e dos Municípios.
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 2/6
+
+
+
+22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+§ 2°  A acumulação de cargos, ainda que lícita, fica condicionada à comprovação da
+compatibilidade de horários.
+§ 3°  Considera-se acumulação proibida a percepção de vencimento de cargo ou emprego
+público efetivo com proventos da inatividade, salvo quando os cargos de que decorram
+essas remunerações forem acumuláveis na atividade.                  (Incluído pela Lei nº 9.527,
+de 10.12.97)
+(...)
+Art. 225.  Ressalvado o direito de opção, é vedada a percepção cumulativa de pensão
+deixada por mais de um cônjuge ou companheiro ou companheira e de mais de 2 (duas)
+pensões.                    (Redação dada pela Lei nº 13.135, de 2015)"
+ 
+"LEI Nº 8.213, DE 24 DE JULHO DE 1991
+(...)
+Art. 124. Salvo no caso de direito adquirido, não é permitido o recebimento conjunto dos
+seguintes benefícios da Previdência Social:
+I - aposentadoria e auxílio-doença;
+II - duas ou mais aposentadorias;
+II - mais de uma aposentadoria;                (Redação dada pela Lei nº 9.032, de 1995)
+III - aposentadoria e abono de permanência em serviço;
+IV - salário-maternidade e auxílio-doença;                   (Incluído dada pela Lei nº 9.032, de
+1995)
+V - mais de um auxílio-acidente;               (Incluído dada pela Lei nº 9.032, de 1995)
+VI - mais de uma pensão deixada por cônjuge ou companheiro, ressalvado o direito de
+opção pela mais vantajosa.              (Incluído dada pela Lei nº 9.032, de 1995)
+Parágrafo único. É vedado o recebimento conjunto do seguro-desemprego com qualquer
+benefício de prestação continuada da Previdência Social, exceto pensão por morte ou
+auxílio-acidente.             (Incluído dada pela Lei nº 9.032, de 1995)"
+
+7. A vedação trazida pela EC n° 103, de 2019, inclui a percepção de mais de uma pensão do
+mesmo regime, salvo se decorrentes de cargos acumuláveis, sendo autorizada a percepção de pensões ou
+aposentadorias com pensões em regimes distintos. Os parâmetros limitadores categorizados nos incisos do
+§ 2° do art. 24 permitem que o beneficiário opte pelo benefício mais vantajoso integralmente e de uma
+parte de cada um dos demais benefícios. Citamos exemplificação:
+
+"Exemplificando, imaginemos a hipótese de o servidor possuir uma pensão por morte de R$
+2.200,00 e uma aposentadoria de R$ 3.500,00, independente dos regimes previdenciários.
+Neste caso, poderá ser assegurado o valor de R$ 3.500,00 (por ser o mais vantajoso) e o
+outro benefício sofrerá as reduções (100% de um salário mínimo = R$ 1.100,00, somado a
+60% de 1 a 2 s.m. = 660,00, fazendo jus ao valor de R$ 1760,00, relativo ao segundo
+benefício)."
+Fonte: https://jus.com.br/artigos/90693/a-aplicabilidade-do-art-24-da-ec-103-nos-rpps
+
+8. Importa ressaltar que, de acordo com o § 3º do art. 24, a aplicação das disposições do § 2º
+poderá ser revista a qualquer tempo, a pedido do interessado, em razão de alteração de algum dos
+benefícios.
+9. Sendo assim, com a reforma promovida pela Emenda Constitucional 103/2019, as regras
+para acumulação de aposentadoria com pensão previdenciária foram alteradas. Somente poderá haver
+acumulação com o pagamento integral do maior benefício e proporcional do benefício de menor valor.
+Essa alteração só atinge os servidores que vierem a acumular benefícios a partir de 13 de novembro de
+2019. Para quem já acumulava ou já havia adquirido o direito à aposentadoria antes, não há mudança. A
+verificação da acumulação deve ser feita em relação aos servidores que vierem a se aposentar. Caso haja
+acumulação, deverá informar o valor recebido e apresentar cópia do contracheque da pensão. Ao processar
+a aposentadoria, a Coordenação de Cadastro e Pagamento do DNIT Sede, por se tratar de servidora da
+Sede, verificará qual o maior benefício: caso seja a aposentadoria, será pago o valor integral e oficiado ao
+regime instituidor da pensão para que seja realizado os ajustes para pagamento proporcional da pensão;
+caso o maior benefício seja a pensão, os proventos de aposentadoria serão pagos de forma proporcional, de
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 3/6
+
+
+
+22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+acordo com o cálculo determinado pela EC 103/2019. Havendo alteração dos valores da aposentadoria ou
+da pensão, a forma de cálculo será revista a partir de requerimento do servidor. Ou seja, se a aposentadoria
+estiver sendo paga de forma proporcional e, posteriormente, seu valor ultrapassar o valor da pensão, será
+direito do servidor requerer ao DNIT a revisão (informação oriunda do site oficial do TJSC).
+CONCLUSÃO
+10. Feitas as considerações, pontuamos:
+
+10.1. Foi emitido questionamento por servidora do DNIT, por intermédio do Despacho
+(DNIT) CGCOM 10183421, quanto à viabilidade legal de cumular pensão ancorada no RGPS com
+proventos de aposentadoria futura a ser concedida pelo DNIT com ancoramento no RPPS, em
+referência às disposições da EC n° 103, 2019;
+10.2. Com a reforma promovida pela Emenda Constitucional 103/2019, as regras para
+acumulação de aposentadoria com pensão previdenciária foram alteradas. Somente poderá haver
+acumulação com o pagamento integral do maior benefício e proporcional do benefício de menor
+valor. Essa alteração só atinge os servidores que vierem a acumular benefícios a partir de 13 de
+novembro de 2019. Para quem já acumulava ou já havia adquirido o direito à aposentadoria antes,
+não há mudança. A verificação da acumulação deve ser feita em relação aos servidores que vierem a
+se aposentar. Caso haja acumulação, deverá informar o valor recebido e apresentar cópia do
+contracheque da pensão. Ao processar a aposentadoria, a Coordenação de Cadastro e Pagamento do
+DNIT Sede, por se tratar de servidora da Sede, verificará qual o maior benefício: caso seja a
+aposentadoria, será pago o valor integral e oficiado ao regime instituidor da pensão para que seja
+realizado os ajustes para pagamento proporcional da pensão; caso o maior benefício seja a pensão, os
+proventos de aposentadoria serão pagos de forma proporcional, de acordo com o cálculo determinado
+pela EC 103/2019. Havendo alteração dos valores da aposentadoria ou da pensão, a forma de cálculo
+será revista a partir de requerimento do servidor. Ou seja, se a aposentadoria estiver sendo paga de
+forma proporcional e, posteriormente, seu valor ultrapassar o valor da pensão, será direito do servidor
+requerer ao DNIT a revisão (informação oriunda do site oficial do TJSC).
+10.3. O art. 24 da EC n° 103, de 2019, confirma o fato de que é vedada a acumulação de
+mais de uma pensão por morte deixada por cônjuge ou companheiro, no âmbito do mesmo regime de
+previdência social, ressaltadas aquelas do mesmo instituidor decorrentes do exercício de cargos
+acumuláveis, no entanto, esclarece no inciso II do § 1° do art. 24 que será admitida a cumulatividade
+de pensão por morte deixada por cônjuge ou companheiro de um regime de previdência social
+(expressão genérica que se refere tanto ao RPPS quanto ao RGPS) com aposentadoria concedida no
+âmbito do Regime Geral de Previdência Social ou de regime próprio de previdência social, situação
+na qual se enquadra a servidora;
+10.4. A acumulação de pensão por morte ancorada no RGPS com proventos de
+aposentadoria ancorada no RPPS ficaria restrita ao que consta do § 2° do art. 24, ou seja, seria
+assegurada a percepção do valor integral do benefício mais vantajoso e de uma parte de cada um dos
+demais benefícios, apurada cumulativamente de acordo com as faixas categorizadas nos incisos I a
+IV: 60% (sessenta por cento) do valor que exceder 1 (um) salário-mínimo, até o limite de 2 (dois)
+salários-mínimos; 40% (quarenta por cento) do valor que exceder 2 (dois) salários-mínimos, até o
+limite de 3 (três) salários-mínimos; 20% (vinte por cento) do valor que exceder 3 (três) salários-
+mínimos, até o limite de 4 (quatro) salários-mínimos; e 10% (dez por cento) do valor que exceder 4
+(quatro) salários-mínimos;
+10.5. O caso da servidora não se enquadra em nenhuma das vedações constantes dos arts.
+118 e 225 da Lei n° 8.112, de 1990, bem como do art. 124 da Lei n° 8.213, de 1991,  significando
+que, na contemporaneidade, à luz da legislação vigente, prevalece a viabilidade legal de
+cumulatividade dos benefícios de aposentadoria (RPPS) e pensão por morte (RGPS) nos termos
+do inciso II do § 1° do art. 24, observadas as delimitações constantes dos incisos do § 2° do
+mesmo artigo.
+
+11. Propomos a restituição do pleito à Coordenação-Geral de Comunicação Social para ciência
+da servidora.
+
+ 
+assinado eletronicamente
+
+JACQUELINE GOMES FERRAZ
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 4/6
+
+
+
+22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+Técnico Administrativo
+ 
+
+Acompanhando os esclarecimentos efetuados, encaminho os autos à Coordenação-Geral de
+Gestão de Pessoas, para ciência, com a sugestão de restituição à Coordenação-Geral de Comunicação
+Social, unidade integrante da Diretoria Colegiada do DNIT Sede, para conhecimento da servidora acerca
+das disposições desta Nota, em resposta ao por intermédio do Despacho (DNIT) CGCOM 10183421.
+
+ 
+assinado eletronicamente
+
+FRANCISCO EDSON MACEDO JUNIOR
+Chefe da Divisão de Orientação de Normas de Pessoal
+
+ 
+De acordo. Encaminho os autos à DAF nos termos acima.
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+Coordenador-Geral de Gestão de Pessoas - Substituto
+
+ 
+
+Referências Bibliográficas:
+
+FIGUEIREDO, Douglas Tanus Amari Farias de; OLIVEIRA, Tiago Alves de. A aplicabilidade do art. 24
+da EC 103 nos RPPS. Revista Jus Navigandi, ISSN 1518-4862, Teresina, ano 26, n. 6726, 30 nov. 2021.
+Disponível em: https://jus.com.br/artigos/90693. Acesso em: 7 jan. 2022.
+
+BRASIL. Emenda Constitucional n° 103, de  12 de novembro de 2019, publicada no Diário Oficial da
+União de 13 de novembro de 2019: Altera o sistema de previdência social e estabelece regras de
+transição e disposições transitórias. Poder Executivo Federal, Brasília-DF, 2019. Disponível em:
+http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm. Acessado em 7 de janeiro de
+2022.
+
+BRASIL. Lei n° 8.112, de 11 de dezembro de 1990, publicada no Diário Oficial da União de 19 de abril
+de 1991: Dispõe sobre o regime jurídico dos servidores públicos civis da união, das autarquias e das
+fundações públicas federais. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm.
+Acessado em 7 de janeiro de 2022.
+
+BRASIL. Acumulação de aposentadoria com pensão judiciária: Tribunal de Justiça de Santa Catarina.
+Poder Judiciário de Santa Catarina. Acessado em 11 de janeiro de 2022. Disponível em:
+https://www.tjsc.jus.br/web/servidor/aposentadoria-e-previdencia/acumulacao-de-aposentadoria-com-
+pensao-previdenciaria.
+
+BRASIL. Nota Técnica n° 12212, de 22 de novembro de 2019: Análise das regras constitucionais da
+reforma previdenciária aplicáveis aos regimes próprios de previdência social dos entes federados
+subnacionais. Poder Executivo Federal, Ministério da Economia, Brasília-DF, 2019.
+
+Brasília/DF, 10 de janeiro de 2022.
+
+Documento assinado eletronicamente por Jacqueline Gomes Ferraz, Técnico Administra vo, em
+14/01/2022, às 08:44, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Divisão de
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 5/6
+
+
+
+22/02/22, 15:58 SEI/DNIT - 10236774 - Nota Técnica
+
+Orientação de Normas de Pessoal, em 14/01/2022, às 11:10, conforme horário oficial de Brasília,
+com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador-Geral de
+Gestão de Pessoas-Subs tuto(a), em 14/01/2022, às 14:49, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 10236774
+e o código CRC D34D0697.
+
+Referência: Processo nº 50600.000397/2022-62 SEI nº 10236774
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=10936456&infra_sistema… 6/6

@@ -1,0 +1,333 @@
+﻿NOTA TÉCNICA Nº: 53/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50621.000388/2021-42
+REFERÊNCIA: PESSOAL: SOLICITAÇÃO
+OBJETO: INFORMAÇÕES SOBRE RETORNO AO TRABALHO PRESENCIAL
+I - DOS FATOS
+1. Trata-se de questionamento referente à possibilidade de retorno gradual e seguro ao
+trabalho de servidores do DNIT. Pelo que se depreende da leitura dos itens 1 a 6 do Ofício nº.
+66774/2021/SRE – SE, questiona-se sobre o retorno dos servidores integrantes do chamado “Grupo de
+Risco” já imunizados pelas duas doses da vacina ao trabalho presencial. Além disso, questionou-se
+“inclusive se podem como fiscais de contratos de engenharia assinarem as respectivas medições.” .
+2. É o resumo da solicitação.
+II - DA ANÁLISE TÉCNICA 
+
+D A  C R O N O L O G I A  N O R M A T I VA
+3. A lei nº. 13.979, de 6 de fevereiro de 2020, que dispunha sobre as medidas para
+enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus
+responsável pelo surto de 2020, disciplina a matéria. Ela também foi regulamentada pelo Decreto nº
+10.282, de 20 de março de 2020.
+4. Nos termos dessa lei, considera-se:
+
+Art. 2º. (...)
+I - isolamento: separação de pessoas doentes ou contaminadas, ou de bagagens, meios de
+transporte, mercadorias ou encomendas postais afetadas, de outros, de maneira a evitar a
+contaminação ou a propagação do coronavírus; e
+II - quarentena: restrição de atividades ou separação de pessoas suspeitas de
+contaminação das pessoas que não estejam doentes, ou de bagagens, contêineres, animais,
+meios de transporte ou mercadorias suspeitos de contaminação, de maneira a evitar a
+possível contaminação ou a propagação do coronavírus.
+
+5. Diversas medidas foram implementadas pela lei em comento, dentre elas o uso de máscaras
+obrigatório e a determinação de exames periódicos.
+6. A norma inicial para os órgãos da Administração Pública Federal foi a IN/ME nº 19, de 12
+de março de 2020, cujas alterações posteriores trouxeram o art. 4-B. Com essa inserção, as regras foram
+levemente alteradas em relação aos servidores que deveriam ser mantidos em trabalho remoto. Os
+servidores ou empregados públicos com 60 anos ou mais, os imunodeficientes, os que tinham doenças
+preexistentes crônicas ou graves deveriam executar suas atividades remotamente. Também, deveriam estar
+em trabalho remoto os servidores que sejam responsáveis pelo cuidado de uma ou mais pessoas com
+suspeita ou confirmação de diagnóstico de infecção por COVID-19, os que apresentassem sinais e
+sintomas gripais, enquanto perdurasse essa condição, e as servidoras e empregadas públicas que fossem
+gestantes ou lactantes. 
+7. O trabalho remoto só não era cabível para aqueles que exercessem atividades nas áreas de
+segurança, saúde e outras, consideradas essenciais pelo órgão ou entidade. Mesmo assim, foi facultado ao
+órgão ou entidade estabelecer critérios e procedimentos específicos para definição da necessidade de
+afastamento ou autorização para trabalho remoto do servidor ou empregado público. Dessa forma, cabia à
+autoridade máxima do órgão fazer esta definição, tendo como um dos critérios o princípio da
+razoabilidade.
+8. Devido à base normativa ter validade inicialmente restrita ao ano de 2020, a IN nº 19, de
+2020, também teria sua validade condicionada ao ano passado. Enquanto essa instrução esteve vigente, no
+dia 18 de março de 2020, foi publicada a Portaria/DNIT nº 1.584, de 17 de março de 2020, publicada no
+Boletim Administrativo nº 53, de 18 de março de 2020, regulando a matéria no âmbito deste órgão. A
+citada Portaria autorizava, “em caráter excepcional, a adoção de regimes de jornadas em turnos
+
+
+
+alternados de revezamento e de trabalho remoto” (Art. 1º). Havia a imposição, à época, da apresentação e
+aprovação de planos de trabalho simplificados, contendo a totalidade ou o percentual das atividades
+desenvolvidas pelos servidores e empregados públicos, respeitadas a carga horária prevista na lei (art. 1º
+§§ 1º e 2º). Ainda, aos servidores que pudessem adotar essa jornada, não seria exigida a compensação de
+horários (§ 3º), pois nem todos seriam enquadrados no regime de trabalho alternado e remoto (art. 1º, §§ 3º
+e 4º).
+9. Em relação à essencialidade das atividades, foi levantada a definição presente no § 1º do
+Decreto n. 10.282, de 2020. Em que pese esse decreto ter definido quais são as atividades consideradas
+essenciais pelo Governo Federal, no âmbito do DNIT a única definição encontrada para a época foi a
+contida no Ofício-Circular SEI nº  5381238, de 8/4/2020, transcrito abaixo:
+
+“Brasília, 08 de abril de 2020.
+Às  Diretorias do DNIT,
+Às Superintendências Regionais,
+Às Administrações Hidroviárias.
+ 
+Assunto: Orientações do Minfra - COVID-19.
+ 
+Prezados(as) Senhores(as),
+ 
+Trata o presente acerca do Ofício nº 1651/2020/GAB-SNTT/SNTT (5342200), oriundo do
+Ministério da Infraestrutura, que versa sobre a recente edição, pela Presidência da
+República e pelo  Congresso Nacional, de diversas medidas destinadas ao enfrentamento
+da emergência de saúde pública causada pelo novo Coronavírus.
+Nesse sentido, no intuito de nivelar o entendimento entre os diversos setores de
+infraestrutura, segue para conhecimento a orientação daquele Ministério, disposta no
+Ofício-Circular nº. 01/2020/GM/Minfra:
+‘(...) não há qualquer recomendação de paralisação parcial ou total das obras de
+infraestrutura de transportes em execução com recursos federais, o mesmo se aplicando a
+atividades de estruturação de licitações e contratações, bem como a elaboração de projetos
+relacionados a infraestrutura.
+Ainda, tendo em vista o comprometimento do Ministério da Infraestrutura na continuidade
+da execução das obras de infraestrutura de transportes no âmbito federal, e em respeito
+aos profissionais envolvidos nesta atividade essencial para o Brasil, solicita-se informar
+aos parceiros e empresas contratadas que continuem a garantir a proteção e a saúde dos
+seus colaboradores, em concordância com as orientações ora colocadas pelos Governos
+federal, Estaduais e Municipais, notadamente com a adoção de cuidados especiais com
+grupos-alvo mais vulneráveis.
+E ainda, caso se verifique algum eventual conflito entre as recomendações das esferas
+federal, estadual ou municipal, em casos concretos, que se informe a Secretária
+Executiva deste Ministério para que se possa coordenar as soluções com as autoridades
+pertinentes, de forma a viabilizar o andamento das obras em execução.
+A colaboração ativa de todo o setor de infraestrutura de transportes neste momento
+essencial para que, juntos a população, consigamos superar esta pandemia e continuarmos
+seguindo em frente com nossa missão de modernizar a rede nacional de transportes
+rodoviário, aéreo, aquaviário e ferroviário; proporcionando um Brasil melhor para todos
+os brasileiros”
+São estas, portanto, as orientações desta Pasta Ministerial diante do atual cenário de
+emergência.’
+Por fim, solicito que esta Diretoria-Geral seja informada sobre quaisquer conflitos entre as
+recomendações das esferas federal, estadual e municipal que possam impactar na execução
+dos empreendimentos, a fim de  que se possa informar a Secretária Executiva, bem como a
+Secretaria Nacional de Transportes Terrestres do MINFRA.
+Outrossim, coloco-me à disposição para o fornecimento de esclarecimentos adicionais que
+se fizerem necessários.
+
+
+
+ 
+Atenciosamente”
+
+10. Nota-se que o citado ofício visava a levantar os eventuais conflitos normativos entre as
+esferas da federação, sem definir atividades essenciais. Em que pese a existência desse decreto, observa-se
+que elas foram mantidas no campo genérico, pois cabe às outras esferas a complementação do mesmo em
+âmbito local, como se verá na decisão do Supremo Tribunal Federal, mais adiante (8406124). Sendo o
+DNIT uma autarquia, a busca incidiu sobre as Portarias. Não foi localizado normativo interno que,
+considerando as atividades do DNIT, especificasse as atividades, tais como assinaturas de medições, citada
+no Ofício 66774/2021/SRE – SE, no âmbito das portarias.
+11. Ainda no ano de 2020, foi iniciado o retorno gradual e seguro ao trabalho. Na esteira desses
+eventos,  foi editada, internamente a Portaria nº 4.303, de 15 de julho de 2020, no Boletim Administrativo
+nº 136/2020, determinando o retorno gradual e seguro ao trabalho. Aproximadamente um mês depois, essa
+determinação de retorno foi revogada pela Portaria nº 4.593, de 18 de agosto de 2020, a qual manteve, de
+forma excepcional,  a validade das disposições contidas na Portaria nº 1584, de 2020.
+
+Com a publicação da Instrução Normativa nº 109, de 2020, houve a revogação da Instrução
+Normativa nº 19, de 2020, fundamento da Portaria nº 1.584, de 2020, pelo que, entende-se que esta
+portaria foi revogada. A IN 109 não continha limitações à sua vigência, muito embora um de seus
+fundamentos fosse uma lei cuja validade se encerraria no ano de 2020 e facultava aos órgãos a edição de
+normativos complementares.
+12. Segundo a IN 109/2020-ME, o principal aspecto a ser observado para o retorno gradual e
+seguro ao trabalho está descrito em seu art. 2º, atualizado pela IN 37/2021, transcrito abaixo:
+
+Art. 2º As atividades presenciais ficam autorizadas caso constatadas as condições sanitárias
+e de atendimento de saúde pública que as viabilizem, de acordo com esta Instrução
+Normativa. 
+§ 1º A presença de servidores e empregados públicos em cada ambiente de trabalho não
+deverá ultrapassar trinta por cento do limite máximo de sua capacidade física, mantendo-
+se o distanciamento mínimo de um metro entre os agentes públicos. 
+§ 2º No caso de ambientes que abrigam gabinetes de secretarias, secretarias-executivas e de
+ministros de estado ou autoridades equivalentes, a presença de servidores e empregados
+públicos não 
+deverá ultrapassar o limite máximo de cinquenta por cento de sua capacidade física. 
+§ 3º Em caso de medidas restritivas de distanciamento social em Estados e Municípios em
+que for estipulado limite maior que o estabelecido no parágrafo primeiro deste artigo, os
+órgãos federais neles sediados deverão seguir as regras locais". (NR) 
+"Art. 2º-A As unidades deverão manter seus servidores em trabalho remoto em sua
+totalidade, observando o disposto no art. 23 desta Instrução Normativa, quando houver: 
+I - restrições locais de circulação; ou 
+II - antecipações de pontos facultativos e feriados legalmente instituídos. 
+Parágrafo único. O disposto no caput não se aplica em antecipações dos feriados de que
+tratam os incisos II e III do art. 1º e art. 2º, todos da Lei nº 9.093, de 12 de setembro de
+1995." (NR)
+ 
+
+Aqui, a Instrução definiu os limites:
+
+Circunstanciais: existência de condições sanitárias e de atendimento de saúde pública;
+Normativos: definição pela autoridade máxima dos critérios a serem observados; e
+Físicos: ocupação física de 30% ou de 50% da capacidade, salvo determinação local indicando limite
+maior.
+
+13. Em seguida, a mesma instrução apresentou os requisitos mínimos que deveriam ser
+observados pelos órgãos em seu art. 3º. São eles: otimização na distribuição física da força de trabalho,
+horários flexíveis e observância dos protocolos e medidas de segurança recomendados pelas
+autoridades locais. Ainda, determinou o rol de prioridades a serem mantidas nos regimes que definia:
+
+ Art. 7º Deverão ser priorizados para a execução de trabalho remoto, mediante
+autodeclaração, as seguintes situações abaixo constantes da Portaria nº 2.789, de 2020,
+do Ministério da Saúde:
+
+
+
+(...)
+§ 3º O disposto nos incisos I a III do caput não se aplica aos servidores e empregados
+públicos em atividades nas áreas de segurança, saúde ou de outras atividades
+consideradas essenciais pelo órgão ou entidade.
+
+14. Mais uma vez, nota-se que houve priorização, mas não houve a compulsoriedade de
+manutenção dos servidores em tais regimes.
+15. Ainda no ano de 2020 foi iniciado o processo relativo à ADI 6625 MC-Ref / DF -
+DISTRITO FEDERAL (SEI nº 8406124). A medida cautelar foi concedida em dezembro desse ano.
+16.  Na esteira desses eventos,  o DNIT lançou no Oficio 1070/2021/SAA/DAF/DNIT-SEDE
+(SEI nº 7674558). Observa-se que foi mantida a prioridade de exercício de trabalhos remotos aos
+servidores  nas condições contidas no art. 7º e a determinação de retorno ao trabalho presencial, desde que
+haja necessidade do serviço, no art. 8º. A necessidade de serviço não afasta os limites circunstanciais,
+normativos e físicos definidos na própria IN, bem como não exclui a obediência às disposições locais de
+medidas de segurança. A disposição contida no Oficio 1.070/2021/SAA/DAF/DNIT-SEDE ( SEI nº
+7674558) remonta às necessidades locais e indica que devem ser mantidos “em modo presencial apenas os
+serviços considerados necessários à manutenção das atividades essenciais da autarquia, conforme
+realidade local”.
+17. A essa época a questão não estava pacificada na jurisprudência.  A decisão do Supremo
+Tribunal Federal (STF) na ADI 6625 MC-Ref / DF - DISTRITO FEDERAL, publicada em 12/4/2021,
+conferiu continuidade a alguns dispositivos da Lei n. 13.979/2020. Dessa forma, por meio dessa decisão
+(SEI nº 8406124), a vigência da mesma foi mantida válida, ainda que de forma cautelar, enquanto durarem
+os efeitos da Pandemia. Nesta decisão, o STF entendeu que deveria atar a vigência da mesma à realidade
+social que lhe deu causa, a saber, a pandemia. A questão ainda não foi decidida de forma definitiva, pelo
+que, ao tempo deste expediente, ela é mencionada como fundamento para o entendimento aqui adotado.
+Vale destacar que a decisão de dezembro de 2020 foi referendada pelo STF. Dessa forma, restam válidas
+algumas normas da Lei nº 13.979/2020 e das normas nela baseadas, inclusive a I.N. nº 109/2020 e o
+Decreto nº 10.282/2020.
+18. Esta foi a cronologia normativa.
+
+D O S  I M U N I Z A D O S .
+19. Em relação aos imunizados, uma das orientações contidas no site do Ministério da Saúde,
+conhecido como “Vacinômetro”, consiste na manutenção das medidas de proteção
+(https://www.gov.br/saude/pt-br/vacinacao). Na IN 109/2020 não foi localizada distinção entre imunizados
+e não imunizados, apenas a definição dos limites circunstanciais, normativos e físicos.  Ainda, nos termos
+atuais definidos pelo Plano Nacional de Operacionalização da Vacinação contra a COVID-19 (SEI
+nº 8406249), a imunização consiste em uma potencial solução para o controle da pandemia (SEI nº
+8406249, p.18). Sozinha, contudo, não resolve o problema: deve estar combinada com as medidas de
+proteção. Finalmente, segundo o mesmo sitio e, também, o "Vacinômetro" do Conselho Nacional de Saúde
+(http://conselho.saude.gov.br/vacinometro), as diferentes unidades da federação apresentam ritmos
+diferentes de vacinação.
+
+D A S  A T I V I D A D E S  E S S E N C I A I S
+20. Em consulta aos Boletins Administrativos não foram localizadas definições internas
+contemplando quais seriam as atividades consideradas como essenciais pelo DNIT. Sendo assim, vale
+consulta à delimitação contida no Decreto 10.282/2020.
+III - DA FUNDAMENTAÇÃO LEGAL 
+
+Com base na decisão contida na ADI 6625 MC-Ref / DF - DISTRITO FEDERAL
+(8406124) é cabível a aplicação das normas da Lei 13.979/2020, do  Decreto 10.282/2020 e da
+IN 109/2020/ME. Essas foram as normas utilizadas como fundamentação legal.
+IV - CONCLUSÃO
+21. Conclui-se, com base na pesquisa realizada à legislação pertinente, que:
+21.1. É possível afirmar que os normativos contemplam a possibilidade de retorno ao
+trabalho presencial desde que obedecidos ao limite circunstancial, normativo e físico, com
+
+
+
+prioridade na manutenção presencial dos que exerçam as atividades consideradas essenciais,
+respeitados os mesmos limites e as legislações estaduais e locais cabíveis;
+21.2. Não foi localizada a determinação de obrigatoriedade de retorno ao trabalho presencial ou a
+obrigatoriedade de manutenção em trabalho remoto na legislação consultada, mas tão somente a
+obrigatoriedade de manutenção de atividades consideradas essenciais, respeitados os
+quantitativos estabelecidos e garantida a segurança dos envolvidos;
+21.3. Destaca-se que o art. 7º da IN 109/2020 assegura a priorização pela manutenção em
+trabalho remoto dos servidores no perfil que ele especifica, sendo assim, vale o entendimento de que
+deverá ser resguardado o direito dos prioritários, imunizados ou não, pela opção em relação à permanência
+na modalidade remota;
+21.4. Em que pesem as diferenças nos ritmos de vacinação de Estados e Municípios, da leitura
+dos normativos e documentos comentados, não foi localizada distinção entre imunizados e não
+imunizados, sendo que o tratamento dispensado a ambos deve ser o mesmo: uso de máscaras de
+proteção, distanciamento e respeito aos quantitativos definidos na Instrução Normativa nº 109/2020
+ou em outro normativo local, em conformidade com a própria IN 109/2020-ME e demais medidas de
+segurança necessárias;
+21.5. Adoção do critério da razoabilidade pela S.R.E-SE em relação às atividades que, devido à
+adoção de sistema tecnológicos, possam ser realizadas à distancia e quais não possam para manter o
+respeito aos limites contidos na legislação, com destaque para as atividades consideradas essenciais pela
+Lei nº 13.979/2020, pelo Decreto nº 10.282/2020 e pela  IN 109/2020/ME.
+V - ANEXOS
+1.      ADI 6625 MC-Ref / DF - DISTRITO FEDERAL (SEI nº 8406124);
+2.      Plano Nacional de Operacionalização da Vacinação contra a COVID-19 (SEI nº 8406249)
+ 
+ 
+
+ 
+assinado eletronicamente
+
+JOSETE BRASIL VENTURA
+Técnico Administrativo
+
+ 
+ 
+
+A partir das pontuações acima, direciono o pleito ao Coordenador de Legislação e Gestão
+Estratégica de Pessoas, com a proposta de direcionamento à Superintendência Regional no Estado de
+Sergipe, para ciência e providências pertinentes.
+
+ 
+assinado eletronicamente
+
+FRANCISCO EDSON MACEDO JÚNIOR
+Chefe da Divisão de Orientação de Normas de Pessoal
+
+ 
+Acompanhando os esclarecimentos efetuados, encaminho os autos sugerindo o
+
+direcionamento à Superintendência Regional no Estado de Sergipe, em para ciência e demais
+providências.
+
+ 
+assinado eletronicamente
+
+DYOGO DA ROCHA CAPISTRANO
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+
+ 
+
+
+
+Ciente e de acordo. Encaminhe-se à DAF nos termos acima.
+ 
+
+assinado eletronicamente
+NEURY LOPES DE OLIVEIRA
+
+Coordenador-Geral de Gestão de Pessoas
+ 
+
+Brasília/DF, 14 de junho de 2021.
+
+Documento assinado eletronicamente por Josete Brasil Ventura, Técnico Administra vo, em
+21/06/2021, às 11:38, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Técnico Administra vo,
+em 21/06/2021, às 13:36, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Técnico de Suporte em
+Infraestrutura de Transportes, em 21/06/2021, às 14:30, conforme horário oficial de Brasília, com
+fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Neury Lopes de Oliveira, Coordenador-Geral de Gestão
+de Pessoas, em 28/06/2021, às 18:11, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h p://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 8406249 e
+o código CRC 779C5D0A.
+
+Referência: Processo nº 50621.000388/2021-42 SEI nº 8406249
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |

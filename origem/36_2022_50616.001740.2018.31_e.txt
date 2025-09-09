@@ -1,0 +1,257 @@
+﻿01/06/2022 16:51 SEI/DNIT - 7256589 - Nota Técnica
+
+NOTA TÉCNICA Nº: 4/2021/COLEG/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50616.001740/2018-31
+REFERÊNCIA: CONTABILIDADE: ANÁLISE CONTÁBIL
+OBJETO:
+1. DOS FATOS
+1.1. Proveniente da Superintendência Regional do DNIT no Estado de Santa Catarina - SRE/SC,
+vem ao exame desta Coordenação de Legislação e Gestão Estratégica de Pessoas, o presente processo, que
+versa sobre solicitação de orientação acerca da obrigatoriedade/oportunidade e conveniência
+de designação de um Contador substituto que não integre o quadro daquela Regional.
+1.2. Em 17 de novembro de 2020, iniciaram-se os presentes autos, com requerimento da
+Coordenação de Administração e Finanças à SRE/SC (vide SEI nº 6913200), tendo em vista o processo
+de solicitação de vacância do servidor                             , constante no Requerimento SECONF - CAF -
+SC (6750835), para posse em cargo inacumulável, com fundamento no art. 33, VIII, da Lei 8.112/1990, a
+contar de 22/10/2020, e de sua designação vigente como contador responsável pela conformidade
+contábil da UG 393013, conforme  a Portaria n° 3317, publicada no Diário Oficial da União de 29 de
+junho de 2018, documento SEI n° 1320672.
+1.3. Assim, visando a regularização do ato, a CAF - SRE-SC solicitou que fosse
+providenciada Portaria, nos moldes do SEI n° 1320672, designando o servidor                                       ,
+CPF 044.090.929-52, como Contador Responsável pela realização da Conformidade Contábil no SIAFI,
+no âmbito da Superintendência Regional no Estado de Santa Catarina, UG 393013.
+1.4. Entretanto, conforme relatado nos autos, o servidor em questão é o único Contador em
+exercício na Superintendência Regional de Santa Catarina, furtando-os de um substituto para a realização
+da conformidade contábil. Desta feita, sugeriu-se a evolução do presente processo à Diretoria de
+Administração e Finanças para manifestação, quanto à obrigatoriedade/oportunidade e conveniência
+de designação de um Contador substituto que não integrasse o quadro da Regional.
+1.5. De maneira sucessiva, por intermédio do Ofício nº 138619/2020/SRE - SC, de 17
+de novembro de 2020 (vide SEI nº 6923645), a Superintendência Regional do DNIT no Estado de Santa
+Catarina - SRE/SC encaminhou o presente processo à Diretoria de Administação e Finanças, face a
+natureza do assunto.
+1.6. Conforme Despacho / DNIT SEDE/DAF/SAA - DAF (vide SEI nº 6923645), a Diretoria de
+Administação e Finanças remeteu os autos à Coordenação-Geral de Gestão de Pessoas, que, por sua vez,
+procedeu ao redirecionamento do presente processo (vide SEI n° 6929328), à esta Coordenação de
+Legislação e Gestão Estratégica de Pessoas para manifestação.
+1.7. É o relato do essencial.
+2. DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2.1. Preliminarmente, considerando o objeto da demanda, insta destacar, que, segundo
+informações extraídas do próprio Manual do Sistema Integrado de Administração Financeira do Governo
+Federal - SIAFI, a Conformidade Contábil consiste na certificação dos demonstrativos contábeis gerados
+no SIAFI, por meio de análises dos atos e fatos da gestão orçamentária, financeira e patrimonial, cuja base
+conceitual contempla o Manual de Contabilidade Aplicada ao Setor Público - MCASP, o Plano de Contas
+Aplicado ao Setor Público - PCASP, a Conformidade de Registro de Gestão, o Manual SIAFI,
+principalmente, a Macrofunção SIAFI 02.03.15.
+2.2. Dessa feita, a Conformidade Contábil se dá em níveis distintos e somente se aplica às
+Unidades Gestoras Executoras, assim entendidas aquelas UG's que têm pessoas autorizadas a praticar atos
+de gestão e consequentemente efetuam registros contábeis. Essas UGs estão subordinadas a um órgão, que
+por sua vez pode ainda estar subordinado a um órgão superior, o que vem a ser o caso desta autarquia.
+2.3. Ainda sobre esse aspecto, a Conformidade Contábil é de competência de profissional em
+contabilidade devidamente registrado no Conselho Regional de Contabilidade - CRC, em dia com suas
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7802085&infra_siste… 1/5
+
+
+
+01/06/2022 16:51 SEI/DNIT - 7256589 - Nota Técnica
+
+obrigações profissionais. Desse modo, entende-se por profissional em contabilidade, conforme a
+Macrofunção SIAFI 02.03.15, o servidor público ocupante de cargo efetivo ou de comissão ou
+empregado público, ou de militar regido, de nível superior ou médio, que tenha formação em
+contabilidade e esteja com o registro ativo e regular no Conselho Regional de Contabilidade.
+2.4. Assim, operacionalmente, para ter condições de se manifestar quanto à certificação dos
+demonstrativos contábeis no SIAFI é preciso que esse profissional seja formalmente designado e esteja
+credenciado para este fim.  Para isso, é preciso que ele conste no cadastro da Unidade Gestora -
+UG como contabilista responsável e possua habilitação do Perfil CONFCONT a fim de permitir a
+execução da transação ATUCONFCON (Atualiza Conformidade Contábil).
+2.5. Registre-se, em termos de estrutura organizacional, conforme dispõe o Decreto 6.976, de 07
+de outubro de 2009, a Secretaria do Tesouro Nacional - STN é o Órgão Central de Contabilidade que
+compete a orientação normativa e a supervisão técnica de todo o Sistema de Contabilidade Federal.
+
+Art. 6o  Integram o Sistema de Contabilidade Federal:
+I - a Secretaria do Tesouro Nacional do Ministério da Fazenda, como órgão central; e
+II - órgãos setoriais. 
+§ 1o (...)
+I - Setorial Contábil de Unidade Gestora - é a unidade responsável pelo acompanhamento
+da execução contábil de um determinado número de Unidades Gestoras Executoras e pelo
+registro da respectiva conformidade contábil;
+II - Setorial Contábil de Órgão: é a Unidade Gestora responsável pelo acompanhamento
+da execução contábil de determinado órgão, compreendendo as Unidades Gestoras a este
+pertencentes, e pelo registro da respectiva conformidade contábil;
+III - Setorial Contábil de Órgão Superior: é a unidade de gestão interna dos Ministérios e
+órgãos equivalentes responsáveis pelo acompanhamento contábil dos órgãos e entidades
+supervisionados e pelo registro da respectiva conformidade contábil. 
+
+2.6. Da leitura do normativo supracitado, nota-se que, além do órgão central, o
+acompanhamento contábil dos atos e fatos orçamentários, financeiros e patrimoniais dos Ministérios, da
+Advocacia-Geral da União, do Poder Legislativo, do Poder Judiciário, do Ministério Público da União, da
+Defensoria Pública da União e dos demais órgãos/unidades é exercido pelas Setoriais de Contabilidade
+que podem ser de Órgão Superior, de Órgão, de Unidade Gestora (UG) e de Seccional de Contabilidade. 
+Destaca-se que em cada Setorial/Seccional há necessidade de indicação de um contabilista para ser o
+responsável pela Conformidade Contábil.
+2.7. Frize-se que, no contexto das setoriais contábeis, em face do art. 9º do Decreto 6.976/2009,
+surge também a possibilidade dos Órgãos Seccionais de Contabilidade que representam delegações de
+competências realizadas pelos órgãos setoriais de contabilidade. Essa delegação só pode ser realizada se
+comprovadas as condições da delegada para assumir obrigações pertinentes, de acordo com as normas
+emitidas pelo órgão central do Sistema de Contabilidade Federal.
+
+Art. 9o  As competências de órgão setorial de contabilidade, previstas no art. 8o, poderão ser
+delegadas a órgão ou unidade que comprove ter condições de assumir as obrigações
+pertinentes, de acordo com normas emitidas pelo órgão central do Sistema de Contabilidade
+Federal. 
+
+2.8. Ainda nesse mesmo dispositivo, ressalta-se, que, consoante parágrafo único do art. 9º,  as
+setoriais de contabilidade delegantes devem prestar toda a assistência, orientação e apoio técnico quanto
+aos procedimentos e aspectos contábeis a serem observados pelos Órgãos Seccionais de Contabilidade
+principalmente quando da realização da conformidade contábil. 
+2.9. A Conformidade Contábil possui periodicidade mensal, cujo cronograma é determinado
+pelo Órgão Central de Contabilidade - STN e deve ser ajustado pelo Órgão Superior de Contabilidade
+por meio de transação no SIAFI. A transação no SIAFI permite que todos os usuários possam verificar os
+dias de fechamento de cada mês.  
+2.10. É mister esclarecer que o conhecimento desse cronograma é importante para quem atua
+como Responsável pela Conformidade de Registro de Gestão, Almoxarifado, Patrimônio e execução
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7802085&infra_siste… 2/5
+
+
+
+01/06/2022 16:51 SEI/DNIT - 7256589 - Nota Técnica
+
+orçamentária e financeira, pois permite que esses usuários conheçam as datas limites para realização de
+ajustes necessários para o correto fechamento mensal das demonstrações contábeis.
+2.11. Ainda de acordo com o Manual do SIAFI, da conferência levada a cabo pelos contadores
+responsáveis, o registro de Conformidade Contábil pode acarretar em situações sem ocorrência ou com
+ocorrência.
+2.12. A situação sem ocorrência deve ser apontada quando observado que as demonstrações
+contábeis não apresentam inconsistências relevantes que poderiam mudar o entendimento sobre as
+demonstrações contábeis, estando estas de acordo com as normas contábeis. Não possuem, portanto,
+ocorrências contábeis.
+2.13. A situação com ocorrência esclarece que os Demonstrativos Contábeis apresentam
+inconsistências ou irregularidades, quais sejam:
+
+1. Existência de saldos invertidos cujas contas não permitem inversão;
+2. Existência de saldos alongados;
+3. Existência de saldos irregulares;
+4. Existência de inconsistências que comprometam a qualidade das informações;
+5. Ausência de saldos que comprometam a qualidade das informações, como depreciação,
+
+amortização e exaustão;
+6. Registro de restrição apontada pela Conformidade de Registro de Gestão ou ausência de
+
+manifestação do responsável por esse registro.
+
+2.14. Nessa mesma esteira, é importante destacar que as inconsistências ou irregularidades -
+individual ou de forma agregada - precisam ser relevantes sob a visão do contador a ponto de mudar o
+entendimento e comprometer a qualidade das informações contábeis.   Essa nova ótica foi trazida pela
+recente alteração da macrofunção SIAFI 02.03.15, quando elucida que a decisão de aplicação ou não de
+uma determinada restrição contábil é personalístico de cada contador responsável pelas
+demonstrações contábeis e será baseada em seu julgamento profissional.
+2.15. Nesse julgamento, cada profissional de contabilidade irá avaliar as possíveis
+inconsistências ou irregularidades nos conceitos de relevância e materialidade  para verificar se
+esses pontos prejudicam a qualidade das informações, mudam o entendimento e afetam a
+fidedignidade dos demonstrativos contábeis.
+2.16. Além disso, ainda de acordo com o Manual do SIAFI, o ordenador de despesa e o
+Contabilista que registrou a Conformidade Contábil são responsáveis pela adequação das informações
+contidas nos demonstrativos contábeis da respectiva UG, mesmo que o registro tenha sido efetuado
+automaticamente pelo sistema, restando demonstrada como ato contínuo a relevância da certificação dos
+demonstrativos contábeis gerados no Sistema. 
+3. CONCLUSÃO
+3.1. Diante de todo o exposto neste documento, em relação à orientação suscitada acerca da
+obrigatoriedade/oportunidade e conveniência de designação de um Contador substituto que não integre o
+quadro daquela Regional no âmbito da Superintendência Regional do DNIT no Estado de Santa Catarina -
+SRE/SC, ressalte-se que esta Divisão de Orientação de Normas de Pessoal entende que, uma vez que a
+atividade de Conformidade Contábil não pode deixar de ser exercida, restou demonstrada a relevância da
+existência de um contador designado como substituto, mesmo que não integre o quadro
+daquela Regional, que poderá vir a ocupar a função eventualmente, nos impedimentos legais e
+afastamentos do titular, visando a continuidade da certificação dos demonstrativos contábeis gerados no
+Sistema Integrado de Administração Financeira do Governo Federal - SIAFI.
+3.2. Frise-se, ainda, por necessário, que o contador responsável pela conformidade
+contábil terá substituto previamente designado pela autoridade competente. Na hipótese de substituição
+automática, sendo o substituto de outra Superintendência Regional, a execução do trabalho, quando em
+substituição, não poderá interferir na boa execução de suas atividades em seu local de lotação.
+3.3. Por fim, com vistas aos apontamos desta manifestação analítica, sugerimos o
+encaminhamento do presente processo para análise da Coordenação-Geral de Gestão de Pessoas e, após, à
+Diretoria de Administração e Finanças. Caso a Senhora Diretora de Administração e Finanças substituta
+esteja de acordo, devem os autos evoluírem à apreciação da Superintendência Regional do DNIT no
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7802085&infra_siste… 3/5
+
+
+
+01/06/2022 16:51 SEI/DNIT - 7256589 - Nota Técnica
+
+Estado de Santa Catarina - SRE/SC, para demais providências que o caso em tela poderá requerer, sobre o
+entendimento firmado, no âmbito da unidade em tela.
+
+ 
+
+ 
+
+assinado eletronicamente
+ADRIANA DE JESUS FEITOSA
+
+Agente Administrativo
+
+ 
+
+De acordo. Encaminhem-se os autos à Coordenação-Geral de Gestão de Pessoas para
+apreciação das considerações constantes na nota técnica acima.
+
+ 
+
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JÚNIOR
+
+Chefe da Divisão de Orientação de Normas de Pessoal
+ 
+ 
+
+Aprovo o teor da nota técnica supra em todos os seus termos. Encaminhem-se os autos à
+Diretoria de Administração e Finanças sugerindo remessa à SR/DNIT/SC para ciência.
+
+ 
+
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador-Geral de Gestão de Pessoas - Substituto
+ 
+
+Brasília/DF, 29 de dezembro de 2020.
+
+Documento assinado eletronicamente por Adriana de Jesus Feitosa, Agente Administra vo, em
+04/01/2021, às 15:53, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Seção de
+Pesquisas e Estudos de Desenvolvimento de Pessoal, em 04/01/2021, às 16:02, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador de Legislação
+de Pessoal, em 04/01/2021, às 16:06, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7802085&infra_siste… 4/5
+
+
+
+01/06/2022 16:51 SEI/DNIT - 7256589 - Nota Técnica
+
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 7256589 e
+o código CRC B31186D5.
+
+Referência: Processo nº 50616.001740/2018-31 SEI nº 7256589
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7802085&infra_siste… 5/5

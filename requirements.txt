@@ -1,0 +1,24 @@
+# 🤖 Sistema de Agentes Jurídicos - Versão Simplificada
+# Dependências necessárias para execução
+
+# LLM - Google Gemini
+google-generativeai>=0.3.0
+
+# Banco de dados vetorial - Pinecone
+pinecone-client>=2.2.0
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Utilitários padrão (geralmente já incluídos)
+# asyncio - incluído no Python 3.7+
+# pathlib - incluído no Python 3.4+
+# logging - incluído no Python padrão
+# datetime - incluído no Python padrão
+# typing - incluído no Python 3.5+
+# json - incluído no Python padrão
+# sys - incluído no Python padrão
+# os - incluído no Python padrão
+
+# Versão mínima do Python recomendada
+# Python >= 3.8

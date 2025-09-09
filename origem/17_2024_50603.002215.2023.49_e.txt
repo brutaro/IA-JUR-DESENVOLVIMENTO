@@ -1,0 +1,304 @@
+﻿NOTA TÉCNICA Nº: 8/2024/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50603.002215/2023-49
+REFERÊNCIA: PESSOAL: NORMATIZAÇÃO INTERNA
+OBJETO:
+I. DOS FATOS
+1. O expediente SEI nº 15928029 contendo os questionamentos abaixo foi encaminhado a esta
+setorial para fins de esclarecimentos. Transcreve-se os questionamentos:
+
+12. Assim sendo, solicitamos que a Coordenação-Geral de Gestão de Pessoas responda aos
+seguintes questionamentos, sem prejuízo de apreciação por parte da Procuradoria Federal
+Especializada:
+
+a) Os serviços topográficos executados na zona urbana de outro município que
+não o da sede de lotação do servidor, observados os demais requisitos
+do Decreto nº 5.992/96, ensejam a percepção de indenização de campo? Caso
+a resposta seja negativa, quais as justificativas para o não pagamento?
+b) Quais as justificativas para o não pagamento de indenização de campo no
+que tange à fiscalização e à supervisão de serviços topográficos?
+
+2. Observando os questionamentos e argumentos constantes na manifestação da Unidade Local
+de Sobral/CE, vemos que a dúvida reside na própria definição de atividades de topografia e na diferença
+em relação à atividade de terraplenagem. Destacamos a menção às normas do Conselho Federal dos
+Técnicos Industriais relativas à supervisão e fiscalização. Transcreve-se:
+
+10. Atualmente, o Conselho Federal dos Técnicos Industriais, criado pela Lei nº
+13.639/2018, é o responsável pela fiscalização do regular exercício das atividades inerentes
+aos técnicos industriais nas modalidades estradas, laboratório e topografia.
+11. A Resolução nº 089, de 6 de dezembro de 2019, do Conselho Federal dos Técnicos
+Industriais — que passou a disciplinar e orientar as prerrogativas e atribuições dos Técnicos
+Industriais com habilitação em Agrimensura, Geodésia e Cartografia, e Geoprocessamento
+— prescreve que:
+
+Art.3º. Os Técnicos Industriais com habilitação em Agrimensura, Geodésia e
+Cartografia, e Geoprocessamento, para efeito do exercício profissional, tem
+atribuição para:
+IX - Elaborar e executar projetos de terraplanagem, tais como:
+5 - Acompanhamento e fiscalização. (Destaque nosso)
+
+3. Em razão da falta de conhecimento especializado na matéria, esta setorial solicitou o auxílio
+da Coordenação-Geral do Instituto de Pesquisas de Transportes (CGIPT) por meio da NOTA TÉCNICA
+Nº: 267/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE, contendo os questionamentos sobre o
+tema:
+
+20. Apresenta-se uma resposta parcial ao consulente, naquilo que é possível a esta setorial.
+Sendo assim, em relação ao primeiro questionamento, esclarece-se que essa setorial segue a
+determinação do Tribunal de Contas da União (TCU), ratificada pelo Órgão Central do
+SIPEC, segundo a qual é vedado o pagamento da indenização de campo para atividades de
+campo realizadas em zona urbana de outro município. Essa vedação se dá porque trabalhos
+de campo são aqueles realizados em área rural, isto é, fazer esse pagamento significa inovar
+na área jurídica, segundo o TCU e uma desconformidade com o texto da lei segundo o
+SIPEC.
+21. Em relação ao segundo, como regra, esta setorial ratifica o entendimento segundo o qual
+a fiscalização de serviços de topográficos não integra o rol de atividades passíveis de
+percepção de indenização de campo. Assim, a Taxatividade seria o fundamento legal. Em
+relação à menção ao item 5, inciso XI,  do art. 3º da Resolução nº 089, de 6 de dezembro de
+2019, do Conselho Federal dos Técnicos Industriais, esta setorial se encontra impedida de se
+manifestar, em razão de ser um questionamento que exige conhecimentos técnicos a respeito
+
+
+
+de engenharia não dominados por ela. Isso justifica a opção pela remessa à Coordenação-
+Geral do Instituto de Pesquisas de Transportes - CGIPT.
+22. Assim, os questionamentos enviados consistem em:
+1. As atividades de elaboração e execução de projetos de terraplenagem, e, por
+conseguinte, as fiscalizações em seu âmbito, podem ser ou não consideradas atividades
+de topografia para fins de pagamento de indenização de campo?
+2. Caso afirmativo, o acompanhamento e a fiscalização da atividades supracitadas
+podem ser considerados como execução de atividades de topografia?
+
+4. Prontamente, a setorial consultada apresentou suas considerações, de forma didática, não
+deixando margem para dúvidas (16498785). Além de obter mais um valioso expediente para o repositório
+a respeito da indenização de campo, utilizamos tais esclarecimentos, na presente análise, como
+subsídios técnicos que facilitam nossa abordagem sobre a legislação envolvida.
+5. Sendo essas as considerações a serem apresentadas na descrição dos fatos, passa-se à
+análise técnica e à fundamentação legal.
+II. DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL 
+6. Primeiramente, cabe ressaltar que houve uma resposta parcial ao primeiro questionamento
+do consulente, constante da Nota Técnica nº 267/2023/SENOR/COLEG - CGGP/CGGP/DAF/DNIT
+SEDE, razão pela qual este tema não será retomado.
+7. A Análise agora irá recair sobre os demais itens a serem discutidos. Para orientar a
+elaboração do raciocínio será necessário repetir o questionamento não respondido para prosseguir na
+análise. Sendo assim, transcreve-se:
+
+b) Quais as justificativas para o não pagamento de indenização de campo no que tange à
+fiscalização e à supervisão de serviços topográficos?
+
+8. A fundamentação da questão foi adotada tendo por base a Resolução nº 89, de 6 de
+dezembro de 2019, do Conselho Federal dos Técnicos Industriais. Na citada norma, havia a inclusão de
+serviços de supervisão e fiscalização em atividades de terraplenagem e esta compunha um item com
+atribuições de Técnicos Industriais com habilitação em Geodésia e cartografia e Geoprocessamento sem
+maiores esclarecimentos a respeito das definições. Assim, era preciso determinar se terraplenagem poderia
+ser ou não considerada atividade de topografia.
+9. Diante da ausência de atribuições técnicas desta setorial para essa diferenciação, foi
+necessária a consulta à CGIPT que apresentou a Publicação IPR-700 - Glossário de Termos Técnicos
+Rodoviários (1997).  Segundo os esclarecimentos da setorial consultada, há uma relação entre as atividades
+de terraplenagem e topografia, mas elas não se confundem, ou seja, são tidas  como distintas. Transcreve-
+se os esclarecimentos prestados abaixo:
+
+2. Para responder adequadamente essas perguntas, cabe, a princípio, conceituar topografia e
+terraplenagem. Para tanto, foi consultada a Publicação IPR-700 - Glossário de Termos
+Técnicos Rodoviários (1997). Esse manual é a principal referência adotada pelo DNIT para
+definir e estabelecer conceitos técnicos de maneira clara e padronizada, facilitando sua
+compreensão. Constam do Glossário as seguintes definições:
+
+LEVANTAMENTO TOPOGRÁFICO Conjunto das operações de
+medida, efetuadas sobre o terreno ou por processos fotogramétricos,
+mediante as quais se obtêm os elementos necessários à elaboração da
+representação gráfica ou numérica do terreno.
+(...)
+MOVIMENTO DE TERRA Escavação de material terroso e/ou
+extração de material rochoso, seguidas geralmente de transporte e
+aproveitamento para fins de construção. V. Terraplenagem.
+(...)
+TERRAPLENAGEM Conjunto de operações de escavação, carga,
+transporte, descarga, compactação de solos, aplicadas na construção de
+aterros e cortes, dando à superfície do terreno a forma projetada para
+construção de rodovias. V. Movimento de Terra e V. Terrapleno.
+(...)
+
+
+
+TOPOGRAFIA 1) Técnica para caracterizar no plano (desenho) o
+relevo de uma porção de terreno, baseada na trigonometria plana e se
+vale, basicamente, de instrumento ótico de precisão. 2) Relevo de uma
+porção de terreno.
+(...)
+
+3. Das definições expressas na Publicação IPR-700 (1997), percebe-se que a topografia e a
+terraplenagem são atividades que estão relacionadas entre si, mas cujos conceitos não se
+confundem. Então, numa análise imediata, uma atividade de terraplenagem não pode ser
+considerada como sendo de topografia.
+4. No entanto, atividades de topografia possuem interfaces e aplicações na terraplenagem.
+Para que um projeto de terraplenagem seja elaborado, é necessário que, antes, tenham
+sido realizados serviços de topografia. Isso porque o estudo topográfico irá caracterizar o
+trecho em estudo, permitindo entender e qualificar o que deve ser feito no terreno, em
+termos de movimentação de volumes de terra (escavações/cortes e aterros), para a
+consecução do empreendimento pretendido. Além disso, durante as obras de terraplenagem,
+o controle geométrico das alturas, larguras e declividades é feito
+por levantamento topográfico, de modo a verificar se foi alcançada a conformação prevista
+no projeto de engenharia. Então, os serviços topográficos costumam ocorrer
+primeiramente na fase de desenvolvimento dos projetos e, em seguida, no
+acompanhamento do desenvolvimento das obras de terraplenagem.
+5. Pereira e outros (2013)[1], ao se referir às relações entre topografia e terraplenagem
+aplicadas a empreendimentos rodoviários, afirmam que "a topografia deve estar presente do
+primeiro ao último momento deste tipo de obra de engenharia". Como já demonstrado, a
+topografia é uma atividade de apoio para a elaboração de projetos e a execução de
+obras de terraplenagem. No entanto, terraplenagem e topografia não são a mesma
+coisa.
+6. Em síntese, entendemos que os servidores envolvidos em "atividades de elaboração e
+execução de projetos de terraplenagem" não devem fazer jus à indenização de campo. 
+7. Já no que diz respeito às atividades de fiscalização, reforçamos o entendimento já
+expresso anteriormente no Despacho / DNIT SEDE/DPP/CGIPT-IPR, de 29/6/2023
+(14908267), item 12.1. A redação do art. 4º do Decreto nº 5.992/2006 prevê que a
+indenização de campo será devida aos servidores que se afastarem da zona urbana "para
+execução de atividades" do rol da Lei nº 8.216/91 (o grifo é nosso). Entendemos que, neste
+ponto específico, por uma questão textual, não há margem para flexibilização, uma
+vez que o acompanhamento/fiscalização/orientação da execução de determinado serviço -
+no caso, de topografia - não é a mesma coisa que a efetiva execução dele. (Destaques deste
+expediente)
+
+10. As definições contidas na Publicação IPR-700 (1997) apresentam as diferenças entre
+topografia e terraplenagem. Diante dos esclarecimentos, é possível constatar que, ainda que a norma dos
+técnicos industriais inclua essas atividades no rol de atribuições dos que possuem habilitação em Geodésia
+e cartografia e Geoprocessamento, essa determinação não implica que haja coincidência de definições.
+Dito de outra forma: há uma relação entre topografia e terraplenagem, mas isso não significa que a
+fiscalização em atividades de terraplenagem possa ser considerada atividade de topografia passível de
+indenização de campo. A atividade de topografia, inclusive, pelo que se lê dos esclarecimentos
+apresentados, precede a própria elaboração de projeto de terraplenagem.
+11. Ainda em relação a esse tópico, é importante esclarecer que a legislação não apresenta
+especificações técnicas relevantes que diferencie terraplenagem de topografia, limitando-se a listar a
+topografia. Como exemplo, transcreve-se trecho do Decreto nº 5.992/96: 
+
+Art. 4º  A indenização de que trata o art. 16 da Lei nº 8.216, de 13 de agosto de 1991, será
+devida, no valor constante no Anexo II, aos servidores de toda e qualquer categoria funcional
+que se afastarem da zona considerada urbana de seu Município de sede para a execução de
+trabalhos de campo, como atividades de campanhas de combate e controle de endemias,
+marcação, inspeção e manutenção de marcos divisórios, topografia, pesquisa, saneamento
+básico, inspeção e fiscalização de fronteiras internacionais.
+
+12. Assim, diante das diferenças entre topografia e terraplenagem, e considerando que a
+legislação apenas menciona topografia sem detalhar sua definição, é possível afirmar que a atividade de
+
+
+
+supervisão e execução em terraplenagem não se configura atividade de topografia, razão pela qual não
+ocorre o fato gerador para pagamento da indenização de campo. Mais uma vez, reitera-se que o
+entendimento desta setorial, coincidente com o da CGIPT, segundo o qual apenas a execução de atividades
+de topografia, atendidas as demais condições do art. 16 da lei nº 8.216/1991, permite ressarcimento por
+meio de indenização de campo.
+CONCLUSÃO
+13. Ante ao exposto, apresenta-se resposta ao questionamento faltante nos seguintes termos:
+
+Questionamento:
+b) Quais as justificativas para o não pagamento de indenização de campo no que tange à
+fiscalização e à supervisão de serviços topográficos?
+
+Resposta:
+Não cabe pagamento de indenização de campo no que tange à fiscalização e à supervisão
+
+em razão dos seguintes fatos:
+1. Primeiramente, fiscalização e supervisão são diferentes de execução;
+2. A norma citada pelo consulente inclui atividades relacionadas a uma categoria
+específica, de forma que é possível afirmar, após o recebimento do expediente SEI
+nº 16498785, que a Resolução nº 089, de 6 de dezembro de 2019, do Conselho
+Federal dos Técnicos Industriais não indica coincidência entre topografia e
+terraplenagem: ela apenas elenca atribuições, relacionadas entre si, dispostas em
+um rol.
+3. Por último, ainda que a norma citada pelo consulente inclua atividades de
+supervisão e fiscalização no rol de atividades de terraplanagem e, ainda que
+terraplenagem e topografia sejam atividades próximas e que podem interagir, elas
+possuem definições distintas. Por esta razão, a supervisão e fiscalização em
+atividades de elaboração de projetos de terraplenagem, ainda que seja
+atribuição dos Técnicos Industriais com habilitação em Geodésia e Cartografia e
+Geoprocessamento não pode ser considerada como sendo atividade de
+topografia para fins de indenização de campo.
+
+14. Sendo essas as considerações a serem apresentadas, esta setorial restitui os autos e esclarece
+que segue nos esforços para a apresentação de esclarecimentos sobre o assunto.
+
+À consideração superior.
+
+ 
+
+Assinado eletronicamente
+JOSETE BRASIL VENTURA
+
+Técnico Administrativo
+ 
+
+ 
+
+Ciente e de acordo. Remetam-se os autos à Coordenação de Legislação e Gestão Estratégica
+de Pessoas para fins de remessa à Diretoria de Administração e Finanças.
+
+ 
+
+assinado eletronicamente
+FRANCICO EDSON MACEDO JÚNIOR
+
+Chefe do Serviço Especializado de Orientação de Normas de Pessoal
+
+ 
+
+ 
+
+
+
+Ciente e de acordo. Encaminhem-se os autos à Coordenação-Geral de Gestão de Pessoas,
+para fins de encaminhamento ao consulente, o Chefe de Serviço da Unidade Local de Sobral, por meio
+da Diretoria de Administração e Finanças.
+
+ 
+
+assinado eletronicamente
+GIDALTI INÁCIO DA SILVA
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+
+ 
+
+Ciente e de acordo. Encaminhem-se os autos à Diretoria de Administração e Finanças para
+remessa ao consulente, o Chefe de Serviço da Unidade Local de Sobral por meio
+da Superintendência Regional do DNIT no Estado do Ceará.
+
+ 
+
+assinado eletronicamente
+NEURY LOPES DE OLIVEIRA
+
+Coordenador-Geral de Gestão de Pessoas substituto
+
+ 
+
+ 
+Brasília/DF, na data da assinatura.
+
+Documento assinado eletronicamente por Josete Brasil Ventura, Técnico Administra vo, em
+19/01/2024, às 13:02, conforme horário oficial de Brasília, com fundamento no art. 4º, § 3º, do
+Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe do Serviço
+Especializado de Orientação de Normas de Pessoal, em 19/01/2024, às 14:09, conforme horário
+oficial de Brasília, com fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+Documento assinado eletronicamente por Neury Lopes de Oliveira, Coordenador-Geral de Gestão
+de Pessoas-Subs tuto(a), em 19/01/2024, às 15:03, conforme horário oficial de Brasília, com
+fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Gidal  Inacio da Silva, Coordenador de Legislação e
+Gestão Estratégica de Pessoas, em 19/01/2024, às 15:15, conforme horário oficial de Brasília, com
+fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 16710747 e
+o código CRC 76C2FE1F.
+
+Referência: Processo nº 50603.002215/2023-49 SEI nº 16710747
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902
+Brasília/DF |

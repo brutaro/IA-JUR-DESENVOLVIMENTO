@@ -1,0 +1,513 @@
+﻿01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+
+NOTA TÉCNICA Nº: 35/2024/SENOR/COLEG - CGGP/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50612.000651/2022-93
+REFERÊNCIA: DEMANDA EXTERNA: MINISTÉRIO PÚBLICO FEDERAL
+OBJETO:
+I - DOS FATOS
+1. O instrumento trata do questionamento efetuado pelo Serviço de Gestão de Pessoas da
+Superintendência Regional no Estado de Goiás e Distrito Federal, a respeito da possibilidade de renúncia
+da opção de incorporação da gratificação de desempenho prevista na Lei nº 13.371/2016 por parte do
+servidor  aposentado                                             ,  Matrículas  DNIT nº         e  SIAPE  nº                ,  ex-
+ocupante do cargo de Agente Administrativo, por intermédio do Ofício nº 98030/2022/DF/SGP - CAF -
+GO/DF/CAF - GO/DF/SRE - GO (11503900):
+
+Trata-se do Ofício nº 3272/2022/NAC1-GO/GOIÁS/CGU, que encaminha Relatório de
+Auditoria Preliminar nº 1069635, decorrente de ação de controle realizada pela CGU-
+Regional/GO, visando a avaliação dos pagamentos de parcelas asseguradas judicialmente,
+constantes nas fichas financeiras dos servidores ativos e aposentados, os seus devidos
+cadastros nos sistemas SICAJ/Siape e os recadastramentos no módulo de Ações Judiciais do
+Sigepe.
+(...)
+Ademais, o item 4.1 do Relatório de Auditoria Preliminar nº 1069635 dispõe das rubricas
+relacionadas à Ação nº 79516 e apresentou inconsistência no cálculo do valor pago ao
+
+Segundo o referido Relatório, “...o cálculo da média de pontos foi utilizado o período de
+março de 2008 a fevereiro de 2013. Nesse período o servidor recebeu a Gratificação
+GDAPEC somente por 54 meses, sendo incluído no cálculo da média da pontuação a
+Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, de mesma
+natureza de gratificação de desempenho, porém com regras diferenciadas na forma de
+incorporação aos proventos de aposentadoria e às pensões”.
+Oportuno destacar que foi concedida aposentadoria ao Sr                                               , por
+meio da Portaria nº 33, de 08 de março de 2013, publicada no Diário Oficial da União nº 47,
+de 11 de março de 2013, Seção 2 com fundamento no artigo 3º da Emenda Constitucional nº
+47/2005.
+Como bem exposto no Relatório de Avaliação, a incorporação da Gratificação de
+Desempenho de Atividades Administrativas do Plano Especial de Cargos do Dnit -
+GDAPEC nos proventos de aposentadorias está prevista no artigo 21 da Lei nº 11.171, de 02
+de setembro de 2005, in verbis:
+
+Art. 21. Para fins de incorporação aos proventos da aposentadoria ou às pensões,
+relativas a servidores referidos nos arts. 15, 15-A e 15-B desta Lei, a GDAIT, a
+GDIT, a GDADNIT e a GDAPEC: (Redação dada pela Lei nº 11.907, de 2009)
+I - para as aposentadorias e pensões instituídas até 19 de fevereiro de 2004, as
+gratificações de que trata o caput deste artigo serão: (Redação dada pela Lei nº
+11.907, de 2009)
+a) a partir de 1º de julho de 2008, correspondentes a 40 (quarenta) pontos,
+considerados o nível, classe e padrão do servidor; e (Incluído pela Lei nº 11.907, de
+2009)
+b) a partir de 1º de julho de 2009, correspondentes a 50 (cinqüenta) pontos,
+considerados o nível, classe e padrão do servidor; (Incluído pela Lei nº 11.907, de
+2009)
+II - para as aposentadorias e pensões instituídas após 19 de fevereiro de
+2004: (Redação dada pela Lei nº 11.907, de 2009)
+a) quando percebidas por período igual ou superior a 60 (sessenta) meses e aos
+servidores que deram origem à aposentadoria ou à pensão se aplicar o disposto nos
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 1/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+arts. 3º e 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, e no art. 3º
+da Emenda Constitucional nº 47, de 5 de julho de 2005, aplicar-se-á a média dos
+valores recebidos nos últimos 60 (sessenta) meses; (Incluído pela Lei nº 11.907, de
+2009)
+b) quando percebidas por período inferior a 60 (sessenta) meses, aos servidores de
+que trata a alínea a deste inciso aplicar-se-ão os pontos constantes das
+alíneas a e b do inciso I do caput deste artigo; e (Incluído pela Lei nº 11.907, de
+2009)
+III - aos demais aplicar-se-á, para fins de cálculo das aposentadorias e pensões, o
+disposto na Lei nº 10.887, de 18 de junho de 2004. (Incluído pela Lei nº 11.907, de
+2009)
+
+Frisa-se que o                                                              aposentou-se em 11/03/2013 e até esta
+data percebeu a GDAPEC por período inferior a 60 (sessenta) meses. Portanto, aplicar-se-ia,
+em tese, a alínea "b", inciso II, do art. 21, da Lei 11.171/2005.
+No entanto, de acordo com a ficha financeira, o aposentado continuou recebendo a
+GDAPEC no valor da pontuação de sua última remuneração enquanto ativo, ou seja, 100
+(cem) pontos, com guarida na decisão judicial proferida nos autos da ação judicial nº 4800-
+71.2012.4.01.3400, uma vez que o mesmo era e ainda continua associado a ASDNER -
+ Associação dos Servidores Federais em Transportes, parte na ação.
+Com advento da Lei nº 13.371, de 14 de dezembro de 2016, o
+foi informado das novas regras de incorporação de gratificação de desempenho às
+aposentadorias. Na oportunidade, foi-lhe apresentada a média da pontuação da gratificação
+de desempenho que constava no sistema SIAPE, fls. 106-107 do processo de aposentadoria
+nº 50612.003227/2012-29, que se encontra no Assentamento Funcional Digital - AFD-
+Sigepe, equivalente a 87,33 (oitenta e sete virgula trinta e três) pontos.
+Destaca-se que está unidade não se atentou que o próprio sistema utilizou a GDATA para a
+composição da média, induzindo o aposentado a erro na escolha da nova opção de
+incorporação da gratificação de desempenho.
+Registra-se que mesmo com a perda de 12,67 (doze virgula sessenta e sete) pontos da
+GDAPEC, eis que o aposentado percebia 100 (cem) pontos da gratificação de
+desempenho em virtude da decisão judicial, foi feita a opção a incorporação da GD, nos
+termos da Lei nº 13.371/2016.
+Diante do exposto, entendemos que a opção pela nova regra de incorporação da GDAPEC
+deveria ser revista, uma vez que o sistema, ao utilizar a GDATA para fins de composição da
+média dos pontos, induziu todos a erro, em especial o Sr  
+Cumpre-nos informar que o tema vai ser levado para manifestação da Coordenação de
+Legislação e Gestão Estratégica de Pessoas acerca da possibilidade de renúncia da opção de
+incorporação da gratificação de desempenho prevista na Lei nº 13.371/2016, considerando o
+exposto nos itens 13 e 14.
+
+II - DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2. Inicialmente frisamos que o servidor aposentado ocupava o cargo de Agente Administrativo
+pertencente ao PCC e foi aposentado após a publicação da Portaria/DNIT n. 33/2013 (16990230), com
+fundamento no art. 3º da Emenda Constitucional n. 47/2005, com paridade e proventos integrais,
+acrescidos de 1/10 (um décimo) da Função Gratificada, código FG-3, transformados em Vantagem Pessoal
+Nominalmente Identificada, conforme Artigo 62-A da Lei n. 8. 112/90.
+3. A Lei n. 11.171/2005 informa no art. 3° sobre a criação do Plano de Classificação de Cargos
+- PCC, instituído pela Lei n. 5.645, de 10 de dezembro de 1970, assim como tece esclarecimentos a
+respeito da percepção de gratificações por servidores:
+
+Art. 3º Fica criado, a partir de 1º de janeiro de 2005, o Plano Especial de Cargos do
+Departamento Nacional de Infra-Estrutura de Transportes - DNIT, composto pelos cargos de
+provimento efetivo do Plano de Classificação de Cargos - PCC, instituído pela Lei nº 5.645,
+de 10 de dezembro de 1970, ou de planos correlatos das autarquias e fundações públicas não
+integrantes de carreiras estruturadas, regidos pela Lei nº 8.112, de 11 de dezembro de 1990,
+pertencentes ao Quadro de Pessoal do DNIT, nele lotados em 1º de outubro de 2004, ou que
+venham a ser para ele redistribuídos, desde que as respectivas redistribuições tenham sido
+requeridas até 31 de julho de 2004.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 2/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+§ 1º Os cargos do Plano Especial de Cargos de que trata o caput deste artigo estão
+organizados em classes e padrões, na forma do Anexo III desta Lei.
+§ 2º Os servidores ocupantes dos cargos de provimento efetivo de que trata o caput deste
+artigo serão enquadrados no Plano Especial de Cargos instituído neste artigo, de acordo com
+as respectivas atribuições, com os requisitos de formação profissional e com a posição
+relativa na tabela, conforme Anexo IV desta Lei.
+(...)
+Art. 3º-C. A estrutura remuneratória dos titulares de cargos de níveis intermediário e auxiliar
+integrantes do Plano Especial de Cargos do Dnit terá a seguinte composição: (Incluído pela
+Lei nº 11.907, de 2009)
+I - Vencimento Básico; e (Incluído pela Lei nº 11.907, de 2009)
+II - Gratificação de Desempenho de Atividades Administrativas do Plano Especial de
+Cargos do Dnit - GDAPEC. (Incluído pela Lei nº 11.907, de 2009)
+(...)
+Art. 15-B. Fica instituída a Gratificação de Desempenho de Atividades Administrativas do
+Plano Especial de Cargos do Dnit - GDAPEC, devida aos servidores do Plano Especial de
+Cargos do Departamento Nacional de Infra-Estrutura de Transportes não compreendidos no
+art. 15 desta Lei quando em exercício de atividades inerentes às atribuições do respectivo
+cargo no Dnit. (Incluído pela Lei nº 11.907, de 2009)
+Art. 16-A. As gratificações instituídas pelos arts. 15, 15-A e 15-B desta Lei serão atribuídas
+aos servidores que a elas fazem jus em função do alcance das metas de desempenho
+individual e do alcance das metas de desempenho institucional do Dnit. (Incluído pela Lei
+nº 11.907, de 2009)
+(...)
+Art. 16-B. As gratificações de desempenho a que se referem os arts. 15, 15-A e 15-B serão
+pagas observado o limite máximo de 100 (cem) pontos e o mínimo de 30 (trinta) pontos por
+servidor, correspondendo cada ponto ao valor estabelecido no Anexo VII desta Lei.
+(Incluído pela Lei nº 11.907, de 2009)
+(...)
+Art. 16-C. A pontuação referente às gratificações de que tratam os arts. 15, 15-A e 15-B será
+assim distribuída: (Incluído pela Lei nº 11.907, de 2009)
+I - até 20 (vinte) pontos serão atribuídos em função dos resultados obtidos na avaliação de
+desempenho individual; e (Incluído pela Lei nº 11.907, de 2009)
+II - até 80 (oitenta) pontos serão atribuídos em função dos resultados obtidos na avaliação
+de desempenho institucional. (Incluído pela Lei nº 11.907, de 2009)
+(...)
+Art. 16-F. Os valores a serem pagos a título de GDAIT, GDIT, GDADNIT ou GDAPEC
+serão calculados multiplicando-se o somatório dos pontos auferidos nas avaliações de
+desempenho individual e institucional pelo valor do ponto constante do Anexo VII desta
+Lei, observados o nível, a classe e o padrão em que se encontra posicionado o servidor.
+(Incluído pela Lei nº 11.907, de 2009)
+(...)
+Art. 21. Para fins de incorporação aos proventos da aposentadoria ou às pensões, relativas a
+servidores referidos nos arts. 15, 15-A e 15-B desta Lei, a GDAIT, a GDIT, a GDADNIT e a
+GDAPEC: (Redação dada pela Lei nº 11.907, de 2009)
+I - para as aposentadorias e pensões instituídas até 19 de fevereiro de 2004, as gratificações
+de que trata o caput deste artigo serão: (Redação dada pela Lei nº 11.907, de 2009)
+a) a partir de 1º de julho de 2008, correspondentes a 40 (quarenta) pontos, considerados o
+nível, classe e padrão do servidor; e (Incluído pela Lei nº 11.907, de 2009)
+b) a partir de 1º de julho de 2009, correspondentes a 50 (cinqüenta) pontos, considerados o
+nível, classe e padrão do servidor; (Incluído pela Lei nº 11.907, de 2009)
+II - para as aposentadorias e pensões instituídas após 19 de fevereiro de 2004: (Redação
+dada pela Lei nº 11.907, de 2009)
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 3/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+a) quando percebidas por período igual ou superior a 60 (sessenta) meses e aos servidores
+que deram origem à aposentadoria ou à pensão se aplicar o disposto nos arts. 3º e 6º da
+Emenda Constitucional nº 41, de 19 de dezembro de 2003, e no art. 3º da Emenda
+Constitucional nº 47, de 5 de julho de 2005, aplicar-se-á a média dos valores recebidos nos
+últimos 60 (sessenta) meses; (Incluído pela Lei nº 11.907, de 2009) (Vide Lei nº 12.998, de
+2014)
+b) quando percebidas por período inferior a 60 (sessenta) meses, aos servidores de que trata
+a alínea a deste inciso aplicar-se-ão os pontos constantes das alíneas a e b do inciso I do
+caput deste artigo; e (Incluído pela Lei nº 11.907, de 2009)
+III - aos demais aplicar-se-á, para fins de cálculo das aposentadorias e pensões, o disposto
+na Lei nº 10.887, de 18 de junho de 2004. (Incluído pela Lei nº 11.907, de 2009)
+(...)
+Art. 26. O titular de cargo de provimento efetivo das Carreiras de que trata o art. 1º desta
+Lei ou do Plano Especial de Cargos do Dnit referido no art. 3º desta Lei não faz jus à
+percepção da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA,
+de que trata a Lei nº 10.404, de 9 de janeiro de 2002. (Redação dada pela Lei nº 11.907, de
+2009)
+
+4. A estrutura remuneratória dos titulares de cargos inclusos no PCC de níveis intermediário é
+composta de Vencimento Básico e Gratificação de Desempenho de Atividades Administrativas do Plano
+Especial de Cargos do Dnit - GDAPEC. O art. 26 é bem claro ao afirmar que os cargos integrantes do
+PCC a que se refere o art. 3° não fazem jus à Gratificação de Desempenho de Atividade Técnico-
+Administrativa - GDATA, de que trata a Lei n. 10.404, de 9 de janeiro de 2002.
+5. O art. 21 dita as regras referentes à incorporação aos proventos de aposentadoria da
+GDAPEC, dentre outras gratificações. Para as aposentadorias e pensões instituídas após 19 de fevereiro de
+2004 existem três regras:
+
+quando percebidas por período igual ou superior a 60 (sessenta) meses e aos servidores que deram
+origem à aposentadoria ou à pensão aplica-se o disposto nos arts. 3º e 6º da EC n. 41/2003, e no art.
+3º da EC n. 47/2005, aplicar-se-á a média dos valores recebidos nos últimos 60 (sessenta) meses;
+quando percebidas por período inferior a 60 (sessenta) meses, aplicar-se-ão os pontos constantes das
+alíneas "a" (a partir de 1° de julho de 2008, 40 pontos) e "b" (a partir de 1º de julho de 2009,
+correspondentes a 50 pontos) do inciso I do caput do art. 21;
+aos demais aplicar-se-á, para fins de cálculo das aposentadorias e pensões, o disposto na Lei
+n. 10.887, de 18 de junho de 2004 conforme abaixo:
+
+Art. 1º No cálculo dos proventos de aposentadoria dos servidores titulares de cargo efetivo
+de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios,
+incluídas suas autarquias e fundações, previsto no § 3º do art. 40 da Constituição Federal e
+no art. 2º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, será considerada a
+média aritmética simples das maiores remunerações, utilizadas como base para as
+contribuições do servidor aos regimes de previdência a que esteve vinculado,
+correspondentes a 80% (oitenta por cento) de todo o período contributivo desde a
+competência julho de 1994 ou desde a do início da contribuição, se posterior àquela
+competência.
+
+6. O SGP-GO/DF afirmou no Ofício n. 98030/2022/DF/SGP - CAF - GO/DF/CAF -
+GO/DF/SRE - GO (11503900) que o servidor foi aposentado em 11 de março de 2013 e até esta
+data percebeu a GDAPEC por período inferior a 60 (sessenta) meses, o que resultaria no enquadramento
+baseado na alínea "b", inciso II, do art. 21, da Lei 11.171/2005 (50 pontos). Não obstante, continuou
+percebendo a GDAPEC, 100 (cem) pontos,  no valor da pontuação da última remuneração como se ativo
+fosse, com alicerce na decisão judicial decorrente da ação judicial n. 4800-71.2012.4.01.3400, pois era
+associado à ASDNER, à época, autora do processo judicial.
+7. Ainda de acordo com o Ofício n. 98030/2022/DF/SGP - CAF - GO/DF/CAF - GO/DF/SRE
+- GO (11503900), o servidor foi informado sobre as novas regras relativas à opção pela incorporação da
+gratificação de desempenho com base na Lei n. 13.371/2016. Com a opção pela incorporação da
+gratificação de desempenho com base na citada Lei, o referido perdeu 12,67 pontos  após a escolha, em
+detrimento dos 100 pontos que recebia de GDAPEC consequente da ação judicial nº 4800-
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 4/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+
+71.2012.4.01.3400. Isso porque o sistema utilizou a GDATA para a composição da média, o que
+supostamente induziu o referido ao erro na escolha da opção pela gratificação de desempenho. Lembrando
+que o art. 26 da Lei n. 11.171.2005 informa que os cargos integrantes do PCC não fazem jus à GDATA.
+8. Para sanar a irregularidade, o DNIT deveria se pronunciar quanto à possibilidade de
+renúncia da opção de incorporação da gratificação de desempenho prevista na Lei nº 13.371/2016, face às
+orientações constantes da Auditoria Preliminar/CGU-GO nº 1069635 IAS/CGU (10721334) (10721405),
+encaminhando a documentação comprobatória relativa à revisão do valor pago e, no mesmo ínterim,
+formalizar processo administrativo nos termos da Orientação Normativa nº 05/2013.
+9. O SGP/GO-DF (11503900) questiona acerca da possibilidade de renúncia da opção pela
+incorporação da gratificação de desempenho com base na Lei n° 13.371/2016, o que faria com que o
+referido passasse novamente a receber 100% da GDAPEC consequente da ação judicial nº 4800-
+71.2012.4.01.3400.
+10. De acordo com a Lei n° 13.371/2016, que alterou a remuneração de servidores públicos e
+estabeleceu opção por novas regras de incorporação de gratificação de desempenho às aposentadorias e
+pensões, os servidores aposentados com base no art. 3° da EC n° 47/2005 poderiam, discricionariamente,
+optar pela incorporação de gratificações de desempenho aos proventos de aposentadoria ou de pensão, nos
+termos dos arts. 6º e 7º:
+
+Art. 5º É facultado aos servidores, aos aposentados e aos pensionistas que estejam sujeitos
+ao disposto nos arts. 3º , 6º ou 6º -A da Emenda Constitucional nº 41, de 19 de dezembro de
+2003 , ou no art. 3º da Emenda Constitucional nº 47, de 5 de julho de 2005, optar pela
+incorporação de gratificações de desempenho aos proventos de aposentadoria ou de pensão,
+nos termos dos arts. 6º e 7º, relativamente aos seguintes cargos, planos e carreiras:
+(...)
+III - do Departamento Nacional de Infraestrutura de Transportes.
+Parágrafo único. A opção de que trata o caput somente poderá ser exercida se o
+servidor tiver percebido gratificações de desempenho por, no mínimo, sessenta meses,
+antes da data da aposentadoria ou da instituição da pensão.
+Art. 6º Os servidores de que trata o art. 5º podem optar, em caráter irretratável, pela
+incorporação de gratificações de desempenho aos proventos de aposentadoria ou de
+pensão nos seguintes termos:
+I - a partir de 1º de janeiro de 2017, 67% (sessenta e sete por cento) do valor referente à
+média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de
+atividade;
+II - a partir de 1º de janeiro de 2018, 84% (oitenta e quatro por cento) do valor referente à
+média dos pontos da gratificação de desempenho recebidos nos últimos sessenta meses de
+atividade; e
+III - a partir de 1º de janeiro de 2019, o valor integral da média dos pontos da gratificação de
+desempenho recebidos nos últimos sessenta meses de atividade.
+§ 1º Para fins de cálculo do valor devido, o percentual da média dos pontos de que tratam os
+incisos I a III do caput será aplicado sobre o valor do ponto correspondente ao
+posicionamento do servidor na tabela remuneratória na data da aposentadoria ou da
+instituição da pensão, respeitadas as alterações relativas a posicionamentos decorrentes de
+legislação específica.
+§ 2º A opção de que trata o caput deverá ser formalizada no momento do requerimento de
+aposentadoria ou, no caso de falecimento do servidor em atividade, no momento do
+requerimento da pensão.
+(...)
+Art. 8º Para fins do disposto no § 5º do art. 6º e no § 3º do art. 7º, será considerado o valor
+do ponto vigente a partir de 1º de janeiro de 2017.
+Art. 9º A opção de que tratam os arts. 6º e 7º somente será válida com a assinatura de
+termo de opção na forma do Anexo XI, que incluirá a expressa concordância do
+servidor, do aposentado ou do pensionista com:
+I - a forma, os prazos e os percentuais definidos nos arts. 6º e 7º ;
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 5/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+II - a renúncia à forma de cálculo de incorporação da gratificação de desempenho
+reconhecida por decisão administrativa ou judicial, inclusive transitada em julgado; e
+III - a renúncia ao direito de pleitear, na via administrativa ou judicial, quaisquer
+valores ou vantagens decorrentes da forma de cálculo da gratificação de desempenho
+incorporada aos proventos de aposentadoria e pensão, exceto em caso de comprovado
+erro material.
+
+11. Conforme pode ser observado na leitura do art. 6º, a Lei n° 13.371/2016 é clara ao
+estabelecer que a opção pela incorporação da gratificação de desempenho aos proventos de aposentadoria é
+irretratável. De acordo com o art. 9°, ao assinar o termo de concordância, ocorre como consequência a
+renúncia à forma de cálculo de incorporação da gratificação de desempenho reconhecida por decisão
+administrativa ou judicial, inclusive transitada em julgado; e a renúncia ao direito de pleitear, na via
+administrativa ou judicial, quaisquer valores ou vantagens decorrentes da forma de cálculo da gratificação
+de desempenho incorporada aos proventos de aposentadoria e pensão, exceto em caso de comprovado erro
+material. Significa que, quando optou pela incorporação da GD com base na Lei n° 13.371/2016, validada
+a partir da assinatura do termo de concordância, renunciou à forma de cálculo de incorporação da
+gratificação de desempenho reconhecida na ação judicial nº 4800-71.2012.4.01.3400. Também renunciou
+ao direito de pleitear administrativamente ou judicialmente valores relativos à forma de cálculo da
+gratificação de desempenho incorporada aos seus proventos de aposentadoria; não obstante, o inciso III
+da Lei n° 13.371/2016 traz uma exceção a tal regramento, que é no caso de ocorrência de erro
+material.
+12. Então, em relação ao caso, ainda que ao assinar o termo de concordância pela incorporação
+da GD com base na Lei n° 13.371/2016 o servidor tenha renunciado à forma de cálculo de incorporação da
+GDAPEC reconhecida pela decisão judicial atrelada à ação judicial nº 4800-71.2012.4.01.3400, que
+ancorava o recebimento de 100% no valor da pontuação da última remuneração como se ativo fosse,
+aquela Lei é clara ao assegurar direito de pleitear, na via administrativa ou judicial, quaisquer valores ou
+vantagens decorrentes da forma de cálculo da gratificação de desempenho incorporada aos proventos de
+aposentadoria e pensão, no caso de comprovado erro material.
+13. Pelo discurso do SGP/GO-DF no Ofício nº 98030/2022/DF/SGP - CAF - GO/DF/CAF -
+GO/DF/SRE - GO (11503900), foi alegado que a unidade não se atentou que o próprio sistema utilizou a
+GDATA para a composição da média, induzindo o aposentado a erro na escolha da nova opção de
+incorporação da gratificação de desempenho.  Estaria caracterizado, portanto, erro material, o que em tese
+permitiria ao servidor pleitear, na via administrativa ou judicial, quaisquer valores ou vantagens
+decorrentes da forma de cálculo da gratificação de desempenho incorporada aos proventos de
+aposentadoria.
+14. A questão é que o enquadramento do servidor na Lei n. 13.371/2016 para fins de
+percepção de GD é ilegal, em virtude do motivos que seguirão explicados.
+15. Conforme exposto no Ofício nº 98030/2022/DF/SGP - CAF - GO/DF/CAF - GO/DF/SRE -
+GO (11503900), considerando a aposentadoria voluntária do servidor em 11 de março de 2013 e como
+recebeu GDAPEC por período inferior a sessenta meses, o enquadramento ocorreria na alínea "b", inciso
+II, do art. 21, da Lei 11.171/2005, fazendo jus ao total de 50 (cinquenta) pontos. O fato de ter recebido a
+gratificação de desempenho por período inferior a sessenta meses vai de encontro ao Parágrafo único do
+art. 5° da Lei n° 13.371/2016, que afirma que a opção pela incorporação de gratificações de desempenho
+aos proventos de aposentadoria na forma daquela Lei somente poderá ser exercida se o servidor tiver
+percebido gratificações de desempenho por, no mínimo, sessenta meses, antes da data da aposentadoria, o
+que não é o caso do servidor. É indevido, portanto, o enquadramento do servidor na Lei n°
+13.371/2016 para fins de percepção de gratificação de desempenho.
+16. Como o procedimento de revisão aqui exposto está relacionado ao Relatório de Auditoria
+Preliminar nº 1069635, decorrente de ação de controle realizada pela CGU-Regional/GO, apenas cabe ao
+DNIT adequar o ato e proceder aos ajustes necessários. Houve ilegalidade no enquadramento do servidor
+na Lei n. 13.371/2016 para fins de GD, pelos motivos expostos acima, então deve haver o retorno às
+condições de percepção de GDAPEC com base na decisão judicial atrelada à ação judicial nº 4800-
+71.2012.4.01.3400. Caso existam valores a serem devolvidos à administração pública, deve ser dada
+ao servidor a oportunidade de exercício do contraditório e da ampla defesa anteriormente à
+execução dos procedimentos relacionados à restituição ao erário com base na ON/MP n. 5/2013.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 6/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+
+17. É regra que aquele que percebeu valores indevidamente deve restituí-lo, por força do art.
+876 do Código Civil. A Administração tem o poder e dever de rever os atos administrativos que contenham
+algum vício no usufruto do poder de autotutela, consoante orientação do art. 114 da Lei n. 8.112/90, que
+sustenta que a administração deverá rever seus atos, a qualquer tempo, quando eivados de ilegalidade.
+18. A  Lei n. 8.112/90 dispõe no art. 46 sobre o ressarcimento ao erário devido por parte de
+servidores, aposentados e pensionistas que percebem indevidamente quantias da Administração Pública:
+
+"Art. 46.  As reposições e indenizações ao erário, atualizadas até 30 de junho de 1994, serão
+previamente comunicadas ao servidor ativo, aposentado ou ao pensionista, para pagamento,
+no prazo máximo de trinta dias, podendo ser parceladas, a pedido do
+interessado.                     (Redação dada pela Medida Provisória nº 2.225-45, de 4.9.2001)
+§ 1°  O valor de cada parcela não poderá ser inferior ao correspondente a dez por cento da
+remuneração, provento ou pensão.                (Redação dada pela Medida Provisória nº
+2.225-45, de 4.9.2001)
+§ 2°  Quando o pagamento indevido houver ocorrido no mês anterior ao do processamento
+da folha, a reposição será feita imediatamente, em uma única parcela.                  (Redação
+dada pela Medida Provisória nº 2.225-45, de 4.9.2001)"
+
+19. A Orientação Normativa n° 5/2013 é o normativo que trata das regras gerais a que se
+sujeitam os órgãos e entidades da Administração Pública Federal a respeito do ressarcimento ao erário. A
+Nota Técnica/MP n° 177/2014 informa que a ON/MP nº 05/2013 destina-se, especificamente, aos casos de
+reposição ao Erário de valores em que haja indícios de terem sido percebidos indevidamente por
+servidores, aposentados e beneficiários de pensão civil, situação capitaneada no art. 46 da Lei nº 8.112, de
+1990.
+III - CONCLUSÃO
+20. Feitas as considerações, pontuamos:
+
+20.1. O Serviço de Gestão de Pessoas da Superintendência Regional no Estado de Goiás e
+Distrito Federal questionou a respeito da possibilidade de renúncia da opção de incorporação da
+gratificação de desempenho prevista na Lei nº 13.371/2016, por parte do servidor aposentado
+                               , visto que, ao optar pela incorporação da gratificação de desempenho com base na
+citada Lei, o referido perdeu 12,67 (doze vírgula sessenta e sete) pontos após a escolha, em
+detrimento dos 100 (cem) pontos que recebia de GDAPEC consequente da ação judicial nº 4800-
+71.2012.4.01.3400. O SGP-GO/DF afirma que o sistema utilizou a GDATA para a composição da
+média (gratificação não extensível aos ocupantes de cargos inclusos no PCC), o que supostamente
+induziu o referido ao erro na escolha da opção pela gratificação de desempenho com base naquela
+Lei.
+20.2. Constatamos que o enquadramento do servidor na Lei n. 13.371/2016 para fins de
+percepção de GD é ilegal, tendo em vista que o servidor não recebeu gratificação de
+desempenho por, no mínimo, sessenta meses, antes da data da aposentadoria, tal como
+prescreve o art. 5° da Lei n. 13.371/2016.
+20.3. Como o procedimento de revisão aqui exposto está relacionado ao Relatório de
+Auditoria Preliminar nº 1069635, decorrente de ação de controle realizada pela CGU-
+Regional/GO, apenas cabe ao DNIT adequar o ato e proceder aos ajustes necessários. Houve
+ilegalidade no enquadramento do servidor na Lei n. 13.371/2016 para fins de GD, sendo
+necessário o retorno às condições de percepção de GDAPEC com base na decisão judicial
+atrelada à ação judicial nº 4800-71.2012.4.01.3400. Caso existam valores a serem devolvidos à
+administração pública, deve ser dada ao servidor a oportunidade de exercício do contraditório e
+da ampla defesa anteriormente à execução dos procedimentos relacionados à restituição ao
+erário com base na ON/MP n. 5/2013.
+
+21. Os autos podem ser restituídos à Superintendência Regional no Estado de Goiás e Distrito
+Federal para ciência.
+
+ 
+ 
+
+assinado eletronicamente
+JACQUELINE GOMES FERRAZ
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 7/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+
+Técnico Administrativo
+ 
+De acordo. Direciono os autos ao Coordenador de Legislação e Gestão Estratégica de
+
+Pessoas, com a sugestão de encaminhamento à Superintendência Regional no Estado de Goiás e Distrito
+Federal.
+
+ 
+ 
+
+assinado eletronicamente
+LUIZA LOUZADA HUGUENEY LACAVA
+
+Chefe de Serviço Especializado de Orientação de Normas de Pessoal Substituta
+ 
+
+De acordo. Encaminho os autos à Coordenação-Geral de Gestão de Pessoas, para ciência,
+com a sugestão de restituição à Superintendência Regional no Estado de Goiás e Distrito Federal.
+
+ 
+ 
+
+assinado eletronicamente
+GIDALTI INÁCIO DA SILVA
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+
+De acordo. Encaminhem-se os autos à DAF, nos termos acima com vistas à
+Superintendência Regional no Estado de Goiás e Distrito Federal.
+
+ 
+assinado eletronicamente
+
+DYOGO DA ROCHA CAPISTRANO
+Coordenador-Geral de Gestão de Pessoas
+
+ 
+Brasília/DF, na data da assinatura.
+
+Documento assinado eletronicamente por Jacqueline Gomes Ferraz, Técnico Administra vo, em
+11/04/2024, às 15:46, conforme horário oficial de Brasília, com fundamento no art. 4º, § 3º, do
+Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Luiza Louzada Hugueney Lacava, Chefe do Serviço
+Especializado de Orientação de Normas de Pessoal-Subs tuto(a), em 11/04/2024, às 15:55,
+conforme horário oficial de Brasília, com fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de
+novembro de 2020.
+
+Documento assinado eletronicamente por Gidal  Inacio da Silva, Coordenador de Legislação e
+Gestão Estratégica de Pessoas, em 11/04/2024, às 16:01, conforme horário oficial de Brasília, com
+fundamento no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador-Geral de
+Gestão de Pessoas, em 11/04/2024, às 17:44, conforme horário oficial de Brasília, com fundamento
+no art. 4º, § 3º, do Decreto nº 10.543, de 13 de novembro de 2020.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 17097859 e
+o código CRC A27430D8.
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 8/9
+
+
+
+01/07/2024, 11:11 SEI/DNIT - 17097859 - Nota Técnica
+
+Referência: Processo nº 50612.000651/2022-93 SEI nº 17097859
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902
+Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=18163184&infra_siste… 9/9

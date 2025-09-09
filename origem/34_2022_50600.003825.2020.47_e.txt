@@ -1,0 +1,334 @@
+﻿01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+NOTA TÉCNICA Nº: 353/2020/COLEG/CGGP/DAF/DNIT SEDE
+PROCESSO Nº: 50600.003825/2020-47
+REFERÊNCIA: INFORMAÇÕES E CONSULTAS: SOLICITAÇÕES DE INFORMAÇÕES
+OBJETO: SUGESTÕES DE ALTERAÇÃO PARA A PORTARIA 3.313/2018
+1. DOS FATOS
+1.1. O instrumento trata do pedido de esclarecimentos efetuado pela Presidente do Comitê
+Especial para Concessão de Gratificação de Qualificação (CEGQ) a respeito da legalidade da percepção
+da Gratificação de Qualificação - GQ no caso de movimentação de servidores públicos federais para
+composição da força de trabalho de que trata o § 7º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990,
+ com base na Portaria nº 282, de 24 de julho de 2020, justificado mediante o Despacho (DNIT) CEGQ
+7116661 conforme segue:
+
+"Para melhor entendimento, esclarecemos que o Comitê trabalha com planilhas individuais
+e uma planilha final em que são listados todos os servidores que concorrem à percepção da
+gratificação. A retirada de servidores da planilha final é de forma manual, isto é, caso o
+servidor não concorra no próximo ciclo por qualquer motivo (aposentadoria, cessão,
+requisição, falecimento), há a retirada do nome dele na planilha final manualmente, sendo
+que para isso são solicitadas as respectivas planilhas ao Serpro e a essa Setorial para
+atualização da planilha do Comitê. Inexiste qualquer correlação com planilhas atualizadas
+ou sistemas integrados do DNIT.
+Vale aduzir que, quando da publicação da Portaria nº 7.153, de 14 de dezembro de
+2020, referente ao 14º ciclo, não foi possível a retirada/inclusão de alguns nomes da
+planilha pela incerteza de quais servidores cedidos fariam jus ou não à GQ.
+Diante do exposto, para que não haja omissão deste CEGQ quanto ao cumprimento da
+legislação vigente, solicitamos os devidos esclarecimentos referentes à concessão da GQ
+aos servidores cedidos para composição de força de trabalho nos moldes da Portaria nº 282,
+de 24 de julho de 2020."
+
+1.2. Inicialmente, em resposta ao Ofício 21059 (5092514) , a Divisão de Cadastro de Pessoal
+exarou o Despacho (DNIT) DICAP 5903090 efetuando esclarecimentos gerais sobre a questão. Naquela
+ocasião, vigia  a Portaria n° 193, de 3 de julho de 2018, que, em seu art. 4° dispunha que Ao servidor ou
+empregado da Administração Pública federal direta, autárquica ou fundacional que houver sido
+movimentado para compor força de trabalho serão assegurados todos os direitos e vantagens a que faça
+jus no órgão ou entidade de origem, considerando-se o período de movimentação para todos os efeitos
+da vida funcional, como efetivo exercício no cargo ou emprego que ocupe no órgão ou entidade de
+origem. De acordo com o site oficial do MPDG, constava afirmado que  a movimentação não geraria
+qualquer efeito pecuniário positivo ou negativo direto para o servidor, motivo pelo qual foi
+esclarecido que a Gratificação de Qualificação seria devida ao servidor do quadro de pessoal desta
+Autarquia que fosse movimentado nos termos do § 7º do art. 93 da Lei n° 8.112/90, combinado com o que
+dispõe a Portaria n° 193/2018, cujo cargo ocupado constasse categorizado no art. 22 da Lei n°
+11.171/2005. O art. 10 da citada Portaria prescrevia que as demais regras e procedimentos referentes à
+aplicação do § 7º do art. 93 da Lei nº 8.112/1990 seguiriam o disposto na Portaria MP nº 342, de 31 de
+outubro de 2017.
+1.3. Também foi esclarecido que, nos casos de requisição e cessão, existem possibilidades
+específicas, que devem ser analisadas de acordo com os normativos regentes do ato. Naquela ocasião,
+citamos, no que concerne a algumas Leis específicas, que frequentemente encontrar-se-á a
+expressão "assegurados ao servidor todos os direitos e vantagens a que faz jus no órgão ou entidade de
+origem", a exemplo da Lei Complementar n° 73/1993 (requisição efetuada pela AGU), da Lei n°
+9.020/1995 (requisição efetuada pela DPU), da Medida Provisória n° 870/2019, convertida na Lei n°
+13.844/2019 (requisição efetuada pelo Ministério da Justiça), da Lei n° 9.007/1995 (requisição efetuada
+pela Presidência da República), da Lei n° 6.999/1982 (requisição efetuada pela Justiça Eleitoral), da Lei n°
+9.011/2017 (requisição efetuada pelo CADE), da Lei n° 12.550/2011 (cessão efetuada para a EBSERH),
+da Lei n° 12.743/2012 (cessão efetuada para a EPL). 
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 1/6
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+2. DA ANÁLISE TÉCNICA E DA FUNDAMENTAÇÃO LEGAL
+2.1. Na contemporaneidade, o questionamento aborda a legalidade da percepção da Gratificação
+de Qualificação - GQ no caso de movimentação de servidores públicos federais para composição da força
+de trabalho de que trata o § 7º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990,  com base na
+Portaria nº 282, de 24 de julho de 2020. Citamos o teor do § 7º do art. 93 da Lei nº 8.112/90, in verbis:
+
+"Art. 93. o servidor poderá ser cedido para ter exercício em outro órgão ou entidade dos
+poderes da união, dos estados, ou do distrito federal e dos municípios, nas seguintes
+hipóteses: (redação dada pela lei nº 8.270, de 17.12.91) (regulamento) (vide decreto nº
+4.493, de 3.12.2002) (vide decreto nº 5.213, de 2004) (vide decreto nº 9.144, de 2017)
+(...)
+§ 7° o ministério do planejamento, orçamento e gestão, com a finalidade de promover a
+composição da força de trabalho dos órgãos e entidades da administração pública federal,
+poderá determinar a lotação ou o exercício de empregado ou servidor, independentemente
+da observância do constante no Inciso I e nos §§ 1º e 2º deste artigo. (incluído pela lei nº
+10.470, de 25.6.2002) (vide decreto nº 5.375, de 2005)"
+
+2.2. Quanto à Gratificação de Qualificação, o art. 22 da Lei n° 11.171/2005 afirma que será
+concedida aos ocupantes dos cargos categorizados nos incisos I e III do caput do art. 1° e nos arts. 3°-A e
+3°-B em retribuição ao cumprimento de requisitos técnico-funcionais, acadêmicos e organizacionais
+necessários ao desempenho das atividades de supervisão, gestão ou assessoramento, quando em efetivo
+exercício do cargo. A GQ é paga considerando o nível de capacitação do servidor em relação
+ao conhecimento das políticas, diretrizes e estratégias setoriais e globais da organização, ao conhecimento
+dos serviços que lhe são afetos, na sua operacionalização e na sua gestão e à formação acadêmica.
+2.3. O Decreto n° 7.922, de 18 de fevereiro de 2013, art. 12,  prescreve que a GQ dos titulares
+dos cargos categorizados será paga aos servidores que a ela fizerem jus em retribuição ao cumprimento de
+requisitos técnico-funcionais, acadêmicos e organizacionais necessários ao desempenho das atividades de
+supervisão, gestão ou assessoramento, quando em efetivo exercício do cargo no DNIT. No art. 13,
+esclarece que, para fins de concessão da GQ, os cursos referidos no inciso III do parágrafo único do art. 12
+deverão estar relacionados com as atribuições do cargo ocupado pelo servidor e com as atividades
+desenvolvidas pelo DNIT. De acordo com o art. 17, a percepção da GQ pelo servidor será semestral.
+2.4. Por sua vez, a Portaria/DNIT n° 3.313, de 28 de junho de 2018, dispõe, no art. 12, que a
+apuração da pontuação da GQ fica a cargo da Coordenação-Geral de Gestão de Pessoas, especificamente
+do Comitê Especial para Concessão da Gratificação de Qualificação (CEGQ). Nas Disposições Finais e
+Transitórias, art. 21, consta prescrito que é vedada a acumulação da GQ com qualquer adicional ou
+gratificação que tenha como fundamento a qualificação profissional ou a titulação.
+2.5. Para fins de participação no Ciclo da GQ, a Lei n° 11.171/2005 afirma a necessidade de
+estar em efetivo exercício no cargo e a Portaria/DNIT n° 3.313/2018 prescreve  que, ao protocolar a
+documentação na forma disposta, o servidor concorre automaticamente aos ciclos subsequentes da
+GQ, enquanto se mantiver em exercício no DNIT, redação que acompanha o disposto no art. 12
+do Decreto n° 7.922/2013. A Lei n° 11.171/2005 é hierarquicamente superior e menos específica do que a
+Portaria/DNIT n° 3.313/2018 e o Decreto n° 7.922/2013, no entanto, o  art. 22 da Lei n° 11.171/2005
+esclarece que a GQ é paga quando em efetivo exercício no cargo, na forma estabelecida em
+regulamento, que, no caso dos servidores do DNIT, é o Decreto n° 7.922/2013, o qual faz menção
+expressa à necessidade de estar em exercício no DNIT.
+2.6. No que concerne ao instituto da movimentação para compor força de trabalho,
+a Portaria/MP n° 193/2018 foi revogada pela Portaria/ME n° 282, de 24 de julho de 2020.  Consta
+expresso no art. 6° da Portaria n° 282/2020 que "ao servidor ou empregado público da administração
+pública federal direta ou indireta que houver sido movimentado para compor força de trabalho, serão
+assegurados os direitos e vantagens a que faça jus no órgão ou entidade de origem, salvo disposição
+legal em contrário, considerando-se o período de movimentação para todos os efeitos da vida funcional,
+como de efetivo exercício no cargo ou emprego que ocupe no órgão ou entidade de origem". A
+expressão salvo disposição legal em contrário não existia na antiga redação do art. 4° da Portaria n.
+193/2018, a qual prescrevia que ao servidor ou empregado da Administração Pública federal direta,
+autárquica ou fundacional que houver sido movimentado para compor força de trabalho serão
+assegurados todos os direitos e vantagens a que faça jus no órgão ou entidade de origem, considerando-
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 2/6
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+se o período de movimentação para todos os efeitos da vida funcional, como efetivo exercício no cargo ou
+emprego que ocupe no órgão ou entidade de origem.
+2.7. Também não existia na antiga Portaria n° 193/2018 redação tal como o art. 7°
+da Portaria/ME n° 282/2020, que prescreve que o servidor público federal movimentado para compor
+força de trabalho poderá perceber gratificações que atendam ao caráter de temporalidade e localidade,
+no órgão ou entidade onde estiver em exercício, desde que preenchidos todos os requisitos legais. Frise-
+se que há a alteração da lotação ou exercício do servidor para compor força de trabalho, de acordo com o
+art. 2° da Portaria/ME n° 282/2020, o que vai de encontro ao que dispõe a Lei n° 11.171/2005, a
+Portaria/DNIT n° 3.313/2018 e o Decreto n° 7.922/2013, normativos que confirmam a necessidade de  o
+servidor estar em efetivo exercício no cargo ou no DNIT (localidade) para fins de percepção da GQ.
+2.8. Nesse sentido, no caso de movimentação para compor força de trabalho, consoante dispõe o
+art. 7° da Portaria/ME n° 282/2020, sendo possível a percepção de gratificações que atendam ao caráter
+de temporalidade e localidade, no órgão ou entidade onde estiver em exercício, e considerando que a GQ
+poderia ser qualificada com o atributo da localidade, pela necessidade de o servidor estar em efetivo
+exercício no DNIT, poderia haver transgressão  do art. 21 da Portaria/DNIT n° 3.313/2018, que
+prescreve que é vedada a acumulação da GQ com qualquer adicional ou gratificação que tenha como
+fundamento a qualificação profissional ou a titulação. Ainda, a Lei n. 8.112/90 preleciona, em seu art. 49,
+que, além do vencimento, poderão ser pagas ao servidor as seguintes vantagens:
+indenizações, gratificações e adicionais. No § 2° afirma que as gratificações e os adicionais incorporam-
+se ao vencimento ou provento, nos casos e condições indicados em lei e, no art. 50, esclarece que as
+vantagens pecuniárias não serão computadas, nem acumuladas, para efeito de concessão de
+quaisquer outros acréscimos pecuniários ulteriores, sob o mesmo título ou idêntico fundamento.
+2.9. Quanto ao reembolso (restituição das parcelas despendidas pelo cedente com o agente
+público cedido, respeitadas situações específicas), o art. 10 da Portaria n. 193/2018 prescrevia que as
+demais regras e procedimentos referentes à aplicação do § 7º do art. 93 da Lei nº 8.112/1990 seguiriam o
+disposto na Portaria MP nº 342, de 31 de outubro de 2017. Nesse sentido, a orientação da Portaria/MP n°
+342/2017, especificamente no art. 9° e Parágrafo único, era a de que seria do órgão ou da entidade
+cessionária (quem requer) o ônus pela remuneração ou pelo salário vinculado ao cargo ou ao emprego
+permanente do agente público cedido dos Poderes da União, dos Estados, do Distrito Federal, dos
+Municípios, inclusive das empresas públicas e das sociedades de economia mista, acrescidos dos encargos
+sociais e trabalhistas, respeitadas as limitações do Decreto nº 9.144, de 2017, e de normas específicas,
+inclusive quanto ao limite disposto no inciso XI do caput do art. 37 da Constituição Federal. Nesse
+sentido, dentre as possibilidades de reembolso, as gratificações em geral, inclusive as de qualificação,
+estariam incluídas, ressalvado o disposto no inciso II do caput do art. 11, que faz alusão às parcelas não
+passíveis de reembolso, quais sejam, gratificações concedidas pelo cedente (órgão ou entidade de origem
+do servidor), em virtude da cessão, independentemente da denominação adotada. Percebe-se
+contradição entre a redação do inciso II do art. 10 e do inciso II do art. 11 da Portaria MP nº 342/2017.
+2.10. No entanto, a Portaria MP nº 342/2017 foi revogada pela Portaria 357, de 2 de setembro de
+2019. A redação do art. 15 da Portaria 357/2019 reiterou o fato de que seria do órgão ou da entidade
+cessionária (quem requer) o ônus pela remuneração ou pelo salário vinculado ao cargo ou ao emprego
+permanente do agente público cedido dos Poderes da União, dos Estados, do Distrito Federal, dos
+Municípios, inclusive das empresas públicas e das sociedades de economia mista, acrescidos dos encargos
+sociais e trabalhistas, respeitadas as limitações do Decreto nº 9.144, de 2017, e de normas específicas,
+inclusive quanto ao limite disposto no inciso XI do caput do art. 37 da Constituição Federal. Não
+obstante, dentre as possibilidades de reembolso, abarcou as gratificações em geral incluídas as de
+qualificação e as concedidas pelo cedente em decorrência da cessão, independentemente da
+denominação adotada. Possibilidade de reembolso significa afirmar que o DNIT poderia ser restituído das
+parcelas despendidas em virtude da cessão. Percebe-se que houve alteração, tendo em vista que,
+anteriormente, a Portaria n° 193/2018 considerava como não passíveis de reembolso as gratificações
+concedidas pelo cedente (órgão ou entidade de origem do servidor).
+2.11. Ocorre que não há menção, na Portaria/ME n° 282/2020, por parâmetro, de que as demais
+regras e procedimentos referentes à aplicação do § 7º do art. 93 da Lei nº 8.112/1990 seguiriam o disposto
+na Portaria MP nº 342/2017, posteriormente revogada pela Portaria 357/2019, tal como antes existia no
+art. 10 da Portaria/MP n° 193/2018. Significa dizer que ficou enfatizada a individualidade do art. 6° da
+Portaria n° 282/2020 que prescreve que "ao servidor ou empregado público da administração pública
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 3/6
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+federal direta ou indireta que houver sido movimentado para compor força de trabalho, serão
+assegurados os direitos e vantagens a que faça jus no órgão ou entidade de origem, salvo disposição
+legal em contrário, considerando-se o período de movimentação para todos os efeitos da vida funcional,
+como de efetivo exercício no cargo ou emprego que ocupe no órgão ou entidade de origem". A disposição
+legal em contrário, nesse caso, é o fato de que a GQ é paga ao servidor que esteja em efetivo exercício
+no cargo , redação da Lei n° 11.171/2005, e a participação automática nos Ciclos, após a protocolação da
+documentação, é apropriada para aqueles servidores que se mantenham em exercício no DNIT, redação
+da Portaria/DNIT n° 3.313/2018, que acompanha o disposto no art. 12 do Decreto n° 7.922/2013. Ainda,
+para fins de concessão da GQ, os cursos referidos no inciso III do parágrafo único do art. 12 deverão estar
+relacionados com as atribuições do cargo ocupado pelo servidor e com as atividades desenvolvidas
+pelo DNIT.
+2.12. No que concerne aos casos de movimentação para compor força de trabalho que envolvam
+empresa pública ou sociedade de economia mista, o Decreto n° 9.144/2017 enfatiza a necessidade de
+observação das regras do órgão ou entidade cedente, respeitadas as limitações do Decreto. Significa
+afirmar que tais casos devem ser analisados dentro de suas particularidades, de acordo com as Leis
+específicas regentes, tal como já foi abordado no  Despacho (DNIT) DICAP 5903090 . É necessário
+combinar as prescrições da Lei n° 11.171/2005 com o Decreto n° 9.144/2017 e com a Portaria/ME n° 282,
+de 24 de julho de 2020, não deixando de lado a Lei específica regente.
+2.13. Diante de todo o exposto, esta Divisão entende, então, que não é possível a percepção
+da GQ por servidores movimentados por meio da Portaria 282/2020.
+3. CONCLUSÃO
+3.1. Feitas as considerações, pontuamos:
+
+3.1.1. A Presidente do Comitê Especial para Concessão de Gratificação de Qualificação
+(CEGQ) solicitou esclarecimentos a respeito da legalidade da percepção da Gratificação de
+Qualificação - GQ no caso de movimentação de servidores públicos federais para composição da
+força de trabalho de que trata o § 7º do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990,  com base
+na Portaria nº 282, de 24 de julho de 2020, justificado mediante o Despacho (DNIT) CEGQ 7116661;
+3.1.2. Inicialmente, em resposta ao Ofício 21059 (5092514) , a Divisão de Cadastro de
+Pessoal exarou o Despacho (DNIT) DICAP 5903090 efetuando esclarecimentos gerais sobre a
+questão. Naquela ocasião, vigia  a Portaria n° 193/2018, que, em seu art. 4°, dispunha que seriam
+assegurados todos os direitos e vantagens a que faça jus no órgão ou entidade de origem ao servidor
+que fosse movimentado para compor força de trabalho, considerando-se o período de movimentação
+para todos os efeitos da vida funcional, como efetivo exercício no cargo ou emprego que ocupe no
+órgão ou entidade de origem. De acordo com o site oficial do MPDG, constava afirmado
+que  a movimentação não geraria qualquer efeito pecuniário positivo ou negativo direto para o
+servidor. Também foi esclarecido que, nos casos de requisição e cessão, existem possibilidades
+específicas, que deveriam ser analisadas de acordo com os normativos regentes do ato;
+3.1.3. Na contemporaneidade, o questionamento aborda a legalidade da percepção
+da Gratificação de Qualificação - GQ no caso de movimentação de servidores públicos federais para
+composição da força de trabalho de que trata o § 7º do art. 93 da Lei nº 8.112, de 11 de dezembro de
+1990,  com base na Portaria nº 282, de 24 de julho de 2020;
+3.1.4. Não há menção, na Portaria/ME n° 282/2020, por parâmetro, de que as demais regras e
+procedimentos referentes à aplicação do § 7º do art. 93 da Lei nº 8.112/1990 seguiriam o disposto na
+Portaria MP nº 342/2017, posteriormente revogada pela Portaria 357/2019, tal como antes existia no
+art. 10 da Portaria/MP n° 193/2018. Significa dizer que ficou enfatizada a individualidade do art. 6°
+da Portaria n° 282/2020 que prescreve que "ao servidor ou empregado público da administração
+pública federal direta ou indireta que houver sido movimentado para compor força de
+trabalho, serão assegurados os direitos e vantagens a que faça jus no órgão ou entidade de origem,
+salvo disposição legal em contrário, considerando-se o período de movimentação para todos os
+efeitos da vida funcional, como de efetivo exercício no cargo ou emprego que ocupe no órgão ou
+entidade de origem". A disposição legal em contrário, nesse caso, é o fato de que a GQ é paga ao
+servidor que esteja em efetivo exercício no cargo , redação da Lei n° 11.171/2005, e a participação
+automática nos Ciclos, após a protocolação da documentação, é apropriada para aqueles servidores
+que se mantenham em exercício no DNIT, redação da Portaria/DNIT n° 3.313/2018, que acompanha
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 4/6
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+o disposto no art. 12 do Decreto n° 7.922/2013. Ainda, para fins de concessão da GQ, os cursos
+referidos no inciso III do parágrafo único do art. 12 deverão estar relacionados com as atribuições do
+cargo ocupado pelo servidor e com as atividades desenvolvidas pelo DNIT;
+3.1.5. No que concerne aos casos de movimentação para compor força de trabalho que
+envolvam empresa pública ou sociedade de economia mista, o Decreto n° 9.144/2017 enfatiza a
+necessidade de observação das regras do órgão ou entidade cedente, respeitadas as limitações do
+Decreto. Significa afirmar que tais casos devem ser analisados dentro de suas particularidades, de
+acordo com as Leis específicas regentes, tal como já foi abordado no  Despacho (DNIT) DICAP
+5903090. É necessário combinar as prescrições da Lei n° 11.171/2005 com o Decreto n° 9.144/2017 e
+com a Portaria/ME n° 282, de 24 de julho de 2020, não deixando de lado a Lei específica regente,
+caso haja;
+3.1.6. Diante de todo o exposto, esta Divisão entende, então, que não é possível a
+percepção da GQ por servidores movimentados por meio da Portaria 282/2020.
+
+3.2. Propomos o direcionamento do pleito à COTREN/CGGP/DAF para ciência do teor desta
+Nota por parte da Presidente do Comitê Especial para concessão da Gratificação de Qualificação.
+
+ 
+ 
+
+assinado eletronicamente
+JACQUELINE GOMES FERRAZ
+
+Técnico Administrativo
+ 
+Efetuadas as pontuações acima, em resposta ao Despacho (DNIT) CEGQ 7116661,
+
+sugerimos que o pleito seja direcionado à COTREN/CGGP/DAF, para ciência por parte da Presidente do
+Comitê Especial para concessão da Gratificação de Qualificação.
+ 
+ 
+
+assinado eletronicamente
+FRANCISCO EDSON MACEDO JÚNIOR
+
+Chefe da Divisão de Orientação de Normas de Pessoal
+
+ 
+
+Acompanhando os esclarecimentos efetuados, em resposta ao Despacho (DNIT) CEGQ
+7116661, encaminho os autos à COTREN/CGGP/DAF, para ciência por parte da Presidente do Comitê
+Especial para concessão da Gratificação de Qualificação.
+
+ 
+
+assinado eletronicamente
+DYOGO DA ROCHA CAPISTRANO
+
+Coordenador de Legislação e Gestão Estratégica de Pessoas
+ 
+
+Brasília/DF, 28 de dezembro de 2020.
+
+Documento assinado eletronicamente por Jacqueline Gomes Ferraz, Técnico Administra vo, em
+28/12/2020, às 10:24, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Francisco Edson Macedo Junior, Chefe da Seção de
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 5/6
+
+
+
+01/06/2022 16:50 SEI/DNIT - 7187738 - Nota Técnica
+
+Pesquisas e Estudos de Desenvolvimento de Pessoal, em 28/12/2020, às 10:35, conforme horário
+oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+Documento assinado eletronicamente por Dyogo da Rocha Capistrano, Coordenador de Legislação
+de Pessoal, em 28/12/2020, às 11:00, conforme horário oficial de Brasília, com fundamento no art.
+6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
+
+A auten cidade deste documento pode ser conferida no site
+h ps://sei.dnit.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 7187738 e
+o código CRC 8BE5AD7C.
+
+Referência: Processo nº 50600.003825/2020-47 SEI nº 7187738
+
+Setor de Autarquias Norte | Quadra 3 | Lote A
+CEP 70040-902 
+
+              Brasília/DF |
+
+https://sei.dnit.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=7730652&infra_siste… 6/6
