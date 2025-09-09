@@ -403,11 +403,24 @@ Conteúdo: {content_preview}
 
         context_text = '\n'.join(context_docs)
 
+        # Extrai apenas a pergunta original (remove contexto interno)
+        original_query = query
+        if "CONSULTA ATUAL:" in query:
+            lines = query.split('\n')
+            for line in lines:
+                if line.strip().startswith("CONSULTA ATUAL:"):
+                    original_query = line.replace("CONSULTA ATUAL:", "").strip()
+                    break
+        elif "CONTEXTO DAS CONVERSAS ANTERIORES:" in query:
+            lines = query.split('\n')
+            if lines:
+                original_query = lines[0].strip()
+
         # Prompt para síntese específica e objetiva
         synthesis_prompt = f"""
 Você é um especialista jurídico. Com base nos documentos fornecidos, responda de forma OBJETIVA à pergunta:
 
-"{query}"
+"{original_query}"
 
 DOCUMENTOS DISPONÍVEIS:
 {context_text}

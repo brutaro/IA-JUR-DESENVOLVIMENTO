@@ -35,6 +35,7 @@ class IAJURApp {
         document.getElementById('btn-copiar').addEventListener('click', () => this.copiarResposta());
         document.getElementById('btn-download-txt').addEventListener('click', () => this.downloadTXT());
         document.getElementById('btn-nova-consulta').addEventListener('click', () => this.novaConsulta());
+        // Botão "Limpar Conversa" removido - não é mais necessário
         document.getElementById('btn-tentar-novamente').addEventListener('click', () => this.processarConsulta());
 
         // Botões de histórico
@@ -106,7 +107,12 @@ class IAJURApp {
             const endTime = Date.now();
             const duracao = ((endTime - startTime) / 1000).toFixed(2);
 
-            this.mostrarResultados(data, duracao);
+            // Verifica se é follow-up baseado na resposta do servidor
+            const isFollowup = data.is_followup || false;
+
+            // Apenas mostra a última resposta na página principal
+            this.mostrarResultados(data, duracao, isFollowup);
+            // Salva no histórico para download posterior
             this.adicionarAoHistorico(pergunta, data, duracao);
             this.atualizarMetricas(duracao, data.fontes || 0);
 
@@ -126,13 +132,15 @@ class IAJURApp {
         document.getElementById('loading').classList.add('hidden');
     }
 
-    mostrarResultados(data, duracao) {
+    mostrarResultados(data, duracao, isFollowup = false) {
         const resultados = document.getElementById('resultados');
 
         // Atualiza metadados
         document.getElementById('duracao').textContent = `${duracao}s`;
         document.getElementById('fontes').textContent = `${data.fontes || 0} fontes`;
         document.getElementById('workflow-id').textContent = data.workflow_id || 'N/A';
+
+        // Indicador de follow-up removido - não é necessário
 
         // Atualiza conteúdo
         document.getElementById('resumo').innerHTML = this.formatarTexto(data.resumo || 'N/A');
@@ -244,17 +252,66 @@ class IAJURApp {
         }
     }
 
-    loadQueryHistory() {
+    async loadQueryHistory() {
         try {
+            // Carrega histórico do localStorage
             const saved = localStorage.getItem('ia_jur_history');
             if (saved) {
                 this.queryHistory = JSON.parse(saved);
-                this.renderizarHistorico();
             }
+
+            // Carrega arquivos TXT salvos automaticamente
+            await this.carregarArquivosTxt();
+
+            this.renderizarHistorico();
         } catch (error) {
             console.error('Erro ao carregar histórico:', error);
             this.queryHistory = [];
         }
+    }
+
+    async carregarArquivosTxt() {
+        try {
+            const response = await fetch('/api/arquivos-txt');
+            if (response.ok) {
+                const data = await response.json();
+
+                // Adiciona arquivos TXT ao histórico
+                data.arquivos.forEach(arquivo => {
+                    // Verifica se já existe no histórico
+                    const existe = this.queryHistory.find(h => h.arquivo_txt === arquivo.nome);
+                    if (!existe) {
+                        this.queryHistory.push({
+                            id: Date.now() + Math.random(), // ID único
+                            pergunta: this.extrairPerguntaDoNome(arquivo.nome),
+                            resposta: 'Arquivo TXT salvo automaticamente',
+                            duracao: 'N/A',
+                            fontes: 'N/A',
+                            timestamp: arquivo.data_modificacao,
+                            workflow_id: 'N/A',
+                            arquivo_txt: arquivo.nome,
+                            tamanho: arquivo.tamanho,
+                            data_criacao: arquivo.data_criacao
+                        });
+                    }
+                });
+
+                // Salva o histórico atualizado
+                this.salvarHistorico();
+            }
+        } catch (error) {
+            console.error('Erro ao carregar arquivos TXT:', error);
+        }
+    }
+
+    extrairPerguntaDoNome(nomeArquivo) {
+        // Extrai a pergunta do nome do arquivo
+        // Formato: (palavras_chave_YYYYMMDD_HHMMSS).txt
+        const match = nomeArquivo.match(/\(([^)]+)\)\.txt/);
+        if (match) {
+            return match[1].replace(/_/g, ' ').substring(0, 50) + '...';
+        }
+        return 'Consulta salva automaticamente';
     }
 
     renderizarHistorico() {
@@ -272,17 +329,26 @@ class IAJURApp {
                     <span class="historico-timestamp">${new Date(consulta.timestamp).toLocaleString('pt-BR')}</span>
                 </div>
                 <div class="historico-meta">
-                    <span><i class="fas fa-clock"></i> ${consulta.duracao}s</span>
-                    <span><i class="fas fa-database"></i> ${consulta.fontes} fontes</span>
-                    <span><i class="fas fa-id-card"></i> ${consulta.workflow_id}</span>
+                    ${consulta.arquivo_txt ?
+                        `<span><i class="fas fa-file-alt"></i> ${(consulta.tamanho / 1024).toFixed(1)} KB</span>
+                         <span><i class="fas fa-save"></i> Salvo automaticamente</span>` :
+                        `<span><i class="fas fa-clock"></i> ${consulta.duracao}s</span>
+                         <span><i class="fas fa-database"></i> ${consulta.fontes} fontes</span>
+                         <span><i class="fas fa-id-card"></i> ${consulta.workflow_id}</span>`
+                    }
                 </div>
                 <div class="historico-actions">
-                    <button class="btn btn-secondary btn-sm" onclick="app.repetirConsulta(${consulta.id})">
-                        <i class="fas fa-redo"></i> Repetir
+                    <button class="btn btn-primary btn-sm" onclick="app.downloadConsulta(${consulta.id})">
+                        <i class="fas fa-download"></i> Download TXT
                     </button>
-                    <button class="btn btn-secondary btn-sm" onclick="app.copiarConsulta(${consulta.id})">
-                        <i class="fas fa-copy"></i> Copiar
-                    </button>
+                    ${!consulta.arquivo_txt ?
+                        `<button class="btn btn-secondary btn-sm" onclick="app.repetirConsulta(${consulta.id})">
+                            <i class="fas fa-redo"></i> Repetir
+                        </button>
+                        <button class="btn btn-secondary btn-sm" onclick="app.copiarConsulta(${consulta.id})">
+                            <i class="fas fa-copy"></i> Copiar
+                        </button>` : ''
+                    }
                 </div>
             </div>
         `).join('');
@@ -314,6 +380,45 @@ class IAJURApp {
         }
     }
 
+    downloadConsulta(id) {
+        const consulta = this.queryHistory.find(c => c.id === id);
+        if (consulta) {
+            // Se é um arquivo TXT salvo automaticamente, usa o endpoint do backend
+            if (consulta.arquivo_txt) {
+                const link = document.createElement('a');
+                link.href = `/api/download-txt/${consulta.arquivo_txt}`;
+                link.download = consulta.arquivo_txt;
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                this.mostrarNotificacao('Download do arquivo TXT iniciado!', 'success');
+            } else {
+                // Se é uma consulta do localStorage, gera o arquivo
+                const conteudo = `IA-JUR - Consulta Jurídica\n` +
+                                `========================\n\n` +
+                                `Pergunta: ${consulta.pergunta}\n\n` +
+                                `Resposta:\n${consulta.resposta}\n\n` +
+                                `Data: ${new Date(consulta.timestamp).toLocaleString('pt-BR')}\n` +
+                                `Duração: ${consulta.duracao}s\n` +
+                                `Fontes: ${consulta.fontes}\n` +
+                                `Workflow ID: ${consulta.workflow_id}\n` +
+                                `Sistema: IA-JUR - Sistema de Pesquisa Jurídica Inteligente`;
+
+                const blob = new Blob([conteudo], { type: 'text/plain;charset=utf-8' });
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `consulta_ia_jur_${new Date(consulta.timestamp).toISOString().slice(0, 10)}_${id}.txt`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                window.URL.revokeObjectURL(url);
+
+                this.mostrarNotificacao('Download iniciado!', 'success');
+            }
+        }
+    }
+
     clearQueryHistory() {
         if (confirm('Tem certeza que deseja limpar todo o histórico de consultas?')) {
             this.queryHistory = [];
@@ -322,6 +427,10 @@ class IAJURApp {
             this.mostrarNotificacao('Histórico limpo!', 'success');
         }
     }
+
+    // Métodos para gerenciar histórico de conversas
+    // Funções de conversa removidas - não são mais necessárias
+    // O histórico agora é gerenciado apenas na página Histórico
 
     atualizarMetricas(duracao, fontes) {
         this.metrics.totalConsultas++;
@@ -439,6 +548,30 @@ style.textContent = `
         font-size: 0.9rem;
     }
 
+    .historico-resposta {
+        margin-bottom: 1rem;
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 8px;
+        border-left: 4px solid #007bff;
+    }
+
+    .historico-resposta strong {
+        color: #333;
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+
+    .historico-resposta-texto {
+        color: #555;
+        line-height: 1.5;
+        font-size: 0.95rem;
+        max-height: 400px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
     .historico-meta {
         display: flex;
         gap: 1rem;
@@ -468,6 +601,143 @@ style.textContent = `
         text-align: center;
         color: #666;
         padding: 2rem;
+    }
+
+    /* Estilos para histórico de conversas */
+    .conversa-historico {
+        background: #f8f9fa;
+        border-radius: 15px;
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+        border: 1px solid #e9ecef;
+    }
+
+    .conversa-historico h3 {
+        color: #495057;
+        margin-bottom: 1.5rem;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .conversa-lista {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .conversa-item {
+        background: white;
+        border-radius: 12px;
+        padding: 1.25rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        border-left: 4px solid #667eea;
+        transition: all 0.3s ease;
+    }
+
+    .conversa-item:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    }
+
+    .conversa-item.followup {
+        border-left-color: #28a745;
+        background: linear-gradient(135deg, #f8fff9 0%, #ffffff 100%);
+    }
+
+    .conversa-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 1px solid #e9ecef;
+    }
+
+    .conversa-tipo {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-weight: 600;
+        color: #667eea;
+        font-size: 0.9rem;
+    }
+
+    .conversa-item.followup .conversa-tipo {
+        color: #28a745;
+    }
+
+    .conversa-timestamp {
+        color: #6c757d;
+        font-size: 0.85rem;
+    }
+
+    .conversa-pergunta {
+        margin-bottom: 1rem;
+    }
+
+    .conversa-pergunta strong {
+        color: #495057;
+        font-size: 0.9rem;
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+
+    .conversa-pergunta p {
+        color: #6c757d;
+        margin: 0;
+        font-style: italic;
+        line-height: 1.4;
+    }
+
+    .conversa-resposta {
+        margin-bottom: 1rem;
+    }
+
+    .conversa-resposta strong {
+        color: #495057;
+        font-size: 0.9rem;
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+
+    .conversa-resposta-texto {
+        color: #343a40;
+        line-height: 1.5;
+        background: #f8f9fa;
+        padding: 0.75rem;
+        border-radius: 8px;
+        border: 1px solid #e9ecef;
+    }
+
+    .conversa-meta {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .conversa-meta span {
+        color: #6c757d;
+        font-size: 0.8rem;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    /* Indicador de follow-up no resultado */
+    .meta-item {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    #followup-indicator {
+        background: #28a745;
+        color: white;
+        padding: 4px 8px;
+        border-radius: 12px;
+        font-size: 0.8rem;
+        font-weight: 600;
     }
 `;
 document.head.appendChild(style);

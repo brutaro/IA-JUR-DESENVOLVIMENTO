@@ -115,6 +115,14 @@
                         <p>Processando sua consulta...</p>
                     </div>
 
+                    <!-- Histórico da Conversa -->
+                    <div id="conversa-historico" class="conversa-historico hidden">
+                        <h3><i class="fas fa-comments"></i> Histórico da Conversa</h3>
+                        <div id="conversa-lista" class="conversa-lista">
+                            <!-- Histórico será carregado dinamicamente -->
+                        </div>
+                    </div>
+
                     <!-- Resultados -->
                     <div id="resultados" class="resultados hidden">
                         <h3><i class="fas fa-file-alt"></i> Resposta da Consulta</h3>
@@ -132,6 +140,10 @@
                                 <span class="meta-item">
                                     <i class="fas fa-id-card"></i>
                                     <span id="workflow-id">N/A</span>
+                                </span>
+                                <span class="meta-item" id="followup-indicator" style="display: none;">
+                                    <i class="fas fa-link"></i>
+                                    <span>Follow-up</span>
                                 </span>
                             </div>
                         </div>
@@ -157,6 +169,9 @@
                             </button>
                             <button type="button" id="btn-nova-consulta" class="btn btn-primary">
                                 <i class="fas fa-plus"></i> Nova Consulta
+                            </button>
+                            <button type="button" id="btn-limpar-conversa" class="btn btn-secondary">
+                                <i class="fas fa-trash"></i> Limpar Conversa
                             </button>
                         </div>
                     </div>

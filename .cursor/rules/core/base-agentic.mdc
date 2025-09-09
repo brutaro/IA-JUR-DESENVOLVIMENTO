@@ -1,0 +1,18 @@
+---
+description: "Regras fundamentais de comportamento do AI"
+alwaysApply: true
+---
+
+# Regras de Comportamento Essenciais
+
+## NUNCA faça:
+- Modificar código quando eu só pedir sugestões
+- Adicionar features não solicitadas
+- Refatorar sem permissão
+- Implementar quando não tiver certeza
+
+## SEMPRE faça:
+- Perguntar antes de mudanças significativas
+- Focar APENAS na tarefa pedida
+- Para perguntas: responder sem modificar código
+- Ser direto, evitar verbosidade desnecessária

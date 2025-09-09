@@ -1,0 +1,69 @@
+---
+description: Stack tecnológico essencial do projeto RAG
+globs: **/*.py,**/*.js,**/*.json,**/*.md,**/*.env*
+---
+
+# 🛠️ Stack Tecnológico Essencial
+
+## Regras de Código
+- TypeScript obrigatório
+- Funções arrow em callbacks
+- Imports: externos primeiro, depois internos
+- Usar const por padrão
+
+## 🐍 Python Core
+- **Versão**: Python 3.08+ (estável)
+- **Ambiente**: venv, uv, poetry
+
+## 📦 Dependências Críticas
+```python
+# Core RAG
+pinecone-client>=3.0.0
+google-generativeai>=0.3.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# Utilitários
+python-dotenv>=1.0.0
+```
+
+## 🤖 Modelos de IA
+- **Embeddings**: `text-embedding-004` (Gemini)
+- **LLM**: `gemini-2.5-flash`
+- **Configurações**: max_output_tokens=8192, temperature=0.1
+
+## 🗄️ Pinecone
+- **Versão**: Pinecone 7 (NÃO atualizar)
+- **Índices**: `agentes-juridicos`, `vivi-ia` (INTOCÁVEIS)
+- **Configurações**: metric=cosine, dimension=768
+
+## 🌐 Frontend
+- **HTML**: Templates Jinja2 + React 18 + TypeScript + Vite
+- **CSS**: Tailwind CSS + Magic UI
+- **Backend**: FastAPI + SQLModel + PostgreSQL
+- **Sem**: WordPress, .tsx files
+
+## 🔧 Configurações (.env)
+```bash
+PINECONE_API_KEY=your_key
+GEMINI_API_KEY=your_key
+PINECONE_INDEX_NAME=vivi-ia
+CHUNK_SIZE=1024
+CHUNK_OVERLAP=0.15
+```
+
+## 📁 Estrutura Essencial
+```
+projeto/
+├── .cursor/rules/           # Regras Cursor
+├── agente_busca_gemini.py   # Agente principal
+├── app.py                   # FastAPI app
+├── src/                     # Código organizado
+├── data/                    # Dados processados
+└── venv-rag-siape/         # Ambiente virtual
+```

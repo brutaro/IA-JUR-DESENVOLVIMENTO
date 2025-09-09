@@ -150,6 +150,7 @@ class ConsultaResponse(BaseModel):
     workflow_id: str
     duracao: float
     timestamp: str
+    is_followup: bool = False  # Indica se é uma pergunta de follow-up
     contexto: Optional[Dict[str, Any]] = None  # Informações de contexto
 
 class MetricasResponse(BaseModel):
@@ -258,17 +259,15 @@ async def processar_consulta(consulta: ConsultaRequest):
             # Enriquece a consulta com contexto se for follow-up
             if context_info['relevant_history']:
                 contexto_texto = "\n".join([
-                    f"Pergunta anterior: {entry['user']}\nResposta: {entry['assistant'][:200]}..."
+                    f"Pergunta anterior: {entry['user']}\nResposta: {entry['assistant'][:300]}..."
                     for entry in context_info['relevant_history']
                 ])
-                consulta_enriquecida = f"""
-CONSULTA ATUAL: {consulta.pergunta}
+                consulta_enriquecida = f"""CONSULTA ATUAL: {consulta.pergunta}
 
 CONTEXTO DAS CONVERSAS ANTERIORES:
 {contexto_texto}
 
-Por favor, responda à consulta atual considerando o contexto das conversas anteriores.
-"""
+Por favor, responda à consulta atual considerando o contexto das conversas anteriores."""
                 logger.info("📝 Consulta enriquecida com contexto")
             else:
                 consulta_enriquecida = consulta.pergunta
@@ -301,12 +300,14 @@ Por favor, responda à consulta atual considerando o contexto das conversas ante
         logger.info(f"✅ Consulta processada em {duracao:.2f}s")
 
         # Adiciona interação ao contexto (não bloqueia a resposta)
+        # IMPORTANTE: Salva apenas a pergunta original e a resposta completa
         try:
             ctx_manager.add_interaction(consulta.pergunta, resposta_completa)
         except Exception as e:
             logger.warning(f"Erro ao adicionar ao contexto: {e}")
 
         # Salva no chat history (mantém compatibilidade)
+        # IMPORTANTE: Salva apenas a pergunta original e a resposta completa
         try:
             save_chat_entry(consulta.pergunta, resposta_completa)
         except Exception as e:
@@ -319,7 +320,8 @@ Por favor, responda à consulta atual considerando o contexto das conversas ante
             'fontes': fontes,
             'workflow_id': workflow_id,
             'duracao': duracao,
-            'timestamp': datetime.now().isoformat()
+            'timestamp': datetime.now().isoformat(),
+            'is_followup': context_info.get('is_followup', False)
         }
 
         # Adiciona contexto se for follow-up (versão simplificada)
@@ -452,6 +454,69 @@ async def clear_context():
     except Exception as e:
         logger.error(f"Erro ao limpar contexto: {e}")
         raise HTTPException(status_code=500, detail="Erro ao limpar contexto")
+
+@app.get("/api/arquivos-txt")
+async def listar_arquivos_txt():
+    """Lista os arquivos TXT salvos automaticamente"""
+    try:
+        import os
+        from pathlib import Path
+
+        # Diretório onde os arquivos TXT são salvos
+        txt_dir = Path("respostas/respostas_txt")
+
+        if not txt_dir.exists():
+            return {"arquivos": []}
+
+        arquivos = []
+        for arquivo in txt_dir.glob("*.txt"):
+            stat = arquivo.stat()
+            arquivos.append({
+                "nome": arquivo.name,
+                "caminho": str(arquivo),
+                "tamanho": stat.st_size,
+                "data_modificacao": datetime.fromtimestamp(stat.st_mtime).isoformat(),
+                "data_criacao": datetime.fromtimestamp(stat.st_ctime).isoformat()
+            })
+
+        # Ordena por data de modificação (mais recente primeiro)
+        arquivos.sort(key=lambda x: x["data_modificacao"], reverse=True)
+
+        return {"arquivos": arquivos}
+
+    except Exception as e:
+        logger.error(f"Erro ao listar arquivos TXT: {e}")
+        raise HTTPException(status_code=500, detail="Erro ao listar arquivos TXT")
+
+@app.get("/api/download-txt/{nome_arquivo}")
+async def download_arquivo_txt(nome_arquivo: str):
+    """Download de arquivo TXT específico"""
+    try:
+        from pathlib import Path
+        import os
+
+        # Diretório onde os arquivos TXT são salvos
+        txt_dir = Path("respostas/respostas_txt")
+        arquivo_path = txt_dir / nome_arquivo
+
+        if not arquivo_path.exists():
+            raise HTTPException(status_code=404, detail="Arquivo não encontrado")
+
+        # Lê o conteúdo do arquivo
+        with open(arquivo_path, 'r', encoding='utf-8') as f:
+            conteudo = f.read()
+
+        # Retorna o conteúdo para download
+        from fastapi.responses import Response
+        return Response(
+            content=conteudo,
+            media_type="text/plain",
+            headers={"Content-Disposition": f"attachment; filename={nome_arquivo}"}
+        )
+
+    except Exception as e:
+        logger.error(f"Erro ao fazer download do arquivo {nome_arquivo}: {e}")
+        raise HTTPException(status_code=500, detail="Erro ao fazer download do arquivo")
 
 # Middleware para logging
 @app.middleware("http")

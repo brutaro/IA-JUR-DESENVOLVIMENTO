@@ -137,8 +137,21 @@ class SimpleLegalOrchestrator:
 
     async def _execute_research(self, query: str, context: AgentContext) -> Dict[str, Any]:
         """Executa pesquisa usando o agente pesquisador"""
-        # Usa query expandida se disponível
-        query_to_use = context.accumulated_context.get('query_expandida', query)
+        # Extrai apenas a pergunta original (remove contexto interno)
+        original_query = query
+        if "CONSULTA ATUAL:" in query:
+            lines = query.split('\n')
+            for line in lines:
+                if line.strip().startswith("CONSULTA ATUAL:"):
+                    original_query = line.replace("CONSULTA ATUAL:", "").strip()
+                    break
+        elif "CONTEXTO DAS CONVERSAS ANTERIORES:" in query:
+            lines = query.split('\n')
+            if lines:
+                original_query = lines[0].strip()
+
+        # Usa query expandida se disponível, mas apenas a pergunta original
+        query_to_use = context.accumulated_context.get('query_expandida', original_query)
         self.logger.info(f"Query para pesquisa: {query_to_use}")
 
         try:
@@ -195,17 +208,32 @@ class SimpleLegalOrchestrator:
         else:
             sources_text = "Nenhuma fonte específica identificada"
 
+        # Extrai apenas a pergunta original (antes do contexto)
+        original_query = query
+        if "CONSULTA ATUAL:" in query:
+            # Se contém contexto, extrai apenas a pergunta atual
+            lines = query.split('\n')
+            for line in lines:
+                if line.strip().startswith("CONSULTA ATUAL:"):
+                    original_query = line.replace("CONSULTA ATUAL:", "").strip()
+                    break
+        elif "CONTEXTO DAS CONVERSAS ANTERIORES:" in query:
+            # Se contém contexto mas não tem "CONSULTA ATUAL:", pega a primeira linha
+            lines = query.split('\n')
+            if lines:
+                original_query = lines[0].strip()
+
         return {
             'status': 'completed',
             'type': 'research',
-            'query': query,
+            'query': original_query,
             'sources_found': result.get('sources_found', 0),
             'summary': executive_summary,
             'formatted_response': f"""
 # RESPOSTA À PERGUNTA
 
 ## Consulta Realizada
-{query}
+{original_query}
 
 ## Resultado da Pesquisa
 {executive_summary}
