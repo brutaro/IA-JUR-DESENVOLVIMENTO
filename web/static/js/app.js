@@ -166,8 +166,28 @@ class IAJURApp {
     formatarTexto(texto) {
         if (!texto) return 'N/A';
 
+        // Remove símbolos de markdown e aplica formatação HTML
+        let textoFormatado = texto;
+
+        // Converte ## (títulos secundários) em negrito
+        textoFormatado = textoFormatado.replace(/^## (.+)$/gm, '<strong>$1</strong>');
+
+        // Converte # (títulos principais) em negrito
+        textoFormatado = textoFormatado.replace(/^# (.+)$/gm, '<strong>$1</strong>');
+
+        // Converte *** (negrito triplo) em negrito
+        textoFormatado = textoFormatado.replace(/\*\*\*(.+?)\*\*\*/g, '<strong>$1</strong>');
+
+        // Converte ** (negrito duplo) em negrito
+        textoFormatado = textoFormatado.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+
+        // Converte * (negrito simples) em negrito
+        textoFormatado = textoFormatado.replace(/\*(.+?)\*/g, '<strong>$1</strong>');
+
         // Converte quebras de linha em <br>
-        return texto.replace(/\n/g, '<br>');
+        textoFormatado = textoFormatado.replace(/\n/g, '<br>');
+
+        return textoFormatado;
     }
 
     limparConsulta() {
@@ -738,6 +758,27 @@ style.textContent = `
         border-radius: 12px;
         font-size: 0.8rem;
         font-weight: 600;
+    }
+
+    /* Estilos para textos formatados */
+    .resumo strong, .resposta-completa strong {
+        color: #2c3e50;
+        font-weight: 700;
+        font-size: 1.05em;
+    }
+
+    .resumo, .resposta-completa {
+        line-height: 1.6;
+        color: #34495e;
+    }
+
+    .resumo strong:first-child, .resposta-completa strong:first-child {
+        color: #1a252f;
+        font-size: 1.1em;
+        display: block;
+        margin-bottom: 0.5rem;
+        padding-bottom: 0.25rem;
+        border-bottom: 2px solid #e9ecef;
     }
 `;
 document.head.appendChild(style);
