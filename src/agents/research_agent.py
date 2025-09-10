@@ -1,50 +1,34 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Unified Research Agent - Agente Unificado de Pesquisa Jurídica
-Combina o melhor dos agentes de pesquisa anteriores com integração Pinecone
+Agente Ultra Simplificado
+Apenas: Query → Pinecone → Gemini → Resposta
+SEM memória, SEM contexto, SEM complicações
 """
 
-from typing import Dict, List, Any, Union, Tuple
-import re
-import time
-import logging
-from datetime import datetime
-
-from .base_agent import BaseAgent
-from src.tools.pinecone_search_tool import PineconeSearchTool
 import asyncio
+import logging
+import sys
+import os
+from datetime import datetime
+from typing import Dict, List, Any, Optional
+
+# Adiciona o diretório src ao path
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+from tools.pinecone_search_tool import PineconeSearchTool
 
 
-class UnifiedResearchAgent(BaseAgent):
-    """Agente unificado especializado em pesquisa jurídica com Pinecone"""
+class ResearchAgent:
+    """Agente de pesquisa jurídica especializado em Direito Administrativo"""
 
     def __init__(self, llm_config: Dict[str, Any]):
-        super().__init__(
-            name="UnifiedResearchAgent",
-            role="Pesquisador Jurídico Unificado",
-            llm_config=llm_config,
-            tools=None
-        )
-
-        # Instância da ferramenta de busca Pinecone
-        try:
-            self.search_tool = PineconeSearchTool()
-            self.logger.info("Ferramenta de busca Pinecone inicializada com sucesso")
-        except Exception as e:
-            self.logger.error(f"Erro ao inicializar ferramenta Pinecone: {e}")
-            self.search_tool = None
-
-        # Configurações específicas de pesquisa
-        self.max_search_iterations = 5
-        self.min_sources_per_category = 3
-        self.similarity_threshold = 0.7  # Threshold para relevância
-
-        # Cria instância do LLM
+        self.logger = logging.getLogger(f"Agent.{self.__class__.__name__}")
+        self.llm_config = llm_config
         self.llm_client = self._create_llm_instance()
+        self.search_tool = PineconeSearchTool()
 
-        # Cache para resultados de busca
-        self._search_cache = {}
+        self.logger.info("Agente ultra simplificado inicializado")
 
     def _create_llm_instance(self):
         """Cria uma instância do LLM, usando Gemini 2.5"""
@@ -74,450 +58,168 @@ class UnifiedResearchAgent(BaseAgent):
             self.logger.error(f"Erro ao criar instância Gemini: {e}")
             return None
 
-    def get_capabilities(self) -> List[str]:
-        return [
-            "Pesquisa vetorial avançada com Pinecone",
-            "Análise de jurisprudência e precedentes",
-            "Busca por legislação específica",
-            "Identificação de entendimentos consolidados",
-            "Síntese inteligente de resultados",
-            "Categorização automática de fontes",
-            "Cache inteligente de resultados"
-        ]
-
-    async def process(self, input_data: Union[str, Dict]) -> Dict[str, Any]:
-        """Processa a pesquisa jurídica unificada"""
-
-        # Obtém informações do agente
-        agent_info = {
-            'description': 'Agente unificado especializado em pesquisa jurídica com Pinecone',
-            'capabilities': self.get_capabilities(),
-            'search_engine': 'Pinecone + text-embedding-004',
-            'best_for': [
-                'Pesquisas semanticamente precisas',
-                'Análise de jurisprudência e precedentes',
-                'Identificação de entendimentos consolidados',
-                'Busca contextual em notas técnicas',
-                'Síntese de posicionamentos administrativos'
-            ]
-        }
-
-        # Extrai informações do input
-        if isinstance(input_data, str):
-            query = input_data
-            triage_context = {}
-        else:
-            query = input_data.get('query', '')
-            triage_context = input_data.get('triage_context', {})
-
+    async def process(self, query: str) -> Dict[str, Any]:
+        """Processa consulta jurídica com prompt especializado em Direito Administrativo"""
         start_time = datetime.now()
 
-        self.log_activity("Iniciando pesquisa jurídica unificada", {
-            'query_length': len(query),
-            'has_triage_context': bool(triage_context),
-            'search_engine': 'Pinecone'
-        })
-
-        if not self.search_tool:
-            return {
-                'error': 'Ferramenta de busca Pinecone não disponível',
-                'agent_info': agent_info
-            }
-
         try:
-            # Cache temporariamente desabilitado para debug
-            # cache_key = f"{query}_{len(str(triage_context))}"
-            # if cache_key in self._search_cache:
-            #     cached_result = self._search_cache[cache_key]
-            #     self.logger.info("Resultado encontrado em cache")
-            #     return cached_result
+            self.logger.info(f"Iniciando pesquisa jurídica: {query[:50]}...")
 
-            # Etapa 1: Análise e expansão da consulta
-            query_analysis = await self._analyze_query(query, triage_context)
+            # 1. Busca direta no Pinecone
+            self.logger.info("1. Buscando no Pinecone...")
+            pinecone_results = self.search_tool.search(query, top_k=10)
+            self.logger.info(f"   Pinecone retornou {len(pinecone_results)} resultados")
 
-            # Etapa 2: Pesquisa estruturada no Pinecone
-            search_results = await self._execute_pinecone_search(query_analysis)
-            # Etapa 3: Análise e categorização dos resultados
-            categorized_results = await self._categorize_results(search_results)
-
-            # Etapa 4: Síntese inteligente usando LLM
-            synthesis = await self._synthesize_findings(query, categorized_results)
-
-            # Etapa 5: Gera resposta estruturada
-            structured_response = await self._generate_structured_response(
-                query, query_analysis, categorized_results, synthesis
-            )
-
-            # Atualiza contexto
-            self.update_context('research_results', categorized_results)
-            self.update_context('synthesis', synthesis)
-            self.update_context('structured_response', structured_response)
-
-            # Calcula métricas
-            processing_time = (datetime.now() - start_time).total_seconds()
-            total_sources = len(search_results)
-            relevant_sources = len([r for r in search_results if r.score >= self.similarity_threshold])
-            confidence_level = self._calculate_confidence(categorized_results)
-
-            # Prepara resposta final
-            result = {
-                'agent_info': agent_info,
-                'query_analysis': query_analysis,
-                'search_results': [
-                    {
-                        'documento_id': r.documento_id,
-                        'titulo': r.titulo,
-                        'score': r.score,
-                        'conteudo_preview': r.conteudo[:200] + '...' if len(r.conteudo) > 200 else r.conteudo,
-                        'metadata': r.metadata
-                    } for r in search_results
-                ],
-                'documents': [
-                    {
-                        'id': r.documento_id,
-                        'title': r.titulo,
-                        'content': r.conteudo,
-                        'score': r.score,
-                        'metadata': r.metadata
-                    } for r in search_results
-                ],  # Adiciona chave documents para compatibilidade
-                'categorized_results': categorized_results,
-                'synthesis': synthesis,
-                'structured_response': structured_response,
-                'metrics': {
-                    'processing_time': processing_time,
-                    'total_sources': total_sources,
-                    'relevant_sources': relevant_sources,
-                    'relevance_rate': relevant_sources / total_sources if total_sources > 0 else 0,
-                    'confidence_level': confidence_level,
-                    'search_engine': 'Pinecone',
-                    'embedding_model': 'text-embedding-004'
-                },
-                'recommendations': self._generate_recommendations(categorized_results, confidence_level)
-            }
-
-            # Cache desabilitado temporariamente
-            # self._search_cache[cache_key] = result
-
-            self.log_activity("Pesquisa jurídica concluída", {
-                'total_sources': total_sources,
-                'relevant_sources': relevant_sources,
-                'confidence': confidence_level,
-                'processing_time': processing_time
-            })
-
-            return result
-
-        except Exception as e:
-            error_result = {
-                'error': f"Erro durante pesquisa: {str(e)}",
-                'agent_info': agent_info,
-                'processing_time': (datetime.now() - start_time).total_seconds()
-            }
-            self.logger.error(f"Erro na pesquisa: {e}")
-            return error_result
-
-    async def _analyze_query(self, query: str, triage_context: Dict) -> Dict[str, Any]:
-        """Analisa e expande a consulta para melhorar a busca"""
-
-        # Extrai termos-chave básicos
-        keywords = self._extract_keywords(query)
-
-        # Identifica tipo de consulta jurídica
-        query_type = self._identify_query_type(query)
-
-        # Gera variações da consulta
-        query_variants = self._generate_query_variants(query, keywords)
-
-        return {
-            'original_query': query,
-            'keywords': keywords,
-            'query_type': query_type,
-            'query_variants': query_variants,
-            'triage_context': triage_context,
-            'analysis_timestamp': datetime.now().isoformat()
-        }
-
-    def _extract_keywords(self, query: str) -> List[str]:
-        """Extrai palavras-chave relevantes da consulta"""
-        # Remove pontuação e converte para minúsculas
-        clean_query = re.sub(r'[^\w\s]', ' ', query.lower())
-
-        # Lista de stopwords jurídicas
-        stopwords = {
-            'sobre', 'acerca', 'quanto', 'como', 'quando', 'onde', 'por', 'para',
-            'em', 'de', 'da', 'do', 'das', 'dos', 'na', 'no', 'nas', 'nos',
-            'a', 'o', 'as', 'os', 'e', 'ou', 'mas', 'que', 'se', 'é', 'foi',
-            'será', 'pode', 'deve', 'tem', 'há', 'sua', 'seu', 'suas', 'seus'
-        }
-
-        # Extrai palavras significativas
-        words = clean_query.split()
-        keywords = [word for word in words if len(word) > 2 and word not in stopwords]
-
-        return keywords[:10]  # Limita a 10 palavras-chave
-
-    def _identify_query_type(self, query: str) -> str:
-        """Identifica o tipo de consulta jurídica"""
-        query_lower = query.lower()
-
-        if any(term in query_lower for term in ['licença', 'férias', 'afastamento']):
-            return 'licenças_afastamentos'
-        elif any(term in query_lower for term in ['progressão', 'promoção', 'evolução']):
-            return 'progressao_funcional'
-        elif any(term in query_lower for term in ['indenização', 'auxílio', 'ajuda de custo']):
-            return 'indenizacoes_auxilios'
-        elif any(term in query_lower for term in ['aposentadoria', 'abono permanência']):
-            return 'aposentadoria_pensao'
-        elif any(term in query_lower for term in ['acumulação', 'cargo', 'função']):
-            return 'acumulacao_cargos'
-        else:
-            return 'consulta_geral'
-
-    def _generate_query_variants(self, query: str, keywords: List[str]) -> List[str]:
-        """Gera variações simples da query para busca mais abrangente"""
-        variants = [query]  # Consulta original
-
-        # Consulta só com palavras-chave (máximo 1 variação)
-        if keywords:
-            keyword_query = ' '.join(keywords[:5])  # Máximo 5 palavras-chave
-            variants.append(keyword_query)
-
-        # Consulta com sinônimos comuns (máximo 1 variação)
-        synonyms_map = {
-            'servidor': ['funcionário'],
-            'licença': ['afastamento'],
-            'indenização': ['auxílio'],
-            'progressão': ['promoção']
-        }
-
-        for original, synonyms in synonyms_map.items():
-            if original in query.lower():
-                variant = query.lower().replace(original, synonyms[0])
-                variants.append(variant)
-                break  # Apenas uma substituição
-
-        return list(set(variants))[:3]  # Máximo 3 variações
-
-    async def _execute_pinecone_search(self, query_analysis: Dict) -> List:
-        """Executa busca no Pinecone usando a query original e variações"""
-        all_results = []
-
-        # SEMPRE busca com a query original primeiro
-        original_query = query_analysis.get('original_query', '')
-        if original_query:
-            try:
-                results = self.search_tool.search(original_query, top_k=10)
-                all_results.extend(results)
-                self.logger.info(f"Busca original: {len(results)} resultados")
-            except Exception as e:
-                self.logger.warning(f"Erro na busca original '{original_query}': {e}")
-
-        # Busca para cada variação da consulta (se houver)
-        for variant in query_analysis['query_variants']:
-            if variant != original_query:  # Evita duplicar a query original
-                try:
-                    results = self.search_tool.search(variant, top_k=5)
-                    all_results.extend(results)
-
-                    # Pequena pausa para não sobrecarregar
-                    await asyncio.sleep(0.1)
-
-                except Exception as e:
-                    self.logger.warning(f"Erro na busca para '{variant}': {e}")
-
-        # Remove duplicatas baseado no documento_id
-        seen_ids = set()
-        unique_results = []
-        for result in all_results:
-            if result.documento_id not in seen_ids:
-                unique_results.append(result)
-                seen_ids.add(result.documento_id)
-
-        # Ordena por score (melhor primeiro)
-        unique_results.sort(key=lambda x: x.score, reverse=True)
-
-        return unique_results[:15]  # Limita a 15 melhores resultados
-
-    async def _categorize_results(self, search_results: List) -> Dict[str, Any]:
-        """Categoriza os resultados por relevância e tipo"""
-
-        high_relevance = [r for r in search_results if r.score >= 0.6]  # Reduzido de 0.8 para 0.6
-        medium_relevance = [r for r in search_results if 0.4 <= r.score < 0.6]
-        low_relevance = [r for r in search_results if 0.3 <= r.score < 0.4]
-
-        # Categoriza por tipo de documento/assunto
-        by_topic = {}
-        for result in search_results:
-            # Extrai tópico do metadata ou título
-            topic = self._extract_topic(result)
-            if topic not in by_topic:
-                by_topic[topic] = []
-            by_topic[topic].append(result)
-
-        return {
-            'by_relevance': {
-                'high': high_relevance,
-                'medium': medium_relevance,
-                'low': low_relevance
-            },
-            'by_topic': by_topic,
-            'total_results': len(search_results),
-            'relevance_distribution': {
-                'high': len(high_relevance),
-                'medium': len(medium_relevance),
-                'low': len(low_relevance)
-            }
-        }
-
-    def _extract_topic(self, result) -> str:
-        """Extrai o tópico principal do resultado"""
-        titulo = result.titulo.lower() if result.titulo else ''
-
-        if any(term in titulo for term in ['licença', 'afastamento']):
-            return 'licenças_afastamentos'
-        elif any(term in titulo for term in ['progressão', 'promoção']):
-            return 'progressao_funcional'
-        elif any(term in titulo for term in ['indenização', 'auxílio']):
-            return 'indenizacoes_auxilios'
-        elif any(term in titulo for term in ['aposentadoria', 'abono']):
-            return 'aposentadoria_beneficios'
-        else:
-            return 'outros'
-
-    async def _synthesize_findings(self, query: str, categorized_results: Dict) -> Dict[str, Any]:
-        """Sintetiza os achados usando o LLM"""
-
-        high_rel = categorized_results['by_relevance']['high']
-
-        if not high_rel:
-            return {
-                'synthesis_text': f"Nenhum documento altamente relevante encontrado para '{query}'.",
-                'sources_analyzed': 0,
-                'synthesis_timestamp': datetime.now().isoformat()
-            }
-
-        # Prepara contexto dos documentos mais relevantes para o LLM
-        context_docs = []
-        for i, doc in enumerate(high_rel[:5]):  # Máximo 5 documentos
-            # Tenta diferentes campos de conteúdo
-            content = getattr(doc, 'conteudo', '') or getattr(doc, 'content', '')
-            content_preview = content[:1500] if content else "Conteúdo não disponível"
-
-            context_docs.append(f"""
-DOCUMENTO {i+1}:
-Título: {doc.titulo}
-Processo: {getattr(doc, 'metadata', {}).get('numero_processo', 'N/A')}
-Relevância: {doc.score:.1%}
+            # 2. Prepara contexto como no agente em produção
+            self.logger.info("2. Preparando contexto...")
+            context_text = ""
+            for i, result in enumerate(pinecone_results, 1):
+                content_preview = result.conteudo[:3000]
+                context_text += f"""
+{result.titulo}:
+Relevância: {result.score:.1%}
 Conteúdo: {content_preview}
-""")
+"""
 
-        context_text = '\n'.join(context_docs)
+            # 3. Prompt especializado em Direito Administrativo
+            self.logger.info("3. Criando prompt...")
+            prompt = f"""# Persona e Objetivo
 
-        # Prompt para síntese específica e objetiva
-        synthesis_prompt = f"""
-Você é um especialista jurídico. Com base nos documentos fornecidos, responda de forma OBJETIVA à pergunta:
+Você é um Assistente Jurídico Especialista em Direito Administrativo, com foco no regime de servidores públicos federais. Sua principal habilidade é comunicar informações jurídicas complexas de forma clara, precisa e acessível para dois públicos distintos: profissionais do direito (advogados, juízes, servidores) e cidadãos leigos que buscam entender seus direitos.
 
+Sua tarefa é responder a consultas sobre a legislação de servidores públicos, sempre fornecendo respostas que sejam, ao mesmo tempo, tecnicamente robustas e facilmente compreensíveis.
+
+PERGUNTA DO USUÁRIO:
 "{query}"
 
-DOCUMENTOS DISPONÍVEIS:
+BASE DE CONHECIMENTO DISPONÍVEL:
 {context_text}
 
-INSTRUÇÕES OBRIGATÓRIAS:
-1. Responda de forma NATURAL e DIRETA, como um especialista jurídico
-2. Extraia informações ESPECÍFICAS dos documentos (listas, procedimentos, requisitos)
-3. Cite as fontes usando o TÍTULO real da nota técnica, ex: "conforme Nota Técnica 180/2022"
-4. Use linguagem clara e profissional, sem expressões informais
-5. Organize as informações de forma lógica e prática
-6. Não use [DOCUMENTO X] - use sempre as referências reais
-7. Não use expressões como "colega", "amigo", "prezado" - seja direto e objetivo
+# REGRAS CRÍTICAS DE FONTES
 
-FORMATO DA RESPOSTA:
-- Resposta direta e natural à pergunta
-- Informações práticas organizadas
-- Referências às notas técnicas pelo número/título real
+⚠️ **IMPORTANTE**: Você deve usar EXCLUSIVAMENTE as informações e fontes que estão nos documentos fornecidos acima. NÃO invente, adicione ou mencione fontes que não estão explicitamente nos documentos do Pinecone. Se uma informação não estiver nos documentos fornecidos, não a inclua na resposta.
 
-RESPOSTA:"""
+# Estrutura da Resposta
 
-        try:
-            if hasattr(self, 'llm_client') and self.llm_client:
-                # Usa o LLM para síntese
-                response = self.llm_client.generate_content(synthesis_prompt)
-                synthesis_text = response.text.strip()
-            else:
-                # Fallback sem LLM
-                synthesis_text = f"Encontrados {len(high_rel)} documentos relevantes sobre '{query}'. Para resposta específica, consulte os documentos: {', '.join([d.titulo for d in high_rel[:3]])}."
+Para toda e qualquer pergunta, sua resposta DEVE seguir rigorosamente a seguinte estrutura em múltiplos níveis:
+
+## 0. NUNCA use preâmbulo, parta para a resposta conforme o seu prompt
+   - Exemplo do que não usar: Em sua função de Assistente Jurídico Especialista em Direito Administrativo, com foco no regime de servidores públicos federais, apresento a resposta à sua consulta:
+
+## 1. Resposta Direta e Simplificada (Para o Cidadão)
+   - Comece com um parágrafo curto (2-3 frases) respondendo à pergunta de forma direta e em linguagem extremamente simples, como se estivesse explicando para alguém sem nenhum conhecimento jurídico. Evite jargões. Vá direto ao ponto.
+
+## 2. Resumo Explicativo
+   - Elabore um resumo executivo da resposta.
+   - Use bullet points ou parágrafos curtos para detalhar os pontos principais.
+   - Defina qualquer termo técnico essencial que precisar introduzir. Por exemplo, ao mencionar "remoção", explique brevemente o que significa.
+   - O objetivo desta seção é dar um panorama completo e claro, explicando o "porquê" e o "como" da questão.
+
+## 3. Detalhamento Jurídico (Para o Jurista)
+   - Nesta seção, aprofunde a análise técnica.
+   - Apresente a fundamentação legal, citando os artigos de lei (ex: Art. 36, III, "a", da Lei nº 8.112/90), pareceres, notas técnicas e jurisprudência pertinente.
+   - Explique a interpretação dos tribunais e da administração pública sobre o tema, se houver.
+   - Use uma linguagem precisa e técnica, adequada para um profissional da área.
+   - Organize os argumentos de forma lógica, separando os diferentes institutos jurídicos (ex: diferenciar "Remoção" de "Exercício Provisório").
+
+## 4. Implicações Práticas
+   - Finalize com um ou dois parágrafos explicando o que essa informação significa na prática para o servidor.
+   - Por exemplo: "Na prática, isso significa que um servidor em união estável tem o mesmo direito de solicitar remoção para acompanhar seu companheiro(a) que um servidor casado teria."
+   - **Importante**: Inclua um aviso legal padrão no final de cada resposta.
+
+# Aviso Legal Padrão
+Sempre finalize a resposta com o seguinte texto:
+"Atenção: Esta é uma análise baseada nas informações fornecidas e na legislação vigente. Não constitui aconselhamento jurídico formal. Para casos concretos, é fundamental consultar um advogado ou o setor de recursos humanos do seu órgão."
+
+# Regras de Saída (Críticas)
+
+1. **Formato JSON Exclusivo:** Sua resposta deve ser APENAS o código JSON. Não inclua texto, introduções, comentários ou os marcadores ```json antes ou depois do objeto JSON.
+2. **Estrutura Rígida:** Siga exatamente a estrutura de chaves e valores definida abaixo. Todos os campos são obrigatórios.
+3. **Instruções de Preenchimento:** Para cada campo, siga a instrução específica descrita nos comentários (`//`) para garantir que o conteúdo atenda ao público-alvo correto.
+
+# Estrutura Detalhada do JSON e Instruções de Preenchimento
+
+{{
+  "consulta_recebida": "A pergunta original feita pelo usuário.",
+  "resposta_imediata": {{
+    "titulo": "Resposta Rápida",
+    "conteudo": "// Aqui entra a 'Resposta Direta e Simplificada' do prompt original. Responda à pergunta em 2-3 frases curtas, usando linguagem 100% leiga, sem jargões. Vá direto ao ponto."
+  }},
+  "resumo_explicativo": {{
+    "titulo": "Entenda o Essencial",
+    "conteudo": "// Elabore o 'Resumo Explicativo'. Use parágrafos curtos ou uma lista de pontos principais. Defina termos técnicos essenciais que precisar introduzir (ex: 'Remoção, que é o ato de transferência do servidor...'). O objetivo é dar um panorama completo e claro."
+  }},
+  "detalhamento_juridico": {{
+    "titulo": "Análise Técnica Detalhada",
+    "topicos": [
+      {{
+        "termo_chave": "// Nome do instituto jurídico principal (ex: 'Remoção para Acompanhar Cônjuge ou Companheiro')",
+        "analise_tecnica": "// Este é o espaço para o 'Detalhamento Jurídico' focado neste tópico. Aprofunde a análise técnica. Apresente APENAS a fundamentação legal que está nos documentos fornecidos. Cite pareceres, notas técnicas e jurisprudência que estão explicitamente mencionados nos documentos. NÃO invente ou adicione referências que não estão nos documentos do Pinecone. A linguagem aqui deve ser precisa e adequada para um profissional do direito."
+      }}
+    ]
+  }},
+  "implicacoes_praticas": {{
+    "titulo": "O Que Fazer com esta Informação?",
+    "conteudo": "// Elabore a seção de 'Implicações Práticas'. Explique o que essa informação significa no dia a dia do servidor. Dê exemplos práticos. Ex: 'Na prática, se seu companheiro for transferido, você já pode reunir os documentos que comprovam a união estável para iniciar o processo de remoção...'. Não dê conselhos, apenas informe sobre as possibilidades."
+  }},
+  "fontes_consultadas": {{
+      "titulo": "Principais Fontes",
+      "lista": [
+          "// IMPORTANTE: Liste APENAS as fontes que estão explicitamente mencionadas nos documentos fornecidos acima. NÃO invente ou adicione fontes que não estão nos documentos. Use exatamente os títulos e referências que aparecem nos documentos do Pinecone."
+      ]
+  }},
+  "aviso_legal": "Atenção: Esta é uma análise baseada nas informações fornecidas e na legislação vigente. Não constitui aconselhamento jurídico formal. Para casos concretos, é fundamental consultar um advogado ou o setor de recursos humanos do seu órgão."
+}}
+
+RESPOSTA JSON:"""
+
+            # 4. Chama Gemini
+            self.logger.info("4. Chamando Gemini...")
+            response = self.llm_client.generate_content(prompt)
+            self.logger.info("5. Gemini respondeu!")
+
+            # 5. Processa resposta JSON
+            try:
+                import json
+                response_text = response.text if response else "Erro na resposta"
+
+                # Tenta fazer parse do JSON
+                json_response = json.loads(response_text)
+
+                # Adiciona informações de processamento
+                json_response['processing_time'] = (datetime.now() - start_time).total_seconds()
+                json_response['total_documents'] = len(pinecone_results)
+                json_response['principais_fontes'] = [f"{r.titulo} (Relevância: {r.score:.1%})" for r in pinecone_results[:3]]
+
+                # Mantém compatibilidade com o backend atual
+                synthesis = json.dumps(json_response, ensure_ascii=False, indent=2)
+
+                self.logger.info("6. JSON processado com sucesso!")
+
+            except json.JSONDecodeError as e:
+                self.logger.error(f"Erro ao processar JSON: {e}")
+                # Fallback para resposta de erro
+                synthesis = json.dumps({
+                    "error": "Erro ao processar resposta JSON",
+                    "raw_response": response.text if response else "Sem resposta",
+                    "processing_time": (datetime.now() - start_time).total_seconds(),
+                    "total_documents": len(pinecone_results),
+                    "principais_fontes": [f"{r.titulo} (Relevância: {r.score:.1%})" for r in pinecone_results[:3]]
+                }, ensure_ascii=False, indent=2)
+
+            processing_time = (datetime.now() - start_time).total_seconds()
+
+            return {
+                'query': query,
+                'synthesis': synthesis,
+                'processing_time': processing_time,
+                'total_documents': len(pinecone_results),
+                'principais_fontes': [f"{r.titulo} (Relevância: {r.score:.1%})" for r in pinecone_results[:3]]
+            }
+
         except Exception as e:
-            self.logger.error(f"Erro na síntese com LLM: {e}")
-            synthesis_text = f"Encontrados {len(high_rel)} documentos relevantes sobre '{query}'. Para resposta específica, consulte os documentos."
-
-        return {
-            'synthesis_text': synthesis_text,
-            'sources_analyzed': len(high_rel),
-            'synthesis_timestamp': datetime.now().isoformat()
-        }
-
-    async def _generate_structured_response(self, query: str, query_analysis: Dict,
-                                          categorized_results: Dict, synthesis: Dict) -> Dict[str, Any]:
-        """Gera resposta estruturada final"""
-
-        return {
-            'executive_summary': synthesis.get('synthesis_text', 'Síntese não disponível'),
-            'search_strategy': {
-                'original_query': query,
-                'keywords_used': query_analysis['keywords'],
-                'query_variants': len(query_analysis['query_variants']),
-                'search_engine': 'Pinecone + text-embedding-004'
-            },
-            'findings': {
-                'total_documents': categorized_results['total_results'],
-                'high_relevance': len(categorized_results['by_relevance']['high']),
-                'topics_covered': list(categorized_results['by_topic'].keys()),
-                'relevance_distribution': categorized_results['relevance_distribution']
-            },
-            'top_sources': [
-                {
-                    'titulo': r.titulo,
-                    'score': r.score,
-                    'preview': r.conteudo[:150] + '...' if len(r.conteudo) > 150 else r.conteudo
-                }
-                for r in categorized_results['by_relevance']['high'][:3]
-            ]
-        }
-
-    def _calculate_confidence(self, categorized_results: Dict) -> float:
-        """Calcula nível de confiança nos resultados"""
-        high_rel = len(categorized_results['by_relevance']['high'])
-        total = categorized_results['total_results']
-
-        if total == 0:
-            return 0.0
-
-        # Confiança baseada na proporção de resultados altamente relevantes
-        confidence = (high_rel / total) * 100
-        return min(confidence, 100.0)
-
-    def _generate_recommendations(self, categorized_results: Dict, confidence: float) -> List[str]:
-        """Gera recomendações baseadas nos resultados"""
-        recommendations = []
-
-        if confidence >= 80:
-            recommendations.append("✅ Alta confiança nos resultados encontrados")
-        elif confidence >= 60:
-            recommendations.append("⚠️ Confiança moderada - considere refinar a busca")
-        else:
-            recommendations.append("❌ Baixa confiança - recomenda-se busca manual adicional")
-
-        high_rel = len(categorized_results['by_relevance']['high'])
-        if high_rel >= 5:
-            recommendations.append("📚 Fontes suficientes para análise robusta")
-        elif high_rel >= 2:
-            recommendations.append("📖 Fontes adequadas para análise básica")
-        else:
-            recommendations.append("🔍 Poucas fontes relevantes - ampliar busca")
-
-        topics = len(categorized_results['by_topic'])
-        if topics >= 3:
-            recommendations.append("🎯 Consulta abrange múltiplos aspectos do tema")
-
-        return recommendations
+            self.logger.error(f"Erro no processamento: {e}")
+            return {
+                'error': f"Erro: {str(e)}",
+                'processing_time': (datetime.now() - start_time).total_seconds()
+            }

@@ -9,7 +9,7 @@ import sys
 import time
 import json
 from datetime import datetime
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional, List, Union
 from pathlib import Path
 
 # Adiciona o diretório raiz ao path para importar os módulos do agente
@@ -25,8 +25,8 @@ from pydantic import BaseModel, Field, field_validator
 import uvicorn
 import logging
 
-# Importa o agente ultra simplificado (sem memória)
-from src.agents.ultra_simple_agent import UltraSimpleAgent
+# Importa o agente de pesquisa jurídica
+from src.agents.research_agent import ResearchAgent
 
 # Configuração do logger
 logger = logging.getLogger(__name__)
@@ -142,7 +142,7 @@ class ConsultaRequest(BaseModel):
         return v.strip()
 
 class ConsultaResponse(BaseModel):
-    resposta_completa: str
+    resposta_completa: Union[str, Dict[str, Any]]  # Suporta tanto texto quanto JSON estruturado
     fontes: int  # Número de fontes encontradas
     principais_fontes: List[str] = []  # Lista das principais fontes
     workflow_id: str
@@ -199,8 +199,8 @@ def get_orchestrator():
             # Configura LLMs
             llm_configs = configurar_llms()
 
-            # Cria agente ultra simplificado (sem memória)
-            orchestrator = UltraSimpleAgent(llm_configs)
+            # Cria agente de pesquisa jurídica
+            orchestrator = ResearchAgent(llm_configs)
             logger.info("✅ Orquestrador inicializado com sucesso")
         except Exception as e:
             logger.error(f"❌ Erro ao inicializar orquestrador: {e}")
@@ -231,18 +231,38 @@ async def processar_consulta(consulta: ConsultaRequest):
         # Obtém o orquestrador simplificado
         orch = get_orchestrator()
 
-        # Processa a consulta com agente ultra simplificado
+        # Processa a consulta com agente de pesquisa jurídica
         logger.info(f"🔍 Processando consulta: {consulta.pergunta[:100]}...")
         resultado = await orch.process(consulta.pergunta)
 
         end_time = time.time()
         duracao = end_time - start_time
 
-        # Extrai informações do resultado (mapeia campos do agente ultra simplificado)
+        # Extrai informações do resultado (mapeia campos do agente de pesquisa jurídica)
         synthesis = resultado.get('synthesis', 'Resposta não disponível')
-        resposta_completa = synthesis
-        fontes = resultado.get('total_documents', 0)
-        principais_fontes = resultado.get('principais_fontes', [])
+
+        # Verifica se a resposta é JSON estruturado
+        try:
+            import json
+            json_response = json.loads(synthesis)
+
+            # Se for JSON válido, usa a estrutura estruturada
+            if 'resposta_imediata' in json_response:
+                resposta_completa = json_response
+                fontes = json_response.get('total_documents', resultado.get('total_documents', 0))
+                principais_fontes = json_response.get('principais_fontes', resultado.get('principais_fontes', []))
+            else:
+                # Fallback para formato antigo
+                resposta_completa = synthesis
+                fontes = resultado.get('total_documents', 0)
+                principais_fontes = resultado.get('principais_fontes', [])
+
+        except (json.JSONDecodeError, TypeError):
+            # Se não for JSON válido, usa formato antigo
+            resposta_completa = synthesis
+            fontes = resultado.get('total_documents', 0)
+            principais_fontes = resultado.get('principais_fontes', [])
+
         workflow_id = f"wf_{int(time.time())}"
 
         # Atualiza métricas

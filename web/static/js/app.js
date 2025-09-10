@@ -142,8 +142,18 @@ class IAJURApp {
 
         // Indicador de follow-up removido - não é necessário
 
-        // Atualiza conteúdo
-        document.getElementById('resposta-completa').innerHTML = this.formatarTexto(data.resposta_completa || 'N/A');
+        // Atualiza conteúdo - verifica se é JSON estruturado
+        let conteudoResposta = '';
+
+        if (typeof data.resposta_completa === 'object' && data.resposta_completa !== null) {
+            // É JSON estruturado - renderiza de forma organizada
+            conteudoResposta = this.renderizarRespostaEstruturada(data.resposta_completa);
+        } else {
+            // É texto simples - formata normalmente
+            conteudoResposta = this.formatarTexto(data.resposta_completa || 'N/A');
+        }
+
+        document.getElementById('resposta-completa').innerHTML = conteudoResposta;
 
         // Atualiza principais fontes
         const principaisFontes = data.principais_fontes || [];
@@ -219,6 +229,90 @@ class IAJURApp {
         textoFormatado = textoFormatado.replace(/\n/g, '<br>');
 
         return textoFormatado;
+    }
+
+    renderizarRespostaEstruturada(jsonResponse) {
+        let html = '';
+
+        // Resposta Imediata
+        if (jsonResponse.resposta_imediata) {
+            html += `
+                <div class="resposta-estruturada">
+                    <div class="secao-resposta">
+                        <h3 class="titulo-secao">${jsonResponse.resposta_imediata.titulo}</h3>
+                        <div class="conteudo-secao">${this.formatarTexto(jsonResponse.resposta_imediata.conteudo)}</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Resumo Explicativo
+        if (jsonResponse.resumo_explicativo) {
+            html += `
+                <div class="secao-resposta">
+                    <h3 class="titulo-secao">${jsonResponse.resumo_explicativo.titulo}</h3>
+                    <div class="conteudo-secao">${this.formatarTexto(jsonResponse.resumo_explicativo.conteudo)}</div>
+                </div>
+            `;
+        }
+
+        // Detalhamento Jurídico
+        if (jsonResponse.detalhamento_juridico && jsonResponse.detalhamento_juridico.topicos) {
+            html += `
+                <div class="secao-resposta">
+                    <h3 class="titulo-secao">${jsonResponse.detalhamento_juridico.titulo}</h3>
+                    <div class="conteudo-secao">
+            `;
+
+            jsonResponse.detalhamento_juridico.topicos.forEach((topico, index) => {
+                html += `
+                    <div class="topico-juridico">
+                        <h4 class="termo-chave">${topico.termo_chave}</h4>
+                        <div class="analise-tecnica">${this.formatarTexto(topico.analise_tecnica)}</div>
+                    </div>
+                `;
+            });
+
+            html += `
+                    </div>
+                </div>
+            `;
+        }
+
+        // Implicações Práticas
+        if (jsonResponse.implicacoes_praticas) {
+            html += `
+                <div class="secao-resposta">
+                    <h3 class="titulo-secao">${jsonResponse.implicacoes_praticas.titulo}</h3>
+                    <div class="conteudo-secao">${this.formatarTexto(jsonResponse.implicacoes_praticas.conteudo)}</div>
+                </div>
+            `;
+        }
+
+        // Fontes Consultadas
+        if (jsonResponse.fontes_consultadas && jsonResponse.fontes_consultadas.lista) {
+            html += `
+                <div class="secao-resposta">
+                    <h3 class="titulo-secao">${jsonResponse.fontes_consultadas.titulo}</h3>
+                    <div class="conteudo-secao">
+                        <ul class="lista-fontes">
+                            ${jsonResponse.fontes_consultadas.lista.map(fonte => `<li>${fonte}</li>`).join('')}
+                        </ul>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Aviso Legal
+        if (jsonResponse.aviso_legal) {
+            html += `
+                <div class="secao-resposta aviso-legal">
+                    <div class="conteudo-secao aviso-texto">${this.formatarTexto(jsonResponse.aviso_legal)}</div>
+                </div>
+            `;
+        }
+
+        return html;
     }
 
     limparConsulta() {
