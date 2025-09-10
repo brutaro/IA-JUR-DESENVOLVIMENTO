@@ -345,15 +345,15 @@ class IAJURApp {
                 // Se é JSON estruturado, extrai o conteúdo das seções principais
                 const jsonResp = resposta.resposta_completa;
                 respostaTexto = `CONSULTA: ${jsonResp.consulta_recebida || pergunta}\n\n`;
-                
+
                 if (jsonResp.resposta_imediata?.conteudo) {
                     respostaTexto += `RESPOSTA RÁPIDA:\n${jsonResp.resposta_imediata.conteudo}\n\n`;
                 }
-                
+
                 if (jsonResp.resumo_explicativo?.conteudo) {
                     respostaTexto += `RESUMO EXPLICATIVO:\n${jsonResp.resumo_explicativo.conteudo}\n\n`;
                 }
-                
+
                 if (jsonResp.detalhamento_juridico?.topicos) {
                     respostaTexto += `ANÁLISE TÉCNICA DETALHADA:\n`;
                     jsonResp.detalhamento_juridico.topicos.forEach(topico => {
@@ -361,15 +361,15 @@ class IAJURApp {
                     });
                     respostaTexto += '\n';
                 }
-                
+
                 if (jsonResp.implicacoes_praticas?.conteudo) {
                     respostaTexto += `IMPLICAÇÕES PRÁTICAS:\n${jsonResp.implicacoes_praticas.conteudo}\n\n`;
                 }
-                
+
                 if (jsonResp.fontes_consultadas?.lista) {
                     respostaTexto += `FONTES CONSULTADAS:\n${jsonResp.fontes_consultadas.lista.join('\n')}\n\n`;
                 }
-                
+
                 if (jsonResp.aviso_legal) {
                     respostaTexto += `AVISO LEGAL:\n${jsonResp.aviso_legal}`;
                 }
@@ -451,6 +451,11 @@ class IAJURApp {
                         });
                     }
                 });
+
+                // Limpa entradas antigas com [object Object]
+                this.queryHistory = this.queryHistory.filter(consulta => 
+                    consulta.resposta !== '[object Object]'
+                );
 
                 // Salva o histórico atualizado
                 this.salvarHistorico();
@@ -550,10 +555,17 @@ class IAJURApp {
                 this.mostrarNotificacao('Download do arquivo TXT iniciado!', 'success');
             } else {
                 // Se é uma consulta do localStorage, gera o arquivo
+                // Verifica se a resposta é [object Object] e tenta corrigir
+                let respostaTexto = consulta.resposta;
+                if (respostaTexto === '[object Object]' || respostaTexto === 'N/A') {
+                    // Tenta extrair do histórico do chat se disponível
+                    respostaTexto = 'Resposta não disponível no histórico. Esta consulta foi realizada antes da correção do sistema.';
+                }
+                
                 const conteudo = `IA-JUR - Consulta Jurídica\n` +
                                 `========================\n\n` +
                                 `Pergunta: ${consulta.pergunta}\n\n` +
-                                `Resposta:\n${consulta.resposta}\n\n` +
+                                `Resposta:\n${respostaTexto}\n\n` +
                                 `Data: ${new Date(consulta.timestamp).toLocaleString('pt-BR')}\n` +
                                 `Duração: ${consulta.duracao}s\n` +
                                 `Fontes: ${consulta.fontes}\n` +
