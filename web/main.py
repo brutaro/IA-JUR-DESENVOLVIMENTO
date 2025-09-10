@@ -144,7 +144,6 @@ class ConsultaRequest(BaseModel):
 class ConsultaResponse(BaseModel):
     resposta_completa: Union[str, Dict[str, Any]]  # Suporta tanto texto quanto JSON estruturado
     fontes: int  # Número de fontes encontradas
-    principais_fontes: List[str] = []  # Lista das principais fontes
     workflow_id: str
     duracao: float
     timestamp: str
@@ -250,18 +249,15 @@ async def processar_consulta(consulta: ConsultaRequest):
             if 'resposta_imediata' in json_response:
                 resposta_completa = json_response
                 fontes = json_response.get('total_documents', resultado.get('total_documents', 0))
-                principais_fontes = json_response.get('principais_fontes', resultado.get('principais_fontes', []))
             else:
                 # Fallback para formato antigo
                 resposta_completa = synthesis
                 fontes = resultado.get('total_documents', 0)
-                principais_fontes = resultado.get('principais_fontes', [])
 
         except (json.JSONDecodeError, TypeError):
             # Se não for JSON válido, usa formato antigo
             resposta_completa = synthesis
             fontes = resultado.get('total_documents', 0)
-            principais_fontes = resultado.get('principais_fontes', [])
 
         workflow_id = f"wf_{int(time.time())}"
 
@@ -291,7 +287,6 @@ async def processar_consulta(consulta: ConsultaRequest):
         response_data = {
             'resposta_completa': resposta_completa,
             'fontes': fontes,
-            'principais_fontes': principais_fontes,
             'workflow_id': workflow_id,
             'duracao': duracao,
             'timestamp': datetime.now().isoformat(),

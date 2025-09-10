@@ -155,37 +155,7 @@ class IAJURApp {
 
         document.getElementById('resposta-completa').innerHTML = conteudoResposta;
 
-        // Atualiza principais fontes
-        const principaisFontes = data.principais_fontes || [];
-        const fontesHtml = principaisFontes.length > 0
-            ? principaisFontes.map(fonte => `• ${fonte}`).join('<br>')
-            : 'Nenhuma fonte específica identificada';
-
-        // Força a exibição das fontes
-        const fontesElement = document.getElementById('principais-fontes');
-        if (fontesElement) {
-            // Remove todas as classes que podem estar ocultando
-            fontesElement.classList.remove('hidden');
-
-            // Atualiza o conteúdo
-            fontesElement.innerHTML = fontesHtml;
-
-            // Força todos os estilos de exibição
-            fontesElement.style.display = 'block';
-            fontesElement.style.visibility = 'visible';
-            fontesElement.style.opacity = '1';
-            fontesElement.style.height = 'auto';
-            fontesElement.style.overflow = 'visible';
-
-            // Verifica se o elemento pai também está visível
-            const fontesSection = fontesElement.closest('.fontes-section');
-            if (fontesSection) {
-                fontesSection.classList.remove('hidden');
-                fontesSection.style.display = 'block';
-                fontesSection.style.visibility = 'visible';
-                fontesSection.style.opacity = '1';
-            }
-        }
+        // Seção de fontes removida - agora integrada na estrutura JSON
 
         resultados.classList.remove('hidden');
     }

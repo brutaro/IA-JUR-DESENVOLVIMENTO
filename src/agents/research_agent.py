@@ -133,7 +133,7 @@ Sempre finalize a resposta com o seguinte texto:
 
 # Regras de Saída (Críticas)
 
-1. **Formato JSON Exclusivo:** Sua resposta deve ser APENAS o código JSON. Não inclua texto, introduções, comentários ou os marcadores ```json antes ou depois do objeto JSON.
+1. **Formato JSON Exclusivo:** Sua resposta deve ser APENAS o código JSON puro. NÃO inclua texto, introduções, comentários, marcadores ```json ou ``` antes ou depois do objeto JSON. Responda diretamente com o JSON válido.
 2. **Estrutura Rígida:** Siga exatamente a estrutura de chaves e valores definida abaixo. Todos os campos são obrigatórios.
 3. **Instruções de Preenchimento:** Para cada campo, siga a instrução específica descrita nos comentários (`//`) para garantir que o conteúdo atenda ao público-alvo correto.
 
@@ -165,7 +165,7 @@ Sempre finalize a resposta com o seguinte texto:
   "fontes_consultadas": {{
       "titulo": "Principais Fontes",
       "lista": [
-          "// IMPORTANTE: Liste APENAS as fontes que estão explicitamente mencionadas nos documentos fornecidos acima. NÃO invente ou adicione fontes que não estão nos documentos. Use exatamente os títulos e referências que aparecem nos documentos do Pinecone."
+          "// CRÍTICO: Liste APENAS os títulos dos documentos/notas técnicas que foram pesquisados no Pinecone (ex: 'Nota Técnica 30/2022', 'Parecer 393/2013'). NÃO inclua leis, resoluções ou outros documentos que são apenas citados dentro dessas notas. Esta seção deve mostrar apenas os documentos que foram efetivamente consultados na busca."
       ]
   }},
   "aviso_legal": "Atenção: Esta é uma análise baseada nas informações fornecidas e na legislação vigente. Não constitui aconselhamento jurídico formal. Para casos concretos, é fundamental consultar um advogado ou o setor de recursos humanos do seu órgão."
@@ -181,7 +181,18 @@ RESPOSTA JSON:"""
             # 5. Processa resposta JSON
             try:
                 import json
+                import re
                 response_text = response.text if response else "Erro na resposta"
+
+                self.logger.info(f"Resposta bruta do Gemini: {response_text[:200]}...")
+
+                # Remove marcadores ```json se existirem
+                if "```json" in response_text:
+                    # Extrai apenas o conteúdo JSON entre os marcadores
+                    json_match = re.search(r'```json\s*(.*?)\s*```', response_text, re.DOTALL)
+                    if json_match:
+                        response_text = json_match.group(1).strip()
+                        self.logger.info(f"JSON extraído: {response_text[:200]}...")
 
                 # Tenta fazer parse do JSON
                 json_response = json.loads(response_text)

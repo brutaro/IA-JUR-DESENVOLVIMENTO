@@ -320,14 +320,12 @@ body {
 }
 
 .resumo-section,
-.resposta-section,
-.fontes-section {
+.resposta-section {
     margin-bottom: 2rem;
 }
 
 .resumo-section h4,
-.resposta-section h4,
-.fontes-section h4 {
+.resposta-section h4 {
     color: #333;
     margin-bottom: 1rem;
     display: flex;
@@ -336,8 +334,7 @@ body {
 }
 
 .resumo-text,
-.resposta-text,
-.fontes-text {
+.resposta-text {
     background: white;
     padding: 1.5rem;
     border-radius: 10px;
