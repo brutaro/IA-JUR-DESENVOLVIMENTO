@@ -453,7 +453,7 @@ class IAJURApp {
                 });
 
                 // Limpa entradas antigas com [object Object]
-                this.queryHistory = this.queryHistory.filter(consulta => 
+                this.queryHistory = this.queryHistory.filter(consulta =>
                     consulta.resposta !== '[object Object]'
                 );
 
@@ -561,7 +561,7 @@ class IAJURApp {
                     // Tenta extrair do histórico do chat se disponível
                     respostaTexto = 'Resposta não disponível no histórico. Esta consulta foi realizada antes da correção do sistema.';
                 }
-                
+
                 const conteudo = `IA-JUR - Consulta Jurídica\n` +
                                 `========================\n\n` +
                                 `Pergunta: ${consulta.pergunta}\n\n` +
