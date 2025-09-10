@@ -338,10 +338,51 @@ class IAJURApp {
     }
 
     adicionarAoHistorico(pergunta, resposta, duracao) {
+        // Extrai conteúdo textual da resposta (JSON ou string)
+        let respostaTexto = 'N/A';
+        if (resposta.resposta_completa) {
+            if (typeof resposta.resposta_completa === 'object') {
+                // Se é JSON estruturado, extrai o conteúdo das seções principais
+                const jsonResp = resposta.resposta_completa;
+                respostaTexto = `CONSULTA: ${jsonResp.consulta_recebida || pergunta}\n\n`;
+                
+                if (jsonResp.resposta_imediata?.conteudo) {
+                    respostaTexto += `RESPOSTA RÁPIDA:\n${jsonResp.resposta_imediata.conteudo}\n\n`;
+                }
+                
+                if (jsonResp.resumo_explicativo?.conteudo) {
+                    respostaTexto += `RESUMO EXPLICATIVO:\n${jsonResp.resumo_explicativo.conteudo}\n\n`;
+                }
+                
+                if (jsonResp.detalhamento_juridico?.topicos) {
+                    respostaTexto += `ANÁLISE TÉCNICA DETALHADA:\n`;
+                    jsonResp.detalhamento_juridico.topicos.forEach(topico => {
+                        respostaTexto += `\n${topico.termo_chave}:\n${topico.analise_tecnica}\n`;
+                    });
+                    respostaTexto += '\n';
+                }
+                
+                if (jsonResp.implicacoes_praticas?.conteudo) {
+                    respostaTexto += `IMPLICAÇÕES PRÁTICAS:\n${jsonResp.implicacoes_praticas.conteudo}\n\n`;
+                }
+                
+                if (jsonResp.fontes_consultadas?.lista) {
+                    respostaTexto += `FONTES CONSULTADAS:\n${jsonResp.fontes_consultadas.lista.join('\n')}\n\n`;
+                }
+                
+                if (jsonResp.aviso_legal) {
+                    respostaTexto += `AVISO LEGAL:\n${jsonResp.aviso_legal}`;
+                }
+            } else {
+                // Se é string simples
+                respostaTexto = resposta.resposta_completa;
+            }
+        }
+
         const consulta = {
             id: Date.now(),
             pergunta: pergunta,
-            resposta: resposta.resposta_completa || 'N/A',
+            resposta: respostaTexto,
             duracao: duracao,
             fontes: resposta.fontes || 0,
             timestamp: new Date().toISOString(),
