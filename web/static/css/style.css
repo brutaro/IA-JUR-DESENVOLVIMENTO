@@ -320,12 +320,14 @@ body {
 }
 
 .resumo-section,
-.resposta-section {
+.resposta-section,
+.fontes-section {
     margin-bottom: 2rem;
 }
 
 .resumo-section h4,
-.resposta-section h4 {
+.resposta-section h4,
+.fontes-section h4 {
     color: #333;
     margin-bottom: 1rem;
     display: flex;
@@ -334,7 +336,8 @@ body {
 }
 
 .resumo-text,
-.resposta-text {
+.resposta-text,
+.fontes-text {
     background: white;
     padding: 1.5rem;
     border-radius: 10px;
@@ -510,36 +513,36 @@ body {
         flex-direction: column;
         gap: 1rem;
     }
-    
+
     .nav-menu ul {
         flex-direction: column;
         gap: 1rem;
     }
-    
+
     .welcome-content h2 {
         font-size: 2rem;
     }
-    
+
     .features-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .consulta-section,
     .historico-section,
     .metricas-section,
     .sobre-section {
         padding: 2rem;
     }
-    
+
     .form-actions {
         flex-direction: column;
     }
-    
+
     .resultado-meta {
         flex-direction: column;
         gap: 1rem;
     }
-    
+
     .resultado-actions {
         flex-direction: column;
     }

@@ -9,7 +9,7 @@ import sys
 import time
 import json
 from datetime import datetime
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List
 from pathlib import Path
 
 # Adiciona o diretório raiz ao path para importar os módulos do agente
@@ -25,9 +25,8 @@ from pydantic import BaseModel, Field, field_validator
 import uvicorn
 import logging
 
-# Importa o agente de pesquisa existente
-from src.agents.simple_orchestrator import SimpleLegalOrchestrator
-from src.memory.context_manager import ContextManager
+# Importa o agente ultra simplificado (sem memória)
+from src.agents.ultra_simple_agent import UltraSimpleAgent
 
 # Configuração do logger
 logger = logging.getLogger(__name__)
@@ -75,8 +74,7 @@ def save_chat_entry(user_message: str, assistant_response: str) -> None:
 # Instância do orquestrador (inicializada lazy)
 orchestrator = None
 
-# Instância do gerenciador de contexto
-context_manager = None
+# Sistema simplificado não precisa de context_manager separado
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -91,7 +89,7 @@ async def lifespan(app: FastAPI):
         get_orchestrator()
 
         # Inicializa o gerenciador de contexto
-        get_context_manager()
+        # Sistema simplificado não precisa de context_manager separado
 
         logger.info("✅ Sistema IA-JUR iniciado com sucesso!")
     except Exception as e:
@@ -144,9 +142,9 @@ class ConsultaRequest(BaseModel):
         return v.strip()
 
 class ConsultaResponse(BaseModel):
-    resumo: str
     resposta_completa: str
     fontes: int  # Número de fontes encontradas
+    principais_fontes: List[str] = []  # Lista das principais fontes
     workflow_id: str
     duracao: float
     timestamp: str
@@ -201,29 +199,15 @@ def get_orchestrator():
             # Configura LLMs
             llm_configs = configurar_llms()
 
-            # Cria orquestrador com configuração correta
-            orchestrator = SimpleLegalOrchestrator(llm_configs, output_dir='./respostas')
+            # Cria agente ultra simplificado (sem memória)
+            orchestrator = UltraSimpleAgent(llm_configs)
             logger.info("✅ Orquestrador inicializado com sucesso")
         except Exception as e:
             logger.error(f"❌ Erro ao inicializar orquestrador: {e}")
             raise
     return orchestrator
 
-def get_context_manager():
-    """Inicializa o gerenciador de contexto de forma lazy"""
-    global context_manager
-    if context_manager is None:
-        try:
-            # Cria gerenciador de contexto
-            context_manager = ContextManager(
-                max_context_size=10,
-                memory_file=CHAT_HISTORY_PATH
-            )
-            logger.info("✅ ContextManager inicializado com sucesso")
-        except Exception as e:
-            logger.error(f"❌ Erro ao inicializar ContextManager: {e}")
-            raise
-    return context_manager
+# Função removida - sistema simplificado gerencia contexto internamente
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -244,47 +228,22 @@ async def processar_consulta(consulta: ConsultaRequest):
     start_time = time.time()
 
     try:
-        # Obtém o orquestrador e gerenciador de contexto
+        # Obtém o orquestrador simplificado
         orch = get_orchestrator()
-        ctx_manager = get_context_manager()
 
-        # Analisa contexto da consulta
-        context_info = ctx_manager.get_context_for_query(consulta.pergunta)
-
-        # Processa a consulta
+        # Processa a consulta com agente ultra simplificado
         logger.info(f"🔍 Processando consulta: {consulta.pergunta[:100]}...")
-        if context_info['is_followup']:
-            logger.info(f"📝 Follow-up detectado (score: {context_info['followup_score']:.2f})")
-
-            # Enriquece a consulta com contexto se for follow-up
-            if context_info['relevant_history']:
-                contexto_texto = "\n".join([
-                    f"Pergunta anterior: {entry['user']}\nResposta: {entry['assistant'][:300]}..."
-                    for entry in context_info['relevant_history']
-                ])
-                consulta_enriquecida = f"""CONSULTA ATUAL: {consulta.pergunta}
-
-CONTEXTO DAS CONVERSAS ANTERIORES:
-{contexto_texto}
-
-Por favor, responda à consulta atual considerando o contexto das conversas anteriores."""
-                logger.info("📝 Consulta enriquecida com contexto")
-            else:
-                consulta_enriquecida = consulta.pergunta
-        else:
-            consulta_enriquecida = consulta.pergunta
-
-        # Chama o orquestrador existente (é assíncrono)
-        resultado = await orch.process_query(consulta_enriquecida)
+        resultado = await orch.process(consulta.pergunta)
 
         end_time = time.time()
         duracao = end_time - start_time
 
-        # Extrai informações do resultado (mapeia campos corretos)
-        resumo = resultado.get('summary', 'Resumo não disponível')
-        resposta_completa = resultado.get('formatted_response', 'Resposta não disponível')
-        fontes = resultado.get('sources_found', 0)  # Número real de fontes encontradas
-        workflow_id = resultado.get('metadata', {}).get('workflow_id', f"wf_{int(time.time())}")
+        # Extrai informações do resultado (mapeia campos do agente ultra simplificado)
+        synthesis = resultado.get('synthesis', 'Resposta não disponível')
+        resposta_completa = synthesis
+        fontes = resultado.get('total_documents', 0)
+        principais_fontes = resultado.get('principais_fontes', [])
+        workflow_id = f"wf_{int(time.time())}"
 
         # Atualiza métricas
         metrics["total_consultas"] += 1
@@ -299,12 +258,7 @@ Por favor, responda à consulta atual considerando o contexto das conversas ante
 
         logger.info(f"✅ Consulta processada em {duracao:.2f}s")
 
-        # Adiciona interação ao contexto (não bloqueia a resposta)
-        # IMPORTANTE: Salva apenas a pergunta original e a resposta completa
-        try:
-            ctx_manager.add_interaction(consulta.pergunta, resposta_completa)
-        except Exception as e:
-            logger.warning(f"Erro ao adicionar ao contexto: {e}")
+        # Sistema simplificado gerencia contexto internamente
 
         # Salva no chat history (mantém compatibilidade)
         # IMPORTANTE: Salva apenas a pergunta original e a resposta completa
@@ -315,22 +269,14 @@ Por favor, responda à consulta atual considerando o contexto das conversas ante
 
         # Adiciona informações de contexto à resposta
         response_data = {
-            'resumo': resumo,
             'resposta_completa': resposta_completa,
             'fontes': fontes,
+            'principais_fontes': principais_fontes,
             'workflow_id': workflow_id,
             'duracao': duracao,
             'timestamp': datetime.now().isoformat(),
-            'is_followup': context_info.get('is_followup', False)
+            'is_followup': False
         }
-
-        # Adiciona contexto se for follow-up (versão simplificada)
-        if context_info.get('is_followup', False):
-            response_data['contexto'] = {
-                'is_followup': True,
-                'followup_score': context_info.get('followup_score', 0.0),
-                'context_size': context_info.get('context_window_size', 0)
-            }
 
         return ConsultaResponse(**response_data)
 
@@ -425,13 +371,9 @@ async def get_context_info():
     Retorna informações do contexto atual
     """
     try:
-        ctx_manager = get_context_manager()
-        context_summary = ctx_manager.get_context_summary()
-        recent_queries = ctx_manager.get_recent_queries(limit=5)
-
+        orch = get_orchestrator()
         return {
-            "context_summary": context_summary,
-            "recent_queries": recent_queries,
+            "status": "Agente ultra simplificado funcionando",
             "timestamp": datetime.now().isoformat()
         }
     except Exception as e:
@@ -444,11 +386,8 @@ async def clear_context():
     Limpa o contexto de conversação
     """
     try:
-        ctx_manager = get_context_manager()
-        ctx_manager.clear_context()
-
         return {
-            "message": "Contexto limpo com sucesso",
+            "message": "Agente ultra simplificado não tem memória para limpar",
             "timestamp": datetime.now().isoformat()
         }
     except Exception as e:

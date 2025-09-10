@@ -143,8 +143,39 @@ class IAJURApp {
         // Indicador de follow-up removido - não é necessário
 
         // Atualiza conteúdo
-        document.getElementById('resumo').innerHTML = this.formatarTexto(data.resumo || 'N/A');
         document.getElementById('resposta-completa').innerHTML = this.formatarTexto(data.resposta_completa || 'N/A');
+
+        // Atualiza principais fontes
+        const principaisFontes = data.principais_fontes || [];
+        const fontesHtml = principaisFontes.length > 0
+            ? principaisFontes.map(fonte => `• ${fonte}`).join('<br>')
+            : 'Nenhuma fonte específica identificada';
+
+        // Força a exibição das fontes
+        const fontesElement = document.getElementById('principais-fontes');
+        if (fontesElement) {
+            // Remove todas as classes que podem estar ocultando
+            fontesElement.classList.remove('hidden');
+
+            // Atualiza o conteúdo
+            fontesElement.innerHTML = fontesHtml;
+
+            // Força todos os estilos de exibição
+            fontesElement.style.display = 'block';
+            fontesElement.style.visibility = 'visible';
+            fontesElement.style.opacity = '1';
+            fontesElement.style.height = 'auto';
+            fontesElement.style.overflow = 'visible';
+
+            // Verifica se o elemento pai também está visível
+            const fontesSection = fontesElement.closest('.fontes-section');
+            if (fontesSection) {
+                fontesSection.classList.remove('hidden');
+                fontesSection.style.display = 'block';
+                fontesSection.style.visibility = 'visible';
+                fontesSection.style.opacity = '1';
+            }
+        }
 
         resultados.classList.remove('hidden');
     }
@@ -246,7 +277,7 @@ class IAJURApp {
         const consulta = {
             id: Date.now(),
             pergunta: pergunta,
-            resposta: resposta.resposta_completa || resposta.resumo || 'N/A',
+            resposta: resposta.resposta_completa || 'N/A',
             duracao: duracao,
             fontes: resposta.fontes || 0,
             timestamp: new Date().toISOString(),
@@ -761,18 +792,18 @@ style.textContent = `
     }
 
     /* Estilos para textos formatados */
-    .resumo strong, .resposta-completa strong {
+    .resposta-completa strong {
         color: #2c3e50;
         font-weight: 700;
         font-size: 1.05em;
     }
 
-    .resumo, .resposta-completa {
+    .resposta-completa {
         line-height: 1.6;
         color: #34495e;
     }
 
-    .resumo strong:first-child, .resposta-completa strong:first-child {
+    .resposta-completa strong:first-child {
         color: #1a252f;
         font-size: 1.1em;
         display: block;

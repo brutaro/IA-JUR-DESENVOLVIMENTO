@@ -1,0 +1,71 @@
+Resposta do Agente local do projeto:
+
+
+Pergunta: Como o Estatuto do Servidor Público Federal trata a equiparação de companheira ao cônjuge?
+
+Resposta:
+
+ Resposta da Consulta
+11.61s
+13 fontes
+research_workflow_20250910_105706
+Resumo Executivo
+Com base nos documentos fornecidos, não há informações que detalhem como o Estatuto do Servidor Público Federal (Lei nº 8.112/1990) trata a equiparação de companheira ao cônjuge. Os documentos tratam principalmente da distinção entre servidores estatutários e empregados públicos, da aplicação da Lei nº 8.112/1990 a servidores estatutários e de outras questões administrativas e de pessoal, sem abordar a matéria de equiparação de companheira ao cônjuge para fins de direitos e benefícios.
+Resposta Completa
+RESPOSTA À PERGUNTA
+
+Consulta Realizada
+Como o Estatuto do Servidor Público Federal trata a equiparação de companheira ao cônjuge?
+
+Resultado da Pesquisa
+Com base nos documentos fornecidos, não há informações que detalhem como o Estatuto do Servidor Público Federal (Lei nº 8.112/1990) trata a equiparação de companheira ao cônjuge. Os documentos tratam principalmente da distinção entre servidores estatutários e empregados públicos, da aplicação da Lei nº 8.112/1990 a servidores estatutários e de outras questões administrativas e de pessoal, sem abordar a matéria de equiparação de companheira ao cônjuge para fins de direitos e benefícios.
+
+Fontes Consultadas
+13 fontes encontradas
+
+Principais Fontes
+- 84/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE (Relevância: 76.3%)
+- 67/2021/COLEG/CGGP/DAF/DNIT SEDE (Relevância: 75.1%)
+- 48/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE (Relevância: 75.1%)
+
+
+
+Resposta do agente em produção:
+
+Pergunta: Como o Estatuto do Servidor Público Federal trata a equiparação de companheira ao cônjuge?
+
+
+Resposta:
+
+ Resposta da Consulta
+15.49s
+11 fontes
+research_workflow_20250910_135743
+Resumo Executivo
+O Estatuto do Servidor Público Federal (Lei nº 8.112/90) trata a equiparação de companheira ao cônjuge em situações específicas de deslocamento do servidor, visando à preservação da unidade familiar.
+
+Com base nos documentos fornecidos, a equiparação ocorre nos seguintes contextos:
+
+1. **Remoção para Acompanhar:** O direito de remoção de servidor público para acompanhar **cônjuge ou companheiro** que também seja servidor público é amparado pelo art. 36, III, "a", da Lei nº 8.112/90. Este direito é considerado subjetivo do servidor, independentemente da existência de vaga, desde que preenchidos os requisitos legais, conforme detalhado na Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (itens 2.11 e 2.12).
+2. **Exercício Provisório:** No deslocamento de servidor cujo **cônjuge ou companheiro** também seja servidor público (civil ou militar, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios), poderá haver exercício provisório em órgão ou entidade da Administração Federal direta, autárquica ou fundacional. Tal possibilidade depende do exercício de atividade compatível com o cargo do servidor deslocado. Este instituto é aplicável em casos onde não há sede do órgão na localidade de deslocamento do cônjuge ou companheiro, conforme a Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (itens 2.6 e 2.7). A concessão do exercício provisório para acompanhamento de cônjuge, nos termos do art. 84, § 2º, da Lei nº 8.112/90, é admitida em caráter excepcional quando não for possível a aplicação do art. 36, parágrafo único, III, "a", da Lei n.º 8.112/90, conforme Parecer/MP/CONJUR/PFF/Nº490 - 3.26/2009, citado na Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (item 29).
+Resposta Completa
+# RESPOSTA À PERGUNTA
+
+## Consulta Realizada
+Como o Estatuto do Servidor Público Federal trata a equiparação de companheira ao cônjuge?
+
+## Resultado da Pesquisa
+O Estatuto do Servidor Público Federal (Lei nº 8.112/90) trata a equiparação de companheira ao cônjuge em situações específicas de deslocamento do servidor, visando à preservação da unidade familiar.
+
+Com base nos documentos fornecidos, a equiparação ocorre nos seguintes contextos:
+
+1. **Remoção para Acompanhar:** O direito de remoção de servidor público para acompanhar **cônjuge ou companheiro** que também seja servidor público é amparado pelo art. 36, III, "a", da Lei nº 8.112/90. Este direito é considerado subjetivo do servidor, independentemente da existência de vaga, desde que preenchidos os requisitos legais, conforme detalhado na Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (itens 2.11 e 2.12).
+2. **Exercício Provisório:** No deslocamento de servidor cujo **cônjuge ou companheiro** também seja servidor público (civil ou militar, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios), poderá haver exercício provisório em órgão ou entidade da Administração Federal direta, autárquica ou fundacional. Tal possibilidade depende do exercício de atividade compatível com o cargo do servidor deslocado. Este instituto é aplicável em casos onde não há sede do órgão na localidade de deslocamento do cônjuge ou companheiro, conforme a Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (itens 2.6 e 2.7). A concessão do exercício provisório para acompanhamento de cônjuge, nos termos do art. 84, § 2º, da Lei nº 8.112/90, é admitida em caráter excepcional quando não for possível a aplicação do art. 36, parágrafo único, III, "a", da Lei n.º 8.112/90, conforme Parecer/MP/CONJUR/PFF/Nº490 - 3.26/2009, citado na Nota Técnica 72/2021/COLEG/CGGP/DAF/DNIT SEDE (item 29).
+
+## Fontes Consultadas
+11 fontes encontradas
+
+## Principais Fontes
+- 72/2021/COLEG/CGGP/DAF/DNIT SEDE (Relevância: 73.3%)
+- 72/2021/COLEG/CGGP/DAF/DNIT SEDE (Relevância: 72.0%)
+- 84/2021/COLEG - CGGP/CGGP/DAF/DNIT SEDE (Relevância: 70.0%)

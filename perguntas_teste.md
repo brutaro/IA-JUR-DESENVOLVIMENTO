@@ -36,7 +36,7 @@
 **Pergunta:** Qual o fundamento legal para solicitação de subsídios de fato e de direito pela AGU?
 
 ### 12. Portaria AGU 1.547/2008
-**Pergunta:** Quais são as diretrizes da Portaria AGU 1.547/2008 para defesa da União?
+**Pergunta:** Quais são as diretrizes da Portaria AGU 1.547/2008 para defesa da Uniã?o
 
 ### 13. Estatuto do Servidor Público
 **Pergunta:** Como o Estatuto do Servidor Público Federal trata a equiparação de companheira ao cônjuge?

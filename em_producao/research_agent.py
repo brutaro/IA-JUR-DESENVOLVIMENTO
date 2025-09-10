@@ -300,31 +300,20 @@ class UnifiedResearchAgent(BaseAgent):
         return list(set(variants))[:3]  # Máximo 3 variações
 
     async def _execute_pinecone_search(self, query_analysis: Dict) -> List:
-        """Executa busca no Pinecone usando a query original e variações"""
+        """Executa busca no Pinecone usando as variações da consulta"""
         all_results = []
 
-        # SEMPRE busca com a query original primeiro
-        original_query = query_analysis.get('original_query', '')
-        if original_query:
-            try:
-                results = self.search_tool.search(original_query, top_k=10)
-                all_results.extend(results)
-                self.logger.info(f"Busca original: {len(results)} resultados")
-            except Exception as e:
-                self.logger.warning(f"Erro na busca original '{original_query}': {e}")
-
-        # Busca para cada variação da consulta (se houver)
+        # Busca para cada variação da consulta
         for variant in query_analysis['query_variants']:
-            if variant != original_query:  # Evita duplicar a query original
-                try:
-                    results = self.search_tool.search(variant, top_k=5)
-                    all_results.extend(results)
+            try:
+                results = self.search_tool.search(variant, top_k=5)
+                all_results.extend(results)
 
-                    # Pequena pausa para não sobrecarregar
-                    await asyncio.sleep(0.1)
+                # Pequena pausa para não sobrecarregar
+                await asyncio.sleep(0.1)
 
-                except Exception as e:
-                    self.logger.warning(f"Erro na busca para '{variant}': {e}")
+            except Exception as e:
+                self.logger.warning(f"Erro na busca para '{variant}': {e}")
 
         # Remove duplicatas baseado no documento_id
         seen_ids = set()
